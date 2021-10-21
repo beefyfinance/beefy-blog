@@ -1,6 +1,6 @@
 baseURL: "/"
 languageCode: "en-us"
-theme: PaperMod
+theme: Beefy
 relativeUrls: true
 title: Beefy
 
@@ -20,4 +20,15 @@ params:
     enabled: true
     title: Beefy Blog
     subtitle: Moo
+
+# menu:
+#     main:
+#         - identifier: categories
+#           name: categories
+#           url: /categories/
+#           weight: 10
+#         - identifier: tags
+#           name: tags
+#           url: /tags/
+#           weight: 20
 

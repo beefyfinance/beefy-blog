@@ -4,11 +4,14 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: heading
+  label: English
 - type: directory
-  path: content
+  path: content/alpha
   label: Pages
   create: all
-  match: "*"
+  match: "**/*.en.md"
+  new_doc_ext: en.md
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''

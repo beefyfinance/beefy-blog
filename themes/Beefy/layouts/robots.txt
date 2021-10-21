@@ -4,6 +4,4 @@ Disallow:
 {{- else }}
 Disallow: /
 {{- end }}
-User-agent: Twitterbot
-Disallow:
 Sitemap: {{ "sitemap.xml" | absURL }}
