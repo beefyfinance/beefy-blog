@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 theme = "Beefy"
 relativeUrls = true
-title = "Beefy"
+title = "Beefy Finance | Blog"
 
 [sitemap]
 filename = "hidden-sitemap.xml"
@@ -12,14 +12,30 @@ disableThemeToggle = false
 defaultTheme = "auto"
 favicon = '= "./favicon.ico"'
 
+  [params.label]
+  icon = "./favicon.ico"
+  
+
   [params.fonts]
   ubuntu = "https://fonts.googleapis.com/css2?family=Ubuntu&display=swap"
   openSans = "https://fonts.googleapis.com/css2?family=Open+Sans&display=swap"
 
   [params.profileMode]
   enabled = true
-  title = "Beefy Blog"
+  title = "Beefy Finance | Blog"
   subtitle = "Moo"
+
+  [params.footer]
+    blogName = "Blog"
+    appName = "Beefy App"
+    appURL = "https://app.beefy.finance"
+    docsName = "Docs"
+    docsURL = "https://docs.beefy.finance/beefyfinance/"
+    voteName = "Vote"
+    voteURL = "https://vote.beefy.finance/#/"
+    dashboardName = "Dashboard"
+    dashboardURL = "https://dashboard.beefy.finance/"
+    artwork = "/footer/beefy-cows-and-hills.png"
 
 [[menu.main]]
 identifier = "articles"
