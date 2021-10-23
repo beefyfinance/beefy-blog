@@ -30,10 +30,9 @@ Bingo! You just provided liquidity on Beethoven-x, now only what is left is depo
 
 If you interacted with Beefy before, you would have noticed that after you deposited in any Beefy vault, you received in exchange a new token with the prefix “moo” that represents your share in the vault. Beefy always recommends not selling your mooTokens on unsupported platforms, because most of the time this will result in a loss of funds. However lately more and more Dapps are giving utility to mooTokens.
 
-Meet “The Sound Of Moosic” Pool
-Our ghastly friends over at Beethoven-x created a balanced pool for the Cowmoonity, that contains the following assets:
+### **Meet "The sound of moosic" Pool** 
 
-30% wFTM, 30% BEETS, 25% mooBIFI (This is Beefy that has been deposited on the BIFI Maxi vault on Fantom), and 15% BIFI.
+Our ghastly friends over at Beethoven-x created a balanced pool for the Cowmoonity, that contains the following assets: 30% wFTM, 30% BEETS, 25% mooBIFI (This is Beefy that has been deposited on the BIFI Maxi vault on Fantom), and 15% BIFI.
 
 You already know how to invest in this pool from the “How to deposit” section, but just in case, we will leave you an explanatory image on the process.
 
