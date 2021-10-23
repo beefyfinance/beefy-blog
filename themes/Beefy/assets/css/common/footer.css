@@ -53,9 +53,12 @@
     filter: drop-shadow(0px 0px 0px var(--theme));
 }
 
-.footer a:hover,
 .top-link:hover {
-    color: var(--secondary);
+    background: var(--tertiary-hover);
+}
+
+.footer a:hover {
+    color: var(--tertiary-hover);
 }
 
 .top-link:focus,
