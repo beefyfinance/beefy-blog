@@ -1,3 +1,7 @@
+.post-single {
+    margin: var(--content-gap) 20vw;
+}
+
 .page-header,
 .post-header {
     margin: 24px auto var(--content-gap) auto;
