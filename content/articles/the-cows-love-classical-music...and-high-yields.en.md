@@ -28,9 +28,15 @@ To provide liquidity without suffering slippage, you have to provide the tokens 
 
 Bingo! You just provided liquidity on Beethoven-x, now only what is left is depositing that LP tokens in Beefy, and let the Cow do the auto-compounding for you. Wasn’t that simple? Now that you are a Liquidity Pool expert you can enjoy these sweet APYs in the following vaults:
 
-![](/uploads/beeth-new-vaults-2021-oct-1.png#center)
+![](/uploads/image0-2.png)
 
-![](/uploads/beeth-new-vaults-2021-oct-2.png#center)
+![](/uploads/b-x-v.png)
+
+![](/uploads/fan3.png)
+
+![](/uploads/fan2.png)
+
+![](/uploads/fantom_3_vaults.png)
 
 ### **What are mooTokens?**
 
