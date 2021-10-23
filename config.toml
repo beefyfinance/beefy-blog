@@ -20,3 +20,9 @@ favicon = '= "./favicon.ico"'
   enabled = true
   title = "Beefy Blog"
   subtitle = "Moo"
+
+[[menu.main]]
+identifier = "articles"
+name = "articles"
+url = "/articles/"
+weight = 10
