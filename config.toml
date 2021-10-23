@@ -1,28 +1,18 @@
 baseURL = "/"
 languageCode = "en-us"
-theme = "Beefy"
 relativeUrls = true
+theme = "Beefy"
 title = "Beefy"
-
+[params]
+defaultTheme = "auto"
+disableThemeToggle = false
+favicon = "= \"./favicon.ico\""
+[params.fonts]
+openSans = "https://fonts.googleapis.com/css2?family=Open+Sans&display=swap"
+ubuntu = "https://fonts.googleapis.com/css2?family=Ubuntu&display=swap"
+[params.profileMode]
+enabled = true
+subtitle = "Moo"
+title = "Beefy Blog"
 [sitemap]
 filename = "hidden-sitemap.xml"
-
-[params]
-disableThemeToggle = false
-defaultTheme = "auto"
-favicon = '= "./favicon.ico"'
-
-  [params.fonts]
-  ubuntu = "https://fonts.googleapis.com/css2?family=Ubuntu&display=swap"
-  openSans = "https://fonts.googleapis.com/css2?family=Open+Sans&display=swap"
-
-  [params.profileMode]
-  enabled = true
-  title = "Beefy Blog"
-  subtitle = "Moo"
-
-[[menu.main]]
-identifier = "articles"
-name = "articles"
-url = "/articles/"
-weight = 10
