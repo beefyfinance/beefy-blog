@@ -1,5 +1,8 @@
 .post-single {
-    margin: var(--content-gap) 20vw;
+    min-height: calc(100vh - var(--header-height) - var(--footer-height));
+    max-width: calc(var(--main-width) + var(--gap) * 2);
+    padding: var(--gap);
+    margin: auto;
 }
 
 .page-header,
