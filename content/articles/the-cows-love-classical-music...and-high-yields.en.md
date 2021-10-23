@@ -10,6 +10,8 @@ name = "Articles"
 weight = 1
 
 +++
+![](/uploads/beeth.png)
+
 ### **About BeethovenX**
 
 BeethovenX is a one-stop decentralized investment platform on Fantom Opera.
@@ -34,7 +36,7 @@ Bingo! You just provided liquidity on Beethoven-x, now only what is left is depo
 
 If you interacted with Beefy before, you would have noticed that after you deposited in any Beefy vault, you received in exchange a new token with the prefix “moo” that represents your share in the vault. Beefy always recommends not selling your mooTokens on unsupported platforms, because most of the time this will result in a loss of funds. However lately more and more Dapps are giving utility to mooTokens.
 
-### **Meet "The sound of moosic" Pool** 
+### **Meet "The sound of moosic" Pool**
 
 Our ghastly friends over at Beethoven-x created a balanced pool for the Cowmoonity, that contains the following assets: 30% wFTM, 30% BEETS, 25% mooBIFI (This is Beefy that has been deposited on the BIFI Maxi vault on Fantom), and 15% BIFI.
 
