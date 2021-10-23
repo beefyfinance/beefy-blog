@@ -46,6 +46,6 @@ If you interacted with Beefy before, you would have noticed that after you depos
 
 Our ghastly friends over at Beethoven-x created a balanced pool for the Cowmoonity, that contains the following assets: 30% wFTM, 30% BEETS, 25% mooBIFI (This is Beefy that has been deposited on the BIFI Maxi vault on Fantom), and 15% BIFI.
 
-You already know how to invest in this pool from the “How to deposit” section, but just in case, we will leave you an explanatory image on the process.
+You already know how to invest in this pool from the “How to deposit” section, but just in case, we will leave you an explanatory image on the process. 
 
 ![](/uploads/d6.png)
