@@ -48,4 +48,4 @@ Our ghastly friends over at Beethoven-x created a balanced pool for the Cowmooni
 
 You already know how to invest in this pool from the “How to deposit” section, but just in case, we will leave you an explanatory image on the process.
 
-![](/uploads/bifi-moobifi-balancer.png#center)
+![](/uploads/d6.png)
