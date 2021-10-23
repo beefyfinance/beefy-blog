@@ -1,19 +1,19 @@
 baseURL = "/"
 languageCode = "en-us"
-theme = "Beefy"
 relativeUrls = true
 title = "Beefy Finance | Blog"
+theme = "Beefy"
 
 [sitemap]
 filename = "hidden-sitemap.xml"
 
 [params]
-disableThemeToggle = false
 defaultTheme = "auto"
 favicon = '= "./favicon.ico"'
+disableThemeToggle = false
 
   [params.label]
-  icon = "./favicon.ico"
+  icon = "/beefy/beefy-cow.png"
   
 
   [params.fonts]
