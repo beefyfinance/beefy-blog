@@ -41,6 +41,6 @@ You can mint MAI directly from Mai.Finance, at 0% interest, and get charged a 0.
 
 Currently to get MAI you need to supply your mooTokens into market.xyz, and activate them as Collateral. After that you will be able to borrow MAI at a variable rate depending of the utilisation of the pool.
 
-![](https://lh4.googleusercontent.com/eqA6qUBWEtwyiu5gYa8xwLlI3GhHok9-D5LseyBNt2Yiv0GVQ3GdrPyno_mxL2OiIggYaQEu7cPqrnXxsYVXYY97wW3xok805aEFxdGm9vR8eosyLj0mKQ7K4gTXAwjjykjIrSF8 =602x225)
+![](/uploads/market.png)
 
 In the near future QIDAO will be accepting mooTokens as collateral to Mint MAI directly on their site, how it’s currently available with other tokens like camTokens (Compounding AAVE Market Tokens, or receipts of tokens deposited on AAVE).
