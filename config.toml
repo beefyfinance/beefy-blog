@@ -11,6 +11,7 @@ filename = "hidden-sitemap.xml"
 defaultTheme = "auto"
 favicon = '= "./favicon.ico"'
 disableThemeToggle = false
+showFooterLinks = true
 
   [params.label]
   icon = "/beefy/beefy-cow.png"
@@ -26,16 +27,24 @@ disableThemeToggle = false
   subtitle = "Moo"
 
   [params.footer]
-    blogName = "Blog"
-    appName = "Beefy App"
-    appURL = "https://app.beefy.finance"
-    docsName = "Docs"
-    docsURL = "https://docs.beefy.finance/beefyfinance/"
-    voteName = "Vote"
-    voteURL = "https://vote.beefy.finance/#/"
-    dashboardName = "Dashboard"
-    dashboardURL = "https://dashboard.beefy.finance/"
-    artwork = "/footer/beefy-cows-and-hills.png"
+  blogName = "Blog"
+  appName = "Beefy App"
+  appURL = "https://app.beefy.finance"
+  docsName = "Docs"
+  docsURL = "https://docs.beefy.finance/beefyfinance/"
+  voteName = "Vote"
+  voteURL = "https://vote.beefy.finance/#/"
+  dashboardName = "Dashboard"
+  dashboardURL = "https://dashboard.beefy.finance/"
+  artwork = "/footer/beefy-cows-and-hills.png"
+  github = "/footer/github.svg"
+  telegram = "/footer/telegram.svg"
+  discord = "/footer/discord.svg"
+  youtube = "/footer/youtube.svg"
+  medium = "/footer/medium.svg"
+  twitter = "/footer/twitter.svg"
+
+  
 
 [[menu.main]]
 identifier = "articles"
