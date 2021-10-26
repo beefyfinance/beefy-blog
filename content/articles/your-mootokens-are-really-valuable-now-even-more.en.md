@@ -7,7 +7,7 @@ sub_header = "Your mooTokens are really valuable, now, even more.\nBeefy x QiDAO
 title = "Your mooTokens are really valuable, now, even more."
 
 +++
-It’s well-known the Beefy Cowmoonity loves a good stablecoin. So what could be better than using your mooTokens to get stablecoins you can use to make some sweet gains? Don’t let your mooTokens gather dust and get to know our brand new partnerships with QiDao and Market.xyz. You’ll be _moo_ving your mooTickets over in no time.
+It’s well-known the Beefy Cowmoonity loves a good stablecoin. So what could be better than using your mooTokens to get stablecoins you can use to make some sweet gains? Don’t let your mooTokens gather dust and get to know our brand new partnerships with QiDao and Market.xyz. You’ll be mooving your mooTickets over in no time.
 
 ## What is the QiDao Protocol?
 
@@ -21,7 +21,6 @@ With Market.xyz, users can instantly access liquidity and leverage their assets�
 
 ## What are mooTokens?
 
-  
 Anytime you deposit in a Beefy vault, you’ll receive mooTokens as a receipt. For example, if you deposit BNB into the BNB Vault, you’ll receive mooBNB tokens that represent your share of the vault. The amount won’t match 1:1, but you’ll always get back your original deposit plus any interest earned. Beefy always recommends not selling your mooTokens on unsupported platforms, because most of the time this will result in a loss of funds. However lately more and more Dapps are giving utility to mooTokens. This means that you can deposit your mooTokens in other projects like QiDao or Market.xyz, or provide liquidity on BeethovenX.
 
 ## What chains and mooTokens are supported?
