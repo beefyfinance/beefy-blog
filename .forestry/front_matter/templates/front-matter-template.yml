@@ -41,3 +41,5 @@ fields:
     schema:
       format: markdown
   label: Short Description
+pages:
+- content/articles/your-mootokens-are-really-valuable-now-even-more.en.md
