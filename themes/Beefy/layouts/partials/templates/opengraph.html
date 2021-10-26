@@ -2,6 +2,8 @@
 <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}" />
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
 <meta property="og:url" content="{{ .Permalink }}" />
+<meta property="og:base_url" content="{{ .Site.BaseURL }}" />
+
 {{- if .Params.cover.image -}}
 {{- if (ne .Params.cover.relative true) }}
 <meta property="og:image" content="{{ .Params.cover.image | absURL }}" />
@@ -29,6 +31,26 @@
 <meta property="article:section" content="{{ .Section }}" />
 {{ with .PublishDate }}<meta property="article:published_time" content="{{ .Format $iso8601 }}" />{{ end }}
 {{ with .Lastmod }}<meta property="article:modified_time" content="{{ .Format $iso8601 }}" />{{ end }}
+{{ if .Params.header_image }}
+<meta property="article:header_image" content="{{ .Params.header_image }}" />
+<meta property="og:image" content="blog.beefy.finance{{ .Params.header_image | relURL }}" />
+<meta property="twitter:image" content="blog.beefy.finance{{ .Params.header_image | relURL }}" />
+<meta name="twitter:image:src" content="https://blog.beefy.finance{{ .Params.header_image | relURL }}" />
+<meta name="twitter:image:width" content="1440" />
+<meta name="twitter:image:height" content="910" />
+<meta name="twitter:card" content="summary_large_image"/>
+{{ end }}
+{{ if .Params.sub_header }}
+<meta property="article:sub_header" content="{{ .Params.sub_header }}" />
+<meta property="og:title" content="{{ .Params.sub_header }}"/>
+<meta name="twitter:title" content="{{ .Params.sub_header }}"/>
+{{ end }}
+{{ if .Params.short_description }}
+<meta property="article:short_description" content="{{ .Params.short_description }}" />
+<meta property="og:description" content="{{ .Params.short_description }}" />
+<meta name="twitter:description" content="{{ .Params.short_description }}" />
+{{ end }}
+
 {{- end -}}
 
 {{- with .Params.audio }}<meta property="og:audio" content="{{ . }}" />{{ end }}
