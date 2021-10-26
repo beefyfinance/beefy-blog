@@ -1,7 +1,7 @@
 +++
 date = 2021-10-26T03:00:00Z
 draft = true
-header_image = ""
+header_image = "/uploads/p1.png"
 short_description = "We have partnered with QiDAO and Market.xyz to bring you more use cases for your mooTokens, learn all about it here."
 sub_header = "Your mooTokens are really valuable, now, even more.\nBeefy x QiDAO x Market.xyz"
 title = "Your mooTokens are really valuable, now, even more."
