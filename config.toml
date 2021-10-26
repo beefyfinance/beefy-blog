@@ -22,6 +22,10 @@ showFooterLinks = true
   openSans = "https://fonts.googleapis.com/css2?family=Open+Sans&display=swap"
 
   [params.profileMode]
+  imageUrl = "/beefy/beefy-cow.svg"
+  imageTitle = "Beefy.Finance"
+  imageWidth = 100
+  imageHeight = 100
   enabled = true
   title = "Beefy Finance | Blog"
   subtitle = "Moo"
