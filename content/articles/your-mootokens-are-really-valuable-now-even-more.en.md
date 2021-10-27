@@ -6,7 +6,7 @@ sub_header = "Your mooTokens are really valuable, now, even more.\nBeefy x QiDAO
 title = "Your mooTokens are really valuable, now, even more."
 
 +++
-It’s well-known the Beefy Cowmoonity loves a good stablecoin. So what could be better than using your mooTokens to get stablecoins you can use to make some sweet gains? Don’t let your mooTokens gather dust and get to know our brand new partnerships with QiDao and Market.xyz. You’ll be mooving your mooTickets over in no time.
+It’s well-known the Beefy Cowmoonity loves a good stablecoin. So what could be better than using your mooTokens to get stablecoins you can use to make some sweet gains? Don’t let your mooTokens gather dust and get to know our brand new partnerships with QiDao and Market.xyz. You’ll be mooving your mooTokens over in no time.
 
 ## What is the QiDao Protocol?
 
