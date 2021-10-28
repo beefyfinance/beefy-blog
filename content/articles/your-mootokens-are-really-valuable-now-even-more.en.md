@@ -30,7 +30,7 @@ Currently, you can borrow MAI with mooTokens from the following vaults on Polygo
 
 **Curve renBTC/WBTC**
 
-**QuickSwap MATIC/ETH**
+**QuickSwap MATIC/USDC**
 
 You can borrow up to 70% of the value of what is deposited depending on the vault. Isn’t this awesome? More mooTokens and chains will be accepted soon.
 
