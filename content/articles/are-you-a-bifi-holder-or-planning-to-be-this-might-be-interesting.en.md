@@ -3,7 +3,7 @@ date = 2021-10-28T03:00:00Z
 draft = true
 header_image = "/uploads/scream_partnership-1.png"
 short_description = "Adoption is a key for the health of a project. Starting today, you will be able to lend and borrow $BIFI on Scream. Isn’t this spooky (and awesome)?"
-sub_header = "$BIFI is now accepted on Scream.sh money market"
+sub_header = "$BIFI is now accepted on Scream markets"
 title = "Are you a $BIFI holder or planning to be? This might be interesting..."
 
 +++
