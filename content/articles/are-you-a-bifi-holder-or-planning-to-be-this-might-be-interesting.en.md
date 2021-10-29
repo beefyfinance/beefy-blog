@@ -16,13 +16,13 @@ Scream is a financial platform on Fantom that provides fully decentralized borro
 
 ## How can I use my $BIFI on Scream?
 
-First, head to [Scream Finance](https://scream.sh/lend) and make sure to connect your wallet. Then, it’s as easy as selecting BIFI from _Lend Assets_ (in case you want to borrow against your $BIFI) or _Borrow Assets_ (in case you wanna borrow $BIFI against other of your deposited assets). You can also withdraw your collateral and repay loans by switching between the tabs. If this is your first time dabbling in money markets, the safest bet is to borrow stables against your $BIFI, and deposit your borrowed stables into one of the many Beefy stable vaults. This way you should only monitor the price of $BIFI to avoid liquidations. There are many more complex strategies that you can start developing when you are more comfortable with tracking more prices.
+First, head to [Scream Finance](https://scream.sh/lend) and make sure to connect your wallet. Then, it’s as easy as selecting $BIFI from _Lend Assets_ (in case you want to borrow against your $BIFI) or _Borrow Assets_ (in case you wanna borrow $BIFI against other of your deposited assets). You can also withdraw your collateral and repay loans by switching between the tabs. If this is your first time dabbling in money markets, the safest bet is to borrow stables against your $BIFI, and deposit your borrowed stables into one of the many Beefy stable vaults. This way you should only monitor the price of $BIFI to avoid liquidations. There are many more complex strategies that you can start developing when you are more comfortable with tracking more prices.
 
-![](https://lh6.googleusercontent.com/B_TMJDNPdC3Iwjq_CU_MfGDxBnbVMUqmqOtam9EJyV4X3yPtM80mu2EiG70Wf4SHuTMXDjXFbOd-buYtZSezWkgwfcveU9bFcp7KayNlL-SJnauEVF6wXeHe4nX6F1iHa3vQozAA =601.9999999999999x220)
+![](/uploads/leak.png)
 
 ## Why is this good for all BIFI holders?
 
-Using your BIFI as collateral unlocks even more value from your tokens and provides yet another use case for BIFI. It also gives you great exposure to the token. Scream users are able to borrow $BTC, $ETH, $LINK and many stablecoins against your $BIFI. Also for new users to see the $BIFI token paired with these well-known tokens adds trust to the project and helps spread awareness about Beefy Finance.
+Using your $BIFI as collateral unlocks even more value from your tokens and provides yet another use case for $BIFI. It also gives you great exposure to the token. Scream users are able to borrow $BTC, $ETH, $LINK and many stablecoins against your $BIFI. Also for new users to see the $BIFI token paired with these well-known tokens adds trust to the project and helps spread awareness about Beefy Finance.
 
 Even if you aren’t thinking of lending your $BIFI on Scream, this is good news for you too. More uses for the tokens means there will be less $BIFI staked on BIFI Maxi, or BIFI Earn (where you deposit $BIFI and earn $FTM), so this will result in higher APYs for people choosing to stay there. See? Win-win.
 
