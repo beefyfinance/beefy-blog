@@ -28,6 +28,6 @@ Even if you aren’t thinking of lending your $BIFI on Scream, this is good news
 
 ![](/uploads/leak.png)
 
-## Will more platforms accept BIFI soon?
+## Will more platforms accept $BIFI soon?
 
 Our team is tirelessly looking to bring more use cases for $BIFI to benefit all of our cross-chain users. In order to get $BIFI accepted in more money markets, we need a Chainlink Price Oracle for the token, and our team is working very closely with Chainlink to get this in all the chains we can. So you can expect similar news as this one soon for other chains.
