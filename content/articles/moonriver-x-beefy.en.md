@@ -8,7 +8,9 @@ title = "Moonriver x Beefy"
 +++
 ![](/uploads/image0.png)
 
-Beefy Finance continues believing in the multi-chain future and Moonriver becomes the 9th chain we deploy on. 
+The lunar tidal influence on rivers is undeniable. Now the cows are gathering to drink from those overflown rivers.
+
+Beefy Finance continues believing in the multi-chain future and Moonriver becomes the 9th chain we deploy on. In this blog we will tell you a bit about this parachain, how you can reach it, and which vaults we deployed, so keep reading!
 
 ### About Moonriver
 
@@ -18,9 +20,9 @@ Also Moonriver is a community lead parachain, isn't it inspiring?
 
 If you are looking into trying the chain you should check out the following bridges:
 
-[https://app.solarbeam.io/bridge](https://app.solarbeam.io/bridge "Solarbeam Bridge") (It also sends you a bit of MOVR so you can transact on the chain)
+[Solarbeam Bridge](https://app.solarbeam.io/bridge) (It also sends you a bit of MOVR so you can transact on the chain)
 
-[https://anyswap.exchange/](https://anyswap.exchange/ "Anyswap") (have in mind you can only send MIM)
+[Anyswap](https://anyswap.exchange/) (have in mind you can only send MIM)
 
 If you are still having trouble you can head over to our Discord server, and find all the info you need in the pinned messages of #-moonriver
 
