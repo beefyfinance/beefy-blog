@@ -7,6 +7,3 @@ sub_header = "Moonriver becomes the 9th chain"
 title = "Moonriver x Beefy"
 
 +++
-aa
-
-aa
