@@ -12,6 +12,8 @@ weight = 1
 +++
 ![](/uploads/beeth.png)
 
+We all watched those viral youtube videos of cows gathering around a guy playing the accordion. Our latest partner will sound like music to cows ears, meet our undead friend, BeethovenX.
+
 ### **About BeethovenX**
 
 BeethovenX is a one-stop decentralized investment platform on Fantom Opera.
