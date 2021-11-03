@@ -20,11 +20,13 @@ Also Moonriver is a community lead parachain, isn't it inspiring?
 
 If you are looking into trying the chain you should check out the following bridges:
 
-[Solarbeam Bridge](https://app.solarbeam.io/bridge) (It also sends you a bit of MOVR so you can transact on the chain)
+[Solarbeam Bridge](https://app.solarbeam.io/bridge) (It also sends you a bit of $MOVR so you can transact on the chain)
 
-[Anyswap](https://anyswap.exchange/) (have in mind you can only send MIM)
+[Anyswap](https://anyswap.exchange/) (you can send $BIFI and $MIM)
 
-If you are still having trouble you can head over to our Discord server, and find all the info you need in the pinned messages of #-moonriver
+If you bridged your $BIFI vía Anyswap to Moonriver, you can utilize it to earn revenue from the platform as $MOVR tokens. To do this you can stake your BIFI into the BIFI Earn pool, and get $MOVR at around 80% APR (at the moment of writting this article). 
+
+If you are having trouble you can head over to our Discord server, and find all the info you need in the pinned messages of #-moonriver
 
 ### Deployed vaults
 
