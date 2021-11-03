@@ -6,7 +6,7 @@ sub_header = "Moonriver becomes the 9th chain"
 title = "Moonriver x Beefy"
 
 +++
-# About Moonriver
+## About Moonriver
 
 Moonriver launched in June 2021, and its a parachain on the Kusama network.  Moonriver is a sister network of Moonbeam and provides an enviorement to test in real economic conditions.
 
