@@ -6,7 +6,9 @@ sub_header = "$BIFI is now accepted on Scream markets"
 title = "Are you a $BIFI holder or planning to be? This might be interesting..."
 
 +++
-![](/uploads/scream_partnership-1.png)Just in time for the spooky Halloween season, you can now utilize $BIFI on Scream on the Fantom blockchain, and use up to 55% of its current value to borrow other tokens, or borrow $BIFI against other of your deposited assets.
+![](/uploads/scream_partnership-1.png)
+
+Just in time for the spooky Halloween season, you can now utilize $BIFI on Scream on the Fantom blockchain, and use up to 55% of its current value to borrow other tokens, or borrow $BIFI against other of your deposited assets.
 
 Beefy Finance has a big treasury that is being used to add as much value as possible to our users. That is why the DAO added 85 $BIFI (Around $125,000 at the moment of writing) for users to borrow $BIFI on Scream.
 
