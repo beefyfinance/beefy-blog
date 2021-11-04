@@ -24,7 +24,7 @@ If you want to try the chain out, check the following bridges:
 
 [**Anyswap**](https://anyswap.exchange/) (you can send **$BIFI** and **$MIM**)
 
-If you bridge your **$BIFI** vía Anyswap to Moonriver, you can utilize it to earn revenue from the platform as $MOVR tokens. To do this, stake your $BIFI into the $BIFI Earn pool to receive $MOVR at around 100% APR (at the time of writing).
+If you bridge your **$BIFI** vía Anyswap to Moonriver, you can utilize it to earn revenue from the platform as **$MOVR** tokens. To do this, stake your **$BIFI** into the BIFI Earn pool to receive $MOVR at around 100% APR (at the time of writing).
 
 If you are having trouble, head over to our Discord server to find all the info you will need in the pinned messages of #-moonriver
 
