@@ -14,7 +14,7 @@ Beefy Finance truly believes in the multi-chain future with Moonriver becoming t
 
 ### About Moonriver
 
-Moonriver is a parachain on the Kusama network that launched in June 2021. It is a sister network of Moonbeam and provides an environment to test incentivized real economic conditions.
+Moonriver is a parachain on the Kusama network that launched in June 2021. It is a sister network of [**Moonbeam**](https://moonbeam.network/community/projects/) and provides an environment to test incentivized real economic conditions.
 
 Moonriver is also a community-led parachain, how’s that for decentralization?
 
@@ -27,6 +27,10 @@ If you want to try the chain out, check the following bridges:
 If you bridge your **$BIFI** vía Anyswap to Moonriver, you can utilize it to earn revenue from the platform as **$MOVR** tokens. To do this, stake your **$BIFI** into the BIFI Earn pool to receive **$MOVR** at around 100% APR (at the time of writing).
 
 If you are having trouble, head over to our Discord server to find all the info you will need in the pinned messages of **_#-moonriver_**
+
+### About Moonbeam
+
+Moonbeam is an Ethereum-compatible smart contract platform on the Polkadot network that makes it easy to build natively interoperable applications. This Ethereum compatibility allows developers to deploy existing Solidity smart contracts and DApp frontends to Moonbeam with minimal changes. As a parachain on the Polkadot network, Moonbeam will benefit from the shared security of the Polkadot relay chain and integrations with other chains that are connected to Polkadot. Currently, in active development by PureStake, Moonbeam is expected to reach MainNet by Q4 of 2021. Learn more: [https://moonbeam.network/.](https://moonbeam.network/)
 
 ### Deployed vaults
 
