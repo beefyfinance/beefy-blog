@@ -8,7 +8,7 @@ title = "Moonriver x Beefy: Beefy Finance integrates with Moonriver to expand th
 +++
 ![](/uploads/image0.png)
 
-The lunar tidal influence on rivers is undeniable. While the effect might not be the same on cows, they are at least gathering to drink from these news sources of DeFi water!.
+The lunar tidal influence on rivers is undeniable. While the effect might not be the same on cows, they are at least gathering to drink from these new sources of DeFi water!
 
 Beefy Finance truly believes in the multi-chain future with Moonriver becoming the 9th chain we deploy on. In this blog, we will learn a bit about the Moonriver parachain, how you can reach it, and the vaults we have deployed. Let’s get started!
 
@@ -16,11 +16,11 @@ Beefy Finance truly believes in the multi-chain future with Moonriver becoming t
 
 Moonriver is a parachain on the Kusama network that launched in June 2021. It is a sister network of [**Moonbeam**](https://moonbeam.network/community/projects/) and provides an environment to test incentivized real economic conditions.
 
-Moonriver is also a community-led parachain, how’s that for decentralization?
+Moonriver is a community-led parachain, how’s that for decentralization?
 
 If you want to try the chain out, check the following bridges:
 
-[**Solarbeam Bridge**](https://app.solarbeam.io/bridge) (you’ll all receive some **$MOVR** so you can transact on the chain)
+[**Solarbeam Bridge**](https://app.solarbeam.io/bridge) (This bridge also works as a faucet, so you’ll all receive some **$MOVR** so you can transact on the chain)
 
 [**Anyswap**](https://anyswap.exchange/) (you can send **$BIFI** and **$MIM**)
 
@@ -34,7 +34,7 @@ Moonbeam is an Ethereum-compatible smart contract platform on the Polkadot netwo
 
 ### Deployed vaults
 
-The first vaults we are offering are from Solarbeam AMM. We will add more vaults in the future, so if you don’t want to miss out, follow @beefyfinance on Twitter. We have deployed vaults for all types of investors, blue chips, stablecoins, and even degen. If you want your favorite Moonriver platform added to Beefy, head over to our Discord and talk with the team.
+The first vaults we are offering are from Solarbeam AMM. We will add more vaults in the future, so don’t miss out, follow @beefyfinance on Twitter. We have deployed vaults for all types of investors, blue chips, stablecoins, and even degen. If you want your favorite Moonriver platform added to Beefy, head over to our Discord and talk with the team.
 
 ![](/uploads/solarbeam.png)
 
