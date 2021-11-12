@@ -6,6 +6,8 @@ sub_header = "You can now insure your Beefy deposits thanks to InsurAce"
 title = "Beefy's Smart Contracts are now insurable thanks to InsurAce"
 
 +++
+![](/uploads/insurace.png)
+
 ### Beefy is even more SAFU
 
 There’s one thing that the Beefy cow knows well, and that’s making sure your deposits are secure. It’s really our number one priority. Whenever we list a project, Beefy always commits to a thorough review of all smart contracts involved. If you can trust Beefy, you can trust the project.
@@ -22,8 +24,8 @@ InsurAce has two arms similar to a traditional insurance company: an investment 
 
 ### How does it work?
 
-To explain how the insurance works, first we need to explain how Beefy works. In a nutshell, Beefy contracts deposit tokens on your behalf, to underlying platforms, for example Pancakeswap, TraderJoe, or Spookyswap. If one of Beefy’s smart contracts fails (for example our vault contract, or the strategy contract, and if you were paying for the coverage, InsurAce will cover your loss.  
-  
+To explain how the insurance works, first we need to explain how Beefy works. In a nutshell, Beefy contracts deposit tokens on your behalf, to underlying platforms, for example Pancakeswap, TraderJoe, or Spookyswap. If one of Beefy’s smart contracts fails (for example our vault contract, or the strategy contract, and if you were paying for the coverage, InsurAce will cover your loss.
+
 Contrarily if the smart contract that fails belongs to the underlying platform (Pancakeswap, Traderjoe, Spookyswap) your deposits won’t be covered.
 
 ### What is the premium?
