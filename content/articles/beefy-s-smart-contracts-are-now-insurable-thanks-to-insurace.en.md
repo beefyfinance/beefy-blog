@@ -12,7 +12,7 @@ title = "Beefy's Smart Contracts are now insurable thanks to InsurAce"
 
 There’s one thing that the Beefy cow knows well, and that’s making sure your deposits are secure. It’s really our number one priority. Whenever we list a project, Beefy always commits to a thorough review of all smart contracts involved. If you can trust Beefy, you can trust the project.
 
-Our key criteria include [Certik](https://www.certik.org/) audits, a bug bounty program with Immunefi, and a thorough analysis straight from our own talented solidity developers. We always constantly improve our vaults, with efficiency, security, and reliability in mind.
+Our key criteria include [Certik audits](https://www.certik.org/projects/beefyfinance), a [bug bounty program](https://immunefi.com/bounty/beefyfinance/) with Immunefi, and a thorough analysis straight from our own talented solidity developers. We always constantly improve our vaults, with efficiency, security, and reliability in mind.
 
 Nothing is enough when it comes to protecting your money. We know that. That is why we’ve worked together with InsurAce to add another layer of protection to your trusted deposits.
 
