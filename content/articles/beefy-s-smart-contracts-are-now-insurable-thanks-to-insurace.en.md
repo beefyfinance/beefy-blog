@@ -14,7 +14,7 @@ There’s one thing that the Beefy cow knows well, and that’s making sure your
 
 Our key criteria include [Certik audits](https://www.certik.org/projects/beefyfinance), a [bug bounty program](https://immunefi.com/bounty/beefyfinance/) with Immunefi, and a thorough analysis straight from our own talented solidity developers. We constantly improve our vaults, with efficiency, security, and reliability in mind.
 
-Nothing is enough when it comes to protecting your money. We know that. That is why we’ve worked together with InsurAce to add another layer of protection to your trusted deposits.
+We know that protecting your money and investments is of the utmost importance, that is why we've worked with InsurAce, to add another layer of protection to your trusted deposits.
 
 ### What is InsurAce?
 
