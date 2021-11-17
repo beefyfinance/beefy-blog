@@ -25,9 +25,9 @@ Did you see these amazing opportunities?
 
 ### How to reach Cronos
 
-This might not come as a surprise. The best way to get money into Cronos (and into these vaults) is through Crypto.com. All you need to do is have your tokens on your Crypto.com account, and withdraw to an external wallet. The process is super straight-forward and if you run into any trouble, you can head over to our [Discord server](https://discord.gg/DRw3wCdP). Under the #cronos channel you will find a pinned message with a Step by Step tutorial guiding you to the whole process. Have in mind that you will need a KYC account to take this approach.
+This might not come as a surprise. The best way to get money into Cronos (and into these vaults) is through Crypto.com. All you need to do is have your tokens on your Crypto.com account, and withdraw to an external wallet. The process is super straight-forward and if you run into any trouble, you can head over to our [Discord server](https://discord.gg/DRw3wCdP). Under the #cronos channel you will find a pinned message with a Step by Step tutorial guiding you through the whole process. In that channel you will also find other decentralized alternatives, like [Anyswap](https://anyswap.exchange/bridge) or [Elk](https://anyswap.exchange/#/router).
 
-In that channel you will also find other decentralized alternatives, like [Anyswap](https://anyswap.exchange/bridge) or [Elk](https://anyswap.exchange/#/router).
+There's also a [bridging walkthrough guide](https://cronos.crypto.org/docs/bridge/cdcapp.html) on Cronos documentation page. Have in mind that you will need a KYC account to take this approach.
 
 Remember that the best way to bridge the $BIFI token is through Anyswap.
 
