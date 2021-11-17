@@ -1,8 +1,8 @@
 +++
 date = 2021-11-17T03:00:00Z
 header_image = "/uploads/cronos.png"
-short_description = "Meet Cronos, Crypto.com's blockchain"
-sub_header = "Beefy makes Cronos the 10th chain, learn all about it"
+short_description = "Have you heard about Cronos? Learn all about it and their success here"
+sub_header = "Beefy makes Cronos the 10th chain"
 title = "Beefy makes Cronos the 10th chain"
 
 +++
