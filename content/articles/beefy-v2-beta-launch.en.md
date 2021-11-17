@@ -1,6 +1,5 @@
 +++
 date = 2021-11-17T06:00:00Z
-draft = true
 header_image = "/uploads/v2_cover_3-1.png"
 short_description = "Take part in our Beta launch of Beefy's brand new look and feel. "
 sub_header = "Get to know Beefy's new user interface"
