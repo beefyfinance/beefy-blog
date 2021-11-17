@@ -27,7 +27,7 @@ The Multichain Search feature is the gateway to exploring all the investment opp
 
 ### Earnings Pools
 
-Beefy has a revenue-sharing mechanism that distributes profits in $BIFI, the platform’s native token. To earn this revenue, simply stake your $BIFI in one of our rebranded governance pools, now known as BIFI Earnings Pools. You can find them on the homepage.
+Beefy has a revenue-sharing mechanism that distributes profits in each blockchain's native token. To earn this revenue, simply stake your $BIFI in one of our rebranded governance pools, now known as BIFI Earnings Pools. You can find them on the homepage.
 
 Each chain has an Earnings Pool to stake your $BIFI in, with the revenue shared in the chain’s native token. For example, the BSC Earnings Pool will distribute profits in BNB.
 
