@@ -10,13 +10,13 @@ title = "The Beefy v2 Beta launch is here for the Cowmoonity to test"
 
 Beefy has grown hugely since its release on Binance Smart Chain back in September 2020. We’re extremely proud of its increasing numbers in TVL, revenue, users, and chains. But with a growing platform comes different needs. The team has been working hard to provide a UI that adapts to our new multi-chain user base.
 
-Now it’s simple to see investment opportunities not only on the chain you are connected to but on all Beefy-supported blockchains too. For example, with Beefy v2, you can filter for stablecoins and see every vault available across 9 different chains. You are totally connected to the whole DeFi ecosystem with the touch of a few buttons.
+Now it’s simple to see investment opportunities not only on the chain you are connected to but on all Beefy-supported blockchains too. For example, with Beefy v2, you can filter for stablecoins and see every vault available across 10 different chains. You are totally connected to the whole DeFi ecosystem with the touch of a few buttons.
 
 ### One App for All Chains
 
 There’s no need to keep switching apps with the new Beefy UI. All vaults are combined into one space and can be browsed no matter the network you’re connected to.
 
-Even if you are connected to BSC in MetaMask, you can still see all 650+ vaults from 9 chains on the same page. All your data (deposits, wallet balance, boosts, etc.) is available without switching your wallet’s network. Beefy now shows you a holistic view of your multi-chain deposits, all in the same app.
+Even if you are connected to BSC in MetaMask, you can still see all 650+ vaults from 10 chains on the same page. All your data (deposits, wallet balance, boosts, etc.) is available without switching your wallet’s network. Beefy now shows you a holistic view of your multi-chain deposits, all in the same app.
 
 ### Multichain Search
 
