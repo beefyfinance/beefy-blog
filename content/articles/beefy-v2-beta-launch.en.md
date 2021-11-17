@@ -1,12 +1,14 @@
 +++
 date = 2021-11-17T06:00:00Z
 draft = true
-header_image = ""
+header_image = "/uploads/v2_cover_2.png"
 short_description = "Take part in our Beta launch of Beefy's brand new look and feel. "
 sub_header = "Get to know the new Beefy v2 Beta UI"
 title = "The Beefy v2 Beta Launch is here for the Cowmoonity to try"
 
 +++
+![](/uploads/v2_cover_2.png)
+
 Beefy has grown hugely since its release on Binance Smart Chain back in September 2020. We’re extremely proud of its increasing numbers in TVL, revenue, users, and chains. But with a growing platform comes different needs. The team has been working hard to provide a UI that adapts to our new multi-chain user base.
 
 Now it’s simple to see investment opportunities not only on the chain you are connected to but on all Beefy-supported blockchains too. For example, with Beefy v2, you can filter for stablecoins and see every vault available across 9 different chains. You are totally connected to the whole DeFi ecosystem with the touch of a few buttons.
