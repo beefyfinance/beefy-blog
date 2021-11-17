@@ -3,7 +3,7 @@ date = 2021-11-17T06:00:00Z
 draft = true
 header_image = "/uploads/v2_cover_2.png"
 short_description = "Take part in our Beta launch of Beefy's brand new look and feel. "
-sub_header = "Get to know the new Beefy v2 Beta UI"
+sub_header = "Get to know Beefy's new user interface"
 title = "The Beefy v2 Beta launch is here for the Cowmoonity to test"
 
 +++
@@ -17,7 +17,7 @@ Now it’s simple to see investment opportunities not only on the chain you are 
 
 There’s no need to keep switching apps with the new Beefy UI. All vaults are combined into one space and can be browsed no matter the network you’re connected to.
 
-Even if you are connected to BSC in MetaMask, you can still see all 650+ vaults from 9 chains on the same page. All your data (deposits, wallet balance, boosts, etc.) is available without switching your wallet’s network.
+Even if you are connected to BSC in MetaMask, you can still see all 650+ vaults from 9 chains on the same page. All your data (deposits, wallet balance, boosts, etc.) is available without switching your wallet’s network. Beefy now shows you a holistic view of your multi-chain deposits, all in the same app.
 
 ### Multichain Search
 
