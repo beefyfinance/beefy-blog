@@ -105,7 +105,7 @@ You can also check the updated platform data module on the homepage header to se
 
 ### Feedback and Bugs
 
-As this is a Beta release, we are looking for as much user feedback as possible. We have created two new channels on our Discord, one for reporting bugs and another for suggesting changes or new features. All users are welcome to share their thoughts and experiences with the Beefy v2 app. Feedback will be monitored and considered when organizing and prioritizing our design and development efforts.
+As this is a Beta release, we are looking for as much user feedback as possible. We have created two new channels on our Discord, one for [reporting bugs](https://discord.gg/XzNhzJeS) and another for [suggesting changes or new features](https://discord.gg/jc6BmVv2). All users are welcome to share their thoughts and experiences with the Beefy v2 app. Feedback will be monitored and considered when organizing and prioritizing our design and development efforts.
 
 Any bugs or issues with the app do not affect user funds in any way. The new app is only a user interface upgrade, and user funds are stored on the smart contract level only.
 
