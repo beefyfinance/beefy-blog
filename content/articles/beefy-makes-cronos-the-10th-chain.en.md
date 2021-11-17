@@ -10,7 +10,7 @@ title = "Beefy partners with Cronos to bring users the best yields"
 
 Beefy.Finance has recently deployed on the newly-launched Cronos blockchain to offer the safest and most reliable auto-compounding platform for DeFi users.
 
-With the launch of Cronos, another giant joins the DeFi space, and they are doing it big. In less than one week, Cronos secured more than 500 million USD in total value locked (TVL) on their chain, and the number seems to only go up from there. There might be many reasons for this success. It could be the extremely nice APYs that VVS (a popular AMM on Cronos) offers. It could be that it is seamlessly integrated with Crypto.com. Or it could even be that people trust Crypto.com's endorsement. It very well could be all three!
+With the launch of Cronos, another giant joins the DeFi space, and they are doing it big. In less than one week, Cronos secured more than 500 million USD in total value locked (TVL) on their chain, and the number seems to only go up from there. There might be many reasons for this success. It could be the extremely nice APYs that VVS (a popular AMM on Cronos) offers. It could be that it is seamlessly integrated with Crypto.com. Or it could even be that people trust Crypto.com's endorsement. Maybe it's all three!
 
 ### About Cronos
 
