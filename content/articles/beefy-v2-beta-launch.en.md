@@ -4,7 +4,7 @@ draft = true
 header_image = "/uploads/v2_cover_2.png"
 short_description = "Take part in our Beta launch of Beefy's brand new look and feel. "
 sub_header = "Get to know the new Beefy v2 Beta UI"
-title = "The Beefy v2 Beta Launch is here for the Cowmoonity to try"
+title = "The Beefy v2 Beta launch is here for the Cowmoonity to test"
 
 +++
 ![](/uploads/v2_cover_2.png)
