@@ -10,11 +10,11 @@ title = "Beefy makes Cronos the 10th chain"
 
 Crypto.com launched their own blockchain, Cronos, and Beefy deploys there to offer the most safe and reliable auto-compounding users know of.
 
-Another gigant joins the DeFi space, and they are doing it big. In less than 5 days Cronos locked more than 500M TVL on their chain, and the number seems to only go up. There might be many reasons for this success, could be the extremely nice APYs their main AMM offers (VVS), could be that it is seamlessly integrated with Crypto.com, or could be that people trust in the endorsement Crypto.com offers… or it could be all of those!
+Another giant joins the DeFi space, and they are doing it big. In less than 5 days Cronos locked more than 500M TVL on their chain, and the number seems to only go up. There might be many reasons for this success, could be the extremely nice APYs their main AMM offers (VVS), could be that it is seamlessly integrated with Crypto.com, or could be that people trust in the endorsement Crypto.com offers… or it could be all of those!
 
 ### About Cronos
 
-Cronos is the first Cosmos EVM chain for DeFi, NFTs and Metaverse. It aims to massively scale the DeFi and decentralised application ecosystem, by providing developers with the ability to instantly port apps from Ethereum and EVM-compatible chains. With low cost, high throughput, fast finality, and built-in interoperability, Cronos is poised to bring decentralised applications to the 10M+ user base of the Crypto.com ecosystem and beyond.
+Cronos is the first Cosmos EVM chain for DeFi, NFTs and Metaverse. It aims to massively scale the DeFi and decentralized application ecosystem, by providing developers with the ability to instantly port apps from Ethereum and EVM-compatible chains. With low cost, high throughput, fast finality, and built-in interoperability, Cronos is poised to bring decentralized applications to the 10M+ user base of the Crypto.com ecosystem and beyond.
 
 ### Beefy Vaults
 
