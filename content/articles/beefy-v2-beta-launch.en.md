@@ -43,7 +43,7 @@ Each vault now has its own vault page with full details on the vault, assets, st
 
 ### Last Harvest
 
-Users can easily see when the vault was last harvested.
+Users can easily see when the vault was last harvested. Previously, this would all have to be done via a blockchain explorer, making the process long and tedious.
 
 ### Historical Rate
 
