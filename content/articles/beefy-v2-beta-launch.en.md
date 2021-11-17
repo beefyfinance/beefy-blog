@@ -2,9 +2,9 @@
 date = 2021-11-17T06:00:00Z
 draft = true
 header_image = ""
-short_description = "Take part in our Beta launch "
-sub_header = "Get to know the new Beefy v2 UI"
-title = "Beefy v2 Beta Launch"
+short_description = "Take part in our Beta launch of Beefy's brand new look and feel. "
+sub_header = "Get to know the new Beefy v2 Beta UI"
+title = "The Beefy v2 Beta Launch is here for the Cowmoonity to try"
 
 +++
 Beefy has grown many orders of magnitude since its release on Binance Smart Chain back in September 2020. We’re extremely proud of its increasing numbers in TVL, revenue, users, and chains. But with a growing platform comes different needs. The team has been working hard to provide a UI that adapts to our new multi-chain user base.
