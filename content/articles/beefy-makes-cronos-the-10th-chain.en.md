@@ -1,5 +1,6 @@
 +++
 date = 2021-11-17T03:00:00Z
+draft = true
 header_image = "/uploads/cronos.png"
 short_description = "Have you heard about Crypto.com blockchain? Learn all about Cronos and their success in this article"
 sub_header = "Beefy partners with Cronos to bring users the best yields"
