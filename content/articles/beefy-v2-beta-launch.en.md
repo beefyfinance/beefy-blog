@@ -7,7 +7,7 @@ sub_header = "Get to know the new Beefy v2 Beta UI"
 title = "The Beefy v2 Beta Launch is here for the Cowmoonity to try"
 
 +++
-Beefy has grown many orders of magnitude since its release on Binance Smart Chain back in September 2020. We’re extremely proud of its increasing numbers in TVL, revenue, users, and chains. But with a growing platform comes different needs. The team has been working hard to provide a UI that adapts to our new multi-chain user base.
+Beefy has grown hugely since its release on Binance Smart Chain back in September 2020. We’re extremely proud of its increasing numbers in TVL, revenue, users, and chains. But with a growing platform comes different needs. The team has been working hard to provide a UI that adapts to our new multi-chain user base.
 
 Now it’s simple to see investment opportunities not only on the chain you are connected to but on all Beefy-supported blockchains too. For example, with Beefy v2, you can filter for stablecoins and see every vault available across 9 different chains. With Beefy v2, you’re totally connected to the whole DeFi ecosystem with the touch of a few buttons.
 
@@ -33,11 +33,10 @@ Each chain has an Earnings Pool to stake your $BIFI in, with the revenue shared 
 
 ### **Vault Page**
 
-Sometimes knowing the current APY of a vault is not enough. What about a token’s historical price? How safe is the underlying platform? And the token itself? Now you can answer all of these questions with a single glance at the UI. Welcome to the new vault page.  
-  
+Sometimes knowing the current APY of a vault is not enough. What about a token’s historical price? How safe is the underlying platform? And the token itself? Now you can answer all of these questions with a single glance at the UI. Welcome to the new vault page.
+
 We want our users to make informed investments with their money. That’s why we provide the most useful information at hand to empower you when depositing and viewing historical performance. Access to knowledge leads to smarter decisions overall.
 
-  
 Each vault now has its own vault page with full details on the vault, assets, strategy, deposit options, withdrawal options, and vault boost.
 
 ![](/uploads/f3.png)
