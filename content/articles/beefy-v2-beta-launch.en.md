@@ -113,6 +113,6 @@ As this is a Beta release, we are looking for as much user feedback as possible.
 
 These changes to the Beefy app are only the first steps towards more app and protocol improvements. **We’re still in the Beta phase, so changes are possible.** We have dedicated people, time, and a willingness to keep improving Beefy v2 to make it the best it can be. Our design, dev, and management team are listening and ready to go.
 
-V1 and V2 apps will run simultaneously during the Beta phase until the end of this year at an estimate. Once the Beta phase is over, we will fully migrate to V2 and V1 support will be discontinued.
+v1 and v2 apps will run simultaneously during the Beta phase until the end of this year at an estimate. Once the Beta phase is over, we will fully migrate to v2 and v1 support will be discontinued.
 
 **Link to the Beta:** [**https://beta.beefy.finance/**](https://beta.beefy.finance/ "https://beta.beefy.finance/")
