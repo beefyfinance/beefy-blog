@@ -75,7 +75,7 @@ Here you’ll see a brief description of all the assets involved in this particu
 
 Easily depositing and withdrawing your funds is a key aspect of the Beefy experience. That’s why we’ve redesigned the way it works to make it quicker than ever. We’ve reduced both the number of transactions needed and made sure you’ll never need to leave the page to deposit. Entering and exiting vaults has never been so easy.
 
-The redesigned Deposit/Withdraw module also displays all the information you need about the vault’s fees. In addition, Beefy ZAP has been redesigned and clearly displays all the available options to enter a vault with LP or single tokens.
+The redesigned Deposit/Withdraw module also displays all the information you need about the vault’s fees. In addition, Beefy ZAP has been redesigned and clearly displays the available options to enter a vault with LP or single tokens.
 
 _Note: ZAP is currently available for deposits only, support for withdrawals will be added soon._
 
