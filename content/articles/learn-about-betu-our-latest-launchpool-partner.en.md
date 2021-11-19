@@ -34,7 +34,7 @@ At the end of the week the players who accumulate the most points and arrive on 
 
 If you still have doubts you can watch [this video](https://youtu.be/OHUo-F5nGg8)
 
-![](https://lh5.googleusercontent.com/R4-G7oKyUkmBubthqUgufTZXOGROHughnpW7z2GTSXg9-UdhKq6oLrA2huwRAk1nyNwSrEKJp20sS-TmfAzUcYRX6HXNGcghc46FMFs1SbtXIoIpSD99UUKorirTe0cFgiIIdedm =602x188)
+![](/uploads/2.jpeg)
 
 ### About the $BETU Token
 
@@ -42,11 +42,11 @@ $BETU has many uses and features smartly linked to the success of BetU.io. Their
 
 If you are a Whale Holder of BETU tokens, you will pay zero winning fees, and if you are really owning your bets, you will be incentivized with BETU tokens for leading the scoreboard.
 
-Also BETU supports the BetU Charity that helps vulnerable children impacted by gambling addiction. Got to love BetU’s kindness.  
-  
+Also BETU supports the BetU Charity that helps vulnerable children impacted by gambling addiction. Got to love BetU’s kindness.
+
 You can buy $BETU [directly on Pancakeswap](https://pancakeswap.finance/info/token/0x0df1b3f30865c5b324797f8db9d339514cac4e94), [Bitmart](https://www.bitmart.com/trade/en?symbol=BETU_USDT&layout=basic), and [Gate.io](https://www.gate.io/trade/BETU_USDT)
 
-![](https://lh5.googleusercontent.com/znfXUyhfJz3kWfIEc374OxUoqvfu8HbY17p5pO4771m8XFyjlvh3Gf5mu5eZbTNqLWxTrSfSyxc5xwvc1wuFRKTUMws_TNd_e151BcuuaHD7WOXj7RtbRCw5tejofRSQnVx1A3pB =602x191)
+![](/uploads/1.png)
 
 ### Beefy and BetU
 
