@@ -1,8 +1,8 @@
 +++
 date = 2021-12-06T11:00:00Z
 draft = true
-header_image = "/uploads/vvs_staking_guide.png"
-short_description = ""
+header_image = "/uploads/partnership_vvs.png"
+short_description = "Get on board with Beefy Finance's most recently supported chain Cronos and Launchpool partner VVS"
 sub_header = "Beefy Finance gives you three opportunites to earn with your $BIFI, $VVS, and $CRO"
 title = "Three ways to earn with Beefy, VVS Finance, and Cronos"
 
@@ -15,7 +15,7 @@ You might have already heard that the Beefy Cow is grazing new pastures on the C
 
 VVS Finance is an Automated Market Maker (AMM) and Decentralized Exchange (DEX) on the Cronos network. It works in a similar way to Uniswap on Ethereum or Binance Smart Chain’s Pancake Swap. Users can swap crypto pairs from pools of tokens and coins, similar to how you would use a bureau de change.
 
-VVS also has its native utility, governance, and reward token, $VVS. You can use the token to stake and earn rewards and take part in community votes, for examples. For a detailed guide on using the VVS ecosystem, check out their handy [Getting Started](https://docs.vvs.finance/getting-started) guide.
+VVS also has its native utility, governance, and reward token, $VVS. You can use the token to stake and earn rewards and take part in community votes, for example. For a detailed guide on using the VVS ecosystem, check out their handy [Getting Started](https://docs.vvs.finance/getting-started) guide.
 
 ### How can I earn rewards with Beefy, VVS Finance, and Cronos network?
 
@@ -43,11 +43,11 @@ You can also use the [Boosted Vault](https://app.beefy.finance/#/cronos/stake) t
 
 ![](/uploads/vvs3.png)
 
-### Stake $BIFI-$CRO LP and earn $VVS 
+### Stake $BIFI-$CRO LP and earn $VVS
 
 If you have $BIFI and $CRO in your Cronos wallet, you can stake them together on VVS’s Liquidity Pools to create $BIFI-$CRO LP tokens and then earn $VSS with their crystal farms It’s a two-step process:
 
-1\. Head to the [$BIFI-$CRO Liquidity Pool](https://vvs.finance/add/CRO/0xe6801928061CDbE32AC5AD0634427E140EFd05F9), connect your wallet, and deposit $BIFI and $CRO in equal monetary amounts. You’ll then receive $BIFI-$CRP LP tokensMake sure you save some $CRO for transaction fees.
+1\. Head to the [$BIFI-$CRO Liquidity Pool](https://vvs.finance/add/CRO/0xe6801928061CDbE32AC5AD0634427E140EFd05F9), connect your wallet, and deposit $BIFI and $CRO in equal monetary amounts. You’ll then receive $BIFI-$CRP LP tokens. Make sure you save some $CRO for transaction fees.
 
 ![](/uploads/vss4.png)
 
@@ -57,4 +57,10 @@ If you have $BIFI and $CRO in your Cronos wallet, you can stake them together on
 
 ### Stake $BIFI-$CRO LP and earn more LP tokens
 
-To earn more LP tokens, follow step one from the previous section. Next, head to the [Beefy Finance Cronos Vaults](https://app.beefy.finance/#/cronos) and search for the $BIFI-$CRO LP Vault. Stake your LP tokens and begin to autocompound your interest for more $BIFI-$CRO LP tokens. 
+To earn more LP tokens, follow step one from the previous section. Next, head to the [Beefy Finance Cronos Vaults](https://app.beefy.finance/#/cronos) and search for the $BIFI-$CRO LP Vault. Stake your LP tokens and begin to autocompound your interest for more $BIFI-$CRO LP tokens.
+
+![](/uploads/bifi-cro-1.png)
+
+### Closing words
+
+There's always an opportunity to earn with Beefy Finance amd
