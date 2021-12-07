@@ -9,7 +9,7 @@ title = "Three ways to earn with Beefy, VVS Finance, and Cronos"
 +++
 ![](/uploads/partnership_vvs.png)
 
-You might have already heard that the Beefy Cow is grazing new pastures on the Cronos network. There are plenty of projects to explore, and VVS Finance is just one of our new Launchpool partners on our tenth blockchain. There are three exciting ways to earn, so get your $BIFI, $VVS, and $CRO tokens ready to earn interest while you sleep!
+You might have already heard that the Beefy Cow is grazing new pastures on the Cronos network. There are plenty of projects to explore, and VVS Finance is just one of our new Launchpool partners on our tenth blockchain. There are three exciting ways to earn, so get your $BIFI, $VVS, and $CRO tokens ready to generate interest while you sleep!
 
 ### What is VVS Finance?
 
