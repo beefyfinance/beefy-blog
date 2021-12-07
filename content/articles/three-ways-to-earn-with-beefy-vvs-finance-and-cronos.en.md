@@ -45,7 +45,7 @@ You can also use the [Boosted Vault](https://app.beefy.finance/#/cronos/stake) t
 
 ### Stake $BIFI-$CRO LP and earn $VVS
 
-If you have $BIFI and $CRO in your Cronos wallet, you can stake them together on VVS’s Liquidity Pools to create $BIFI-$CRO LP tokens and then earn $VVS with their crystal farms It’s a two-step process:
+If you have $BIFI and $CRO in your Cronos wallet, you can stake them together on VVS’s Liquidity Pools to create $BIFI-$CRO LP tokens and then earn $VVS with their Crystal Farms It’s a two-step process:
 
 1\. Head to the [$BIFI-$CRO Liquidity Pool](https://vvs.finance/add/CRO/0xe6801928061CDbE32AC5AD0634427E140EFd05F9), connect your wallet, and deposit $BIFI and $CRO in equal monetary amounts. You’ll then receive $BIFI-$CRP LP tokens. Make sure you save some $CRO for transaction fees.
 
