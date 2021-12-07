@@ -51,7 +51,7 @@ If you have $BIFI and $CRO in your Cronos wallet, you can stake them together on
 
 ![](/uploads/vss4.png)
 
-2\. Open the VVS Finance Crystal Farms, connect your wallet, and stake your $BIFI-$CRO LP tokens from step one. You’ll then earn $VVS rewards you can harvest manually from the Crystal Farm.
+2\. Open the [VVS Finance Crystal Farms](https://vvs.finance/farms), connect your wallet, and stake your $BIFI-$CRO LP tokens from step one. You’ll then earn $VVS rewards you can harvest manually from the Crystal Farm.
 
 ![](/uploads/vvw.png)
 
