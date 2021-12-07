@@ -63,4 +63,4 @@ To earn more LP tokens, follow step one from the previous section. Next, head to
 
 ### Closing words
 
-There's always an opportunity to earn with Beefy Finance amd
+There's always an opportunity to earn with Beefy Finance and explore new blockchains at the same time. Make sure to learn more about VVS Finance before making any investment decisions and following the steps in our guide. 
