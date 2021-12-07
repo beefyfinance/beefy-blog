@@ -13,7 +13,7 @@ You might have already heard that the Beefy Cow is grazing new pastures on the C
 
 ### What is VVS Finance?
 
-VVS Finance is an Automated Market Maker (AMM) and Decentralized Exchange (DEX) on the Cronos network. It works in a similar way to Uniswap on Ethereum or Binance Smart Chain’s Pancake Swap. Users can swap crypto pairs from pools of tokens and coins, similar to how you would use a bureau de change.
+VVS Finance is an Automated Market Maker (AMM) and Decentralized Exchange (DEX) on the Cronos network. It works similarly to Uniswap on Ethereum or Binance Smart Chain’s Pancake Swap. Users can swap crypto pairs from pools of tokens and coins, similar to how you would use a bureau de change.
 
 VVS also has its native utility, governance, and reward token, $VVS. You can use the token to stake and earn rewards and take part in community votes, for example. For a detailed guide on using the VVS ecosystem, check out their handy [Getting Started](https://docs.vvs.finance/getting-started) guide.
 
