@@ -29,7 +29,7 @@ If you already have $VVS in your wallet, you can easily earn $BIFI by staking yo
 
 ![](/uploads/glitter_mines.png)
 
-By heading to [https://vvs.finance/mines](https://vvs.finance/mines) and connecting your crypto wallet containing $VVS with the \[Connect Wallet\] button, you can begin to stake. You could use MetaMask or your Crypto.com wallet extension to do this.
+By heading to the [VVS Glitter Mines](https://vvs.finance/mines ) and connecting your crypto wallet containing $VVS with the \[Connect Wallet\] button, you can start staking. You could use MetaMask or your Crypto.com wallet extension, for example.
 
 ![](/uploads/vvs1.png)
 
