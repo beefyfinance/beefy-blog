@@ -61,6 +61,10 @@ To earn more LP tokens, follow step one from the previous section. Next, head to
 
 ![](/uploads/vvs7.png)
 
+You can also use the Zap feature if you only have $BIFI, $CRO, or $WCRO in your Cronos wallet. This lets you enter into the vault without needing to do manually stake in a liquidity pool. See our [Beefy Zap guide](https://docs.beefy.finance/moo/faq/how-to-guides/how-to-beefy-zap) for more details.
+
+![](/uploads/vvs8.png)
+
 ### Closing words
 
 There's always an opportunity to earn with Beefy Finance and explore new blockchains at the same time. Make sure to learn more about VVS Finance before making any investment decisions and following the steps in our guide.
