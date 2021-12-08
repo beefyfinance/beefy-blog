@@ -57,10 +57,10 @@ If you have $BIFI and $CRO in your Cronos wallet, you can stake them together on
 
 ### Stake $BIFI-$CRO LP and earn more LP tokens
 
-To earn more LP tokens, follow step one from the previous section. Next, head to the [Beefy Finance Cronos Vaults](https://app.beefy.finance/#/cronos) and search for the $BIFI-$CRO LP Vault. Stake your LP tokens and begin to autocompound your interest for more $BIFI-$CRO LP tokens.
+To earn more LP tokens, follow step one from the previous section. Next, head to the [Beefy Finance Cronos Vaults](https://app.beefy.finance/#/cronos) and search for the [$BIFI-$CRO LP Vault](https://app.beefy.finance/#/cronos/vault/vvs-cro-bifi). Stake your LP tokens and begin to autocompound your interest for more $BIFI-$CRO LP tokens.
 
-![](/uploads/bifi-cro-1.png)
+![](/uploads/vvs7.png)
 
 ### Closing words
 
-There's always an opportunity to earn with Beefy Finance and explore new blockchains at the same time. Make sure to learn more about VVS Finance before making any investment decisions and following the steps in our guide. 
+There's always an opportunity to earn with Beefy Finance and explore new blockchains at the same time. Make sure to learn more about VVS Finance before making any investment decisions and following the steps in our guide.
