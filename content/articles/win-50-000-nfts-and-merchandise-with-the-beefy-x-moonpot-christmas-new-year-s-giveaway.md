@@ -17,11 +17,11 @@ What would the holidays be without a few DeFi presents under the Christmas tree?
 
 Three new Moonpots will open from 24 to 31 December 2021, each with different holiday prizes. This adds up to a total of 9 draws with 210 winners. To participate in each Pot you will need either:
 
-**mooBIFI** - The receipt of BIFI deposited on [the BIFI Maxi vault](https://app.beefy.finance/#/bsc/vault/bifi-maxi) on Binance Smart Chain. The maximum deposit amount accepted in the mooBIFI Pot is 0.1 mooBIFI (around 0.11 BIFI).
+**mooBIFI** - The receipt of BIFI deposited on [the BIFI Maxi vault](https://app.beefy.finance/#/bsc/vault/bifi-maxi) on Binance Smart Chain
 
-**POTS** - Moonpot’s governance and reward token, with a maximum deposit of 50 $POTS.
+**POTS** - Moonpot’s governance and reward token
 
-**mooChristmasBeefy** - Last Christmas, Beefy's BSC’s BIFI Maxi vault distributed mooChristmasBeefy to stakers. If you don’t hold these tokens, you can still participate in the other two Pots! Maximum deposit of 100 mooChristmasBIFI.
+**mooChristmasBeefy** - Last Christmas, Beefy's BSC’s BIFI Maxi vault distributed mooChristmasBeefy to stakers. If you don’t hold these tokens, you can still participate in the other two Pots!
 
 ###   
 What Moonpots are available?
