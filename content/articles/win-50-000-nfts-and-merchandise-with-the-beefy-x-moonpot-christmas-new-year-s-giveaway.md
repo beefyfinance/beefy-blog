@@ -1,5 +1,6 @@
 +++
 date = 2021-12-24T11:00:00Z
+draft = true
 header_image = "/uploads/beefy-x-moonpot.png"
 short_description = "Celebrate Christmas with Beefy Finance and Moonpot with our Christmas giveaways"
 sub_header = "Win $50,000, NFTs, and merchandise this Christmas and New Year's"
