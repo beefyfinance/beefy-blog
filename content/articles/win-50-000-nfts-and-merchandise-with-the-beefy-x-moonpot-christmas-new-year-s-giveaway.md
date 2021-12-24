@@ -9,62 +9,46 @@ title = "Win $50,000, NFTs, and merchandise with the Beefy x Moonpot Christmas &
 +++
 ![](/uploads/partnership_vvs.png)
 
-You might have already heard that the Beefy Cow is grazing new pastures on the Cronos network. There are plenty of projects to explore, and VVS Finance is just one of our new partners on our tenth blockchain. There are three exciting ways to earn, so get your $BIFI, $VVS, and $CRO tokens ready to generate interest while you sleep!
+### Win $50,000, NFTs, and merchandise with the Beefy x Moonpot Christmas & New Year’s Giveaway
 
-### What is VVS Finance?
+What would the holidays be without a few DeFi presents under the Christmas tree? This year, you won’t even have to put up with a cheesy Christmas jumper either… To celebrate Christmas 2021 and New Year’s, Beefy Finance and Moonpot have teamed up to give you the chance of winning $50,000, NFTs, and some awesome merchandise. Get yourself in the Christmas spirit with both teams and celebrate a bumper year of APY, gains, and prizes.
 
-VVS Finance is an Automated Market Maker (AMM) and Decentralized Exchange (DEX) on the Cronos network. It works similarly to Uniswap on Ethereum or Binance Smart Chain’s PancakeSwap. Users can swap crypto pairs from pools of tokens and coins, similar to how you would use a bureau de change.
+### What exactly is the competition?
 
-VVS also has its native utility, governance, and reward token, $VVS. You can use the token to stake and earn rewards and take part in community votes. For a detailed guide on using the VVS ecosystem, check out their handy [Getting Started](https://docs.vvs.finance/getting-started) guide.
+Three new Moonpots will open from 24 to 31 December 2021, each with different holiday prizes. This adds up to a total of 9 draws with 210 winners. To participate in each Pot you will need either:
 
-### How can I earn rewards with Beefy, VVS Finance, and Cronos network?
+**mooBIFI** - The receipt of BIFI deposited on [the BIFI Maxi vault](https://app.beefy.finance/#/bsc/vault/bifi-maxi) on Binance Smart Chain. The maximum deposit amount accepted in the mooBIFI Pot will be 0.1 mooBIFI (around 0.11 BIFI)
 
-There are three ways to earn even more crypto with Beefy, VVS, and Cronos. First, you can earn $BIFI by staking $VVS. Second, you can stake $BIFI to earn $CRO or more $BIFI. Third, you can stake $BIFI-$CRO LP tokens to earn more $VVS or more LP tokens. Let’s take a look at each one and see exactly how they work.
+**POTS** - Moonpot’s governance and reward token, with a maximum of 50 $POTS
 
-![](/uploads/vvs_staking_guide.png)
+**mooChristmasBeefy** - Last Christmas, Beefy's BSC’s BIFI Maxi vault distributed mooChristmasBeefy to stakers. If you don’t hold these tokens, you can still participate in the other two Pots!
 
-### Stake $VVS and earn $BIFI
+###   
+What Moonpots are available?
 
-If you already have $VVS in your wallet, you can easily earn $BIFI by staking your $VVS in a Glitter Mine. A Glitter Mine on VVS Finance lets you lock up a single coin and earn interest in the same coin or another.
+**mooBIFI Pot - Draw date 00:00 UTC, December 31, 2021**
 
-![](/uploads/glitter_mines.png)
+Deposit your mooBIFI from our BSC $BIFI vaults and win from $36,000 worth of $POTS and $BIFI, as well as 125 hoodies. Each wallet is limited to depositing a maximum of 0.1 mooBIFI in the Moonpot.
 
-By heading to the [VVS Glitter Mines](https://vvs.finance/mines ) and connecting your crypto wallet containing $VVS with the \[Connect Wallet\] button, you can start staking. You could use MetaMask or your Crypto.com wallet extension, for example.
+**$POTS Christmas Pot - Daily draw 00:00 UTC, December 25-31, 2021**
 
-![](/uploads/vvs1.png)
+Deposit your $POTS and win from 70 Moonpot x Beefy T-shirts. Each wallet is limited to depositing a maximum of 50 $POTS.
 
-### Stake $BIFI and earn $CRO or $BIFI
+**mooChristmas2020BIFI Pot** **- Draw date 00:00 UTC, December 31, 2021**
 
-On our [Beefy Finance Cronos Vaults](https://app.beefy.finance/#/cronos), you can stake $BIFI with a single click to earn $BIFI rewards.
+Deposit your BSC mooChristmasBIFI from last year’s Christmas giveaways and win from $4,000 worth of $POTS and $BIFI, as well as 15 unique hoodies. Each wallet is limited to depositing a maximum of 100 mooChrismasBIFI in the Moonpot. This Pot is especially for our loyal users who have staked with us now for two Christmases!
 
-![](/uploads/vvs2.png)
+### Christmas NFTs powered by Galaxy
 
-You can also use the [Boosted Vault](https://app.beefy.finance/#/cronos/stake) to earn $CRO. **You’ll need to make sure your $BIFI is bridged to the Cronos network first.** Follow the [How to bridge BIFI cross-chain](https://docs.beefy.finance/moo/faq/how-to-guides/how-to-bridge-bifi-cross-chain) guide for exact steps on moving your $BIFI to the Cronos network from different blockchains.
+When it comes to NFTs, Galaxy is helping revolutionize the space. Projects can easily create lines of NFTs with a huge amount of flexibility. Galaxy NFTs aren't just collectibles either, they can also act as a form of digital identification. Because of these factors, we chose to partner with Galaxy to bring you our funky merchandise NFTs. Each one will be available to claim on Galaxy at [https://galaxy.eco/beefy](https://galaxy.eco/beefy "https://galaxy.eco/beefy") and convert into merch.
 
-![](/uploads/vvs3.png)
+### How do I collect my merchandise if I win?
 
-### Stake $BIFI-$CRO LP and earn $VVS
+If you win a hoodie or T-shirt in one of the Moonpot draws, your wallet will be credited with a merchandise NFT. Claim the NFT at Galaxy.eco which will then let you order your prize. Make sure you burn your NFT before February or you will lose your right to the merchandise.
 
-If you have $BIFI and $CRO in your Cronos wallet, you can stake them together on VVS’s Liquidity Pools to create $BIFI-$CRO LP tokens and then earn $VVS with their Crystal Farms It’s a two-step process:
+###   
+Spread the Beefy Christmas word and earn BNB
 
-1\. Head to the [$BIFI-$CRO Liquidity Pool](https://vvs.finance/add/CRO/0xe6801928061CDbE32AC5AD0634427E140EFd05F9), connect your wallet, and deposit $BIFI and $CRO in equal monetary amounts. You’ll then receive $BIFI-$CRP LP tokens. Make sure you save some $CRO for transaction fees.
+If you feel like earning a little extra Christmas spending money, we’re also giving away $100 to four of our Twitter followers. Simply like and retweet our [giveaway announcement post](https://twitter.com/beefyfinance/status/1472990877085839367) while tagging three friends. Get your entries in before December 24 for your chance to win.
 
-![](/uploads/vss4.png)
-
-2\. Open the [VVS Finance Crystal Farms](https://vvs.finance/farms), connect your wallet, and stake your $BIFI-$CRO LP tokens from step one. You’ll then earn $VVS rewards you can harvest manually from the Crystal Farm.
-
-![](/uploads/vvw.png)
-
-### Stake $BIFI-$CRO LP and earn more LP tokens
-
-To earn more LP tokens, follow step one from the previous section. Next, head to the [Beefy Finance Cronos Vaults](https://app.beefy.finance/#/cronos) and search for the [$BIFI-$CRO LP Vault](https://app.beefy.finance/#/cronos/vault/vvs-cro-bifi). Stake your LP tokens and begin to autocompound your interest for more $BIFI-$CRO LP tokens.
-
-![](/uploads/vvs7.png)
-
-You can also use the Zap feature if you only have $BIFI, $CRO, or $WCRO in your Cronos wallet. This lets you enter the vault without needing to manually stake in a liquidity pool. See our [Beefy Zap guide](https://docs.beefy.finance/moo/faq/how-to-guides/how-to-beefy-zap) for more details.
-
-![](/uploads/vvs8.png)
-
-### Closing words
-
-There's always an opportunity to earn with Beefy Finance and explore new blockchains at the same time. Make sure to learn more about VVS Finance before making any investment decisions and following the steps in our guide.
+So there you have it! Celebrate some Christmas and New Year’s cheer with your favorite DeFi platform and win-win savings game. It’s certainly been an exciting year for Beefy and Moonpot that’s got us all in the festive mood, so why not join us too?
