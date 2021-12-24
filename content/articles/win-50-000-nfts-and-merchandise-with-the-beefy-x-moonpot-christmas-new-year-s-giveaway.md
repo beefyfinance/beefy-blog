@@ -24,7 +24,7 @@ Three new Moonpots will open from 24 to 31 December 2021, each with different ho
 
 **mooBIFI Xmas Pot - Draw date 00:00 UTC, December 31, 2021**
 
-Deposit your mooBIFI from our BSC $BIFI vaults and win from $36,000 worth of $POTS and $BIFI, as well as 125 hoodies. Each wallet is limited to depositing a maximum of 0.1 mooBIFI in the Moonpot, and each winner will receive 60 POTS, 0.11 BIFI ($151), and 1 hoodie NFT.
+Deposit your mooBIFI from our BSC $BIFI vaults and win from $36,000 worth of $POTS and $BIFI, as well as 125 hoodies. Each wallet is limited to depositing a maximum of 0.1 mooBIFI in the Moonpot, and each winner will receive 60 $POTS, $0.11 BIFI ($151), and 1 hoodie NFT.
 
 **Ziggy's Xmas Pot - Daily draw 00:00 UTC, December 25-31, 2021**
 
@@ -32,7 +32,7 @@ Deposit your $POTS and win from 70 Moonpot x Beefy T-shirts. Each wallet is limi
 
 **mooChristmasBIFI Xmas Pot** **- Draw date 00:00 UTC, December 31, 2021**
 
-Deposit your BSC mooChristmasBIFI from last year’s Christmas giveaways and win from $4,000 worth of $POTS and $BIFI, as well as 15 unique hoodies. Each wallet is limited to depositing a maximum of 100 mooChristmasBIFI in the Moonpot. This Pot is especially for our loyal users who have staked with us now for two Christmases! Each winner will receive 0.13 BIFI, 67 POTS, and one hoodie NFT.
+Deposit your BSC mooChristmasBIFI from last year’s Christmas giveaways and win from $4,000 worth of $POTS and $BIFI, as well as 15 unique hoodies. Each wallet is limited to depositing a maximum of 100 mooChristmasBIFI in the Moonpot. This Pot is especially for our loyal users who have staked with us now for two Christmases! Each winner will receive $0.13 BIFI, $67 POTS, and one hoodie NFT.
 
 ### Christmas NFTs powered by Galaxy
 
