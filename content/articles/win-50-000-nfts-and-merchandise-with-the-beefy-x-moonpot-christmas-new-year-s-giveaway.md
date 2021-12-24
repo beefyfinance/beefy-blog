@@ -23,18 +23,19 @@ Three new Moonpots will open from 24 to 31 December 2021, each with different ho
 
 **mooChristmasBeefy** - Last Christmas, Beefy's BSC’s BIFI Maxi vault distributed mooChristmasBeefy to stakers. If you don’t hold these tokens, you can still participate in the other two Pots!
 
-###   
+### 
+
 What Moonpots are available?
 
-**mooBIFI Pot - Draw date 00:00 UTC, December 31, 2021**
+**mooBIFI Xmas Pot - Draw date 00:00 UTC, December 31, 2021**
 
 Deposit your mooBIFI from our BSC $BIFI vaults and win from $36,000 worth of $POTS and $BIFI, as well as 125 hoodies. Each wallet is limited to depositing a maximum of 0.1 mooBIFI in the Moonpot.
 
-**$POTS Christmas Pot - Daily draw 00:00 UTC, December 25-31, 2021**
+**Ziggy's Xmas Pot - Daily draw 00:00 UTC, December 25-31, 2021**
 
 Deposit your $POTS and win from 70 Moonpot x Beefy T-shirts. Each wallet is limited to depositing a maximum of 50 $POTS.
 
-**mooChristmas2020BIFI Pot** **- Draw date 00:00 UTC, December 31, 2021**
+**mooChristmasBIFI Xmas Pot** **- Draw date 00:00 UTC, December 31, 2021**
 
 Deposit your BSC mooChristmasBIFI from last year’s Christmas giveaways and win from $4,000 worth of $POTS and $BIFI, as well as 15 unique hoodies. Each wallet is limited to depositing a maximum of 100 mooChristmasBIFI in the Moonpot. This Pot is especially for our loyal users who have staked with us now for two Christmases!
 
@@ -48,7 +49,8 @@ When it comes to NFTs, Galaxy is helping revolutionize the space. Projects can e
 
 If you win a hoodie or T-shirt in one of the Moonpot draws, your wallet will be credited with a merchandise NFT. You can claim the NFT at Galaxy.eco and use it to redeem a merchandise code after the draw on December 31. More details will be released soon on exactly how to do this.
 
-### ![](/uploads/gear-2.png)  
+### ![](/uploads/gear-2.png)
+
 Spread the Beefy Christmas word and earn BNB
 
 So there you have it! Celebrate some Christmas and New Year’s cheer with your favorite DeFi platform and win-win savings game. It’s certainly been an exciting year for Beefy and Moonpot that’s got us all in the festive mood, so why not join us too?
