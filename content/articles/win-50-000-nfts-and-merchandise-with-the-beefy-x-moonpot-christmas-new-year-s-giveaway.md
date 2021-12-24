@@ -1,9 +1,9 @@
 +++
-date = 2021-12-06T11:00:00Z
+date = 2021-12-24T11:00:00Z
 draft = true
 header_image = "/uploads/partnership_vvs.png"
-short_description = "Get on board with Beefy Finance's most recently supported chain Cronos and Launchpool partner VVS"
-sub_header = "Beefy Finance gives you three opportunites to earn with your $BIFI, $VVS, and $CRO"
+short_description = "Celebrate Christmas with Beefy Finance and Moonpot with our Christmas giveaways"
+sub_header = "Win $50,000, NFTs, and merchandise this Christmas and New Year's"
 title = "Win $50,000, NFTs, and merchandise with the Beefy x Moonpot Christmas & New Year’s Giveaway"
 
 +++
@@ -48,7 +48,5 @@ If you win a hoodie or T-shirt in one of the Moonpot draws, your wallet will be 
 
 ###   
 Spread the Beefy Christmas word and earn BNB
-
-If you feel like earning a little extra Christmas spending money, we’re also giving away $100 to four of our Twitter followers. Simply like and retweet our [giveaway announcement post](https://twitter.com/beefyfinance/status/1472990877085839367) while tagging three friends. Get your entries in before December 24 for your chance to win.
 
 So there you have it! Celebrate some Christmas and New Year’s cheer with your favorite DeFi platform and win-win savings game. It’s certainly been an exciting year for Beefy and Moonpot that’s got us all in the festive mood, so why not join us too?
