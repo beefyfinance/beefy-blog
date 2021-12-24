@@ -1,6 +1,5 @@
 +++
 date = 2021-12-06T11:00:00Z
-draft = true
 header_image = "/uploads/partnership_vvs.png"
 short_description = "Get on board with Beefy Finance's most recently supported chain Cronos and Launchpool partner VVS"
 sub_header = "Beefy Finance gives you three opportunites to earn with your $BIFI, $VVS, and $CRO"
