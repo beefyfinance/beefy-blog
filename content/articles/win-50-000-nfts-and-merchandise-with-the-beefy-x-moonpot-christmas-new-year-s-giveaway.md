@@ -40,7 +40,7 @@ Deposit your BSC mooChristmasBIFI from last year’s Christmas giveaways and win
 
 ### Christmas NFTs powered by Galaxy
 
-When it comes to NFTs, Galaxy is helping revolutionize the space. Projects can easily create lines of NFTs with a huge amount of flexibility. Galaxy NFTs aren't just collectibles either, they can also act as a form of digital identification. Because of these factors, we chose to partner with Galaxy to bring you our funky merchandise NFTs. Each one will be available to claim on Galaxy at [https://galaxy.eco/beefy](https://galaxy.eco/beefy "https://galaxy.eco/beefy") and convert into merch.
+When it comes to NFTs, Galaxy is helping revolutionize the space. Projects can easily create lines of NFTs with a huge amount of flexibility. Galaxy NFTs aren't just collectibles either, they can also act as a form of digital identification. Because of these factors, we chose to partner with Galaxy to bring you our funky merchandise NFTs. Each one will be available to claim on Galaxy at [https://galaxy.eco/beefy](https://galaxy.eco/beefy "https://galaxy.eco/beefy") and convert into merch later.
 
 ![](/uploads/galaxy.png)
 
