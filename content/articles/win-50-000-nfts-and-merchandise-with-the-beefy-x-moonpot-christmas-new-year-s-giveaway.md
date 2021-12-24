@@ -23,9 +23,7 @@ Three new Moonpots will open from 24 to 31 December 2021, each with different ho
 
 **mooChristmasBeefy** - Last Christmas, Beefy's BSC’s BIFI Maxi vault distributed mooChristmasBeefy to stakers. If you don’t hold these tokens, you can still participate in the other two Pots!
 
-### 
-
-What Moonpots are available?
+### What Moonpots are available?
 
 **mooBIFI Xmas Pot - Draw date 00:00 UTC, December 31, 2021**
 
