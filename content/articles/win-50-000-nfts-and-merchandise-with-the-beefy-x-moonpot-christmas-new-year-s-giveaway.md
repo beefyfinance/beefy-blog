@@ -42,10 +42,8 @@ When it comes to NFTs, Galaxy is helping revolutionize the space. Projects can e
 
 ### How do I collect my merchandise if I win?
 
-If you win a hoodie or T-shirt in one of the Moonpot draws, your wallet will be credited with a merchandise NFT. You can claim the NFT at Galaxy.eco and use it to redeem a merchandise code after the draw on December 31. More details will be released soon on exactly how to do this.
+If you win a hoodie or T-shirt in one of the Moonpot draws, your wallet will be credited with a merchandise NFT. You can see the NFT at Galaxy.eco and use it to redeem a merchandise code after the draw on December 31. More details will be released soon on exactly how to do this.
 
 ### ![](/uploads/gear-2.png)
-
-Spread the Beefy Christmas word and earn BNB
 
 So there you have it! Celebrate some Christmas and New Year’s cheer with your favorite DeFi platform and win-win savings game. It’s certainly been an exciting year for Beefy and Moonpot that’s got us all in the festive mood, so why not join us too?
