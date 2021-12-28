@@ -1,6 +1,5 @@
 +++
 date = 2021-12-28T11:00:00Z
-draft = true
 header_image = "/uploads/header.png"
 short_description = "Protect your DeFi deposits for a small premium with smart contract insurance"
 sub_header = "Learn more about InsurAce with our in-depth AMA"
