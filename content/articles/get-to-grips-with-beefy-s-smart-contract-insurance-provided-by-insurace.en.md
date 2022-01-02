@@ -10,7 +10,7 @@ title = "Get to grips with Beefy’s smart contract insurance provided by InsurA
 
 If you’ve been using Beefy recently, you’ll likely have already seen the _Insurance_ button in the website banner. To help the Cowmoonity understand how InsurAce’s smart contract insurance product works, we invited Dan Thomson, InsurAce’s Director of Business Development and Marketing, to a Discord AMA.
 
-If you decide to insure your Beefy deposits via the _Insurance_ tab on [app.beefy.finance](app.beefy.finance), you’ll also get a 20% discount on your premium. Let’s briefly recap the project and then dive into some of Dan’s insights.
+If you decide to insure your Beefy deposits via the _Insurance_ tab on [app.beefy.finance](app.beefy.finance), you’ll also get a 10% discount on your premium. Let’s briefly recap the project and then dive into some of Dan’s insights.
 
 ### What is InsurAce?
 
