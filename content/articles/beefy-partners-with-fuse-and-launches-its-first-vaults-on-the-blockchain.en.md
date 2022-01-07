@@ -15,7 +15,7 @@ Fuse is here to empower businesses, projects, and other entities when it comes t
 2. A mobile-first tech stack for allowing token payments.
 3. DeFi products and tools to help adoption of the Fuse platform.
 
-Fuse also has its own token, $FUSE, used for staking, governance, transaction fees, validation, and payments on the network.
+Fuse also has its own token, **$FUS**E, used for staking, governance, transaction fees, validation, and payments on the network.
 
 ### Working together
 
