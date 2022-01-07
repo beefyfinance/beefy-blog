@@ -14,7 +14,7 @@ title = "Beefy partners with Fuse and launches its first vaults on the blockchai
 Fuse is here to empower businesses, projects, and other entities when it comes to crypto payments and DeFi. To achieve this, Fuse has created a suite of mobile-first tools that allow users to create their own blockchain solutions and implementations. Fuse is made up of:
 
 1. The Fuse, EVM-compatible, decentralized blockchain.
-2. The mobile-first tech stack for allowing token payments.
+2. A mobile-first tech stack for allowing token payments.
 3. DeFi products and tools to help adoption of the Fuse platform.
 
 Fuse also has its own token, $FUSE, used for staking, governance, transaction fees, validation, and payments on the network.
