@@ -29,7 +29,7 @@ We see Fuse as a forward-thinking team with a deep will for collaboration. This 
 
 ### Meet Fuse
 
-If you’ve got more questions on the project, why not ask them yourself? This Thursday 13 at 14:00 UTC, Beefy will host an AMA with the Fuse team. There will also be the opportunity to earn some $BIFI and $FUSE in the event. To join in the broadcast, head to Fuse or Beefy’s Telegram channel tomorrow at the mentioned time. We’ll also be collecting questions from the team on Discord and Twitter.
+If you’ve got more questions on the project, why not ask them yourself? This Thursday 13 January at 14:00 UTC, Beefy will host an AMA with the Fuse team. There will also be the opportunity to earn some $BIFI and $FUSE in the event. To join in the broadcast, head to Fuse or Beefy’s Telegram channel tomorrow at the mentioned time. We’ll also be collecting questions from the team on Discord and Twitter.
 
 ### How to bridge to Fuse
 
