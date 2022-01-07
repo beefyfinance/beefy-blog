@@ -1,7 +1,7 @@
 +++
 date = 2022-01-07T11:00:00Z
 draft = true
-header_image = ""
+header_image = "/uploads/fuse.png"
 short_description = "Beefy adds Fuse to its list of supported blockchains bringing the number to 11"
 sub_header = "Beefy launches on Fuse"
 title = "Beefy partners with Fuse and launches its first vaults on the blockchain"
@@ -25,8 +25,6 @@ We have been working with Fuse since November, developing the best partnership f
 
 When it comes to bridging, [Multichain.io](http://multichain.io) (formerly Anyswap) has already deployed contracts to bridge $BIFI to Fuse. It’s official… $BIFI is now on 11 chains. As always, the supply stays the same (80,000 $BIFI) so there’s never any inflation.
 
-![](/uploads/fuse-b.png)
-
 We see Fuse as a forward-thinking team with a deep will for collaboration. This is vital for any partnership, and we wish the best of luck to the chain. As part of our responsibility to the Cowmoonity, we will work to make this relationship as advantageous as possible for all users.
 
 ### Meet Fuse
@@ -36,6 +34,8 @@ If you’ve got more questions on the project, why not ask them yourself? This T
 ### How to bridge to Fuse
 
 Bridging to Fuse is simple with [Multichain.io](http://multichain.io). Head to the site and connect your BSC/ETH wallet to send BUSD, ETH, $FUSE, and BNB across chains.
+
+![](/uploads/fuse-b.png)
 
 You can also buy $FUSE on 1inch and PancakeSwap using the following token contract: 0x5857c96dae9cf8511b08cb07f85753c472d36ea3. Once you’ve secured some $FUSE, don’t forget to stake in our new Beefy vaults for some bumper APYs.
 
