@@ -44,4 +44,4 @@ There are a variety of new Beefy vaults on Fuse to let you maximize your APY ret
 
 ![](/uploads/a1.png)
 
-That's it! You have all the information you need to earn the highest yield, in the safest way, thanks to Beefy and Fuse. We look to meeting you all in the AMA and asking the Fuse team all of your questions.
+That's it! You have all the information you need to earn the highest yield, in the safest way, thanks to Beefy and Fuse. We look to meeting you all in the AMA and asking the Fuse team your questions.
