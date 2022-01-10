@@ -1,6 +1,5 @@
 +++
 date = 2022-01-07T11:00:00Z
-draft = true
 header_image = "/uploads/fuse.png"
 short_description = "Beefy adds Fuse to its list of supported blockchains bringing the number to 11"
 sub_header = "Beefy launches on Fuse"
@@ -15,7 +14,7 @@ Fuse is here to empower businesses, projects, and other entities when it comes t
 2. A mobile-first tech stack for allowing token payments.
 3. DeFi products and tools to help adoption of the Fuse platform.
 
-Fuse also has its own token, **$FUS**E, used for staking, governance, transaction fees, validation, and payments on the network.
+Fuse also has its own token, **$FUSE**, used for staking, governance, transaction fees, validation, and payments on the network.
 
 ### Working together
 
@@ -27,7 +26,7 @@ We see Fuse as a forward-thinking team with a deep will for collaboration. This 
 
 ### Meet Fuse
 
-If you’ve got more questions on the project, why not ask them yourself? This **Thursday 13 January at 14:00 UTC**, Beefy will host an AMA with the Fuse team. There will also be the opportunity to earn some **$BIFI** and **$FUSE** in the event. To join in the broadcast, head to Fuse or Beefy’s Telegram channel at the mentioned time, or listen directly from BeefyFinance's Twitter Space. We’ll also be collecting questions from the team on Discord and Twitter.
+If you’ve got more questions on the project, why not ask them yourself? This **Thursday 13 January at 14:00 UTC**, Beefy will host an AMA with the Fuse team. There will also be the opportunity to earn some **$BIFI** and **$FUSE** in the event. To join in the broadcast, head to Fuse or Beefy’s Telegram channel at the mentioned time, or listen directly from Beefy Finance's Twitter Space. We’ll also be collecting questions from the team on Discord and Twitter.
 
 ### How to bridge to Fuse
 
@@ -37,7 +36,7 @@ You can also buy **$FUSE** on 1inch and PancakeSwap using the following token co
 
 **$BIFI** is already on Fuse thanks to Multichain (formerly Anyswap). You can bridge your **$BIFI** from any of the other 10 chains Beefy is on, directly to Fuse.
 
-![](/uploads/fuse-b.png)  
+![](/uploads/fuse-b.png)
 
 ### New Fuse vaults on Beefy
 
