@@ -18,7 +18,7 @@ Fuse also has its own token, **$FUSE**, used for staking, governance, transactio
 
 ### Working together
 
-We have been working with Fuse since November, developing the best partnership for both ecosystems beyond simple co-marketing. 100,000 FUSE tokens are now in the hands of Beefy Finance to create our **Beefy validator for the chain, strengthening its decentralization.** Both projects will also provide $BIFI and FUSE in equal parts to create a $BIFI-FUSE LP on [fuse.fi](http://fuse.fi). This will allow Fuse users to buy and sell $BIFI on the blockchain’s biggest DEX.
+We have been working with Fuse since November, developing the best partnership for both ecosystems beyond simple co-marketing. 100,000 FUSE tokens are now in the hands of Beefy Finance to create our **Beefy validator for the chain, strengthening its decentralization.** Both projects will also provide $BIFI and $FUSE in equal parts to create a $BIFI-FUSE LP on [fuse.fi](http://fuse.fi). This will allow Fuse users to buy and sell $BIFI on the blockchain’s biggest DEX.
 
 When it comes to bridging, [Multichain.io](http://multichain.io) (formerly Anyswap) has already deployed contracts to bridge **$BIFI** to Fuse. It’s official… **$BIFI** is now on 11 chains. As always, the supply stays the same (80,000 **$BIFI**) so there’s never any inflation.
 
@@ -44,4 +44,4 @@ There are a variety of new Beefy vaults on Fuse to let you maximize your APY ret
 
 ![](/uploads/a1.png)
 
-That's it! You have all the information you need to earn the highest yield, in the safest way, thanks to Beefy and Fuse. We are looking forward to meet you on our AMA, and ask the Fuse team all of your questions.
+That's it! You have all the information you need to earn the highest yield, in the safest way, thanks to Beefy and Fuse. We look to meeting you all in the AMA and asking the Fuse team all of your questions.
