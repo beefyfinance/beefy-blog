@@ -43,7 +43,7 @@ To mint your very own Talien, you can:
 
 $LAC is LaCucina’s native BEP20 token on Binance Smart Chain. $LAC is distributed to users via rewards from staking on third-party decentralized exchanges and Beefy and will be swappable on a number of DEXs. By staking in supported projects’ liquidity pools, you can begin to earn $LAC and claim it by connecting your wallet to the LaCucina platform.
 
-You can use your $LAC to enter the Taliens NFT ecosystem and purchase collectibles, create new NFT _Dishes,_ and hasten or reverse the _cooking_ process when combining _Secret Ingredients._ Each _Dish_ you create can also boost your $LAC rewards with a X1 to X10 multiplier when activated in any _Oven_.
+You can use your $LAC to enter the Taliens NFT ecosystem and purchase collectibles, create new NFT _Dishes,_ and hasten or reverse the _cooking_ process when combining _Secret Ingredients._ Each _Dish_ you create can also boost your $LAC rewards with an X1 to X10 multiplier when activated in any _Oven_.
 
 ### New LaCucina vault on Beefy
 
