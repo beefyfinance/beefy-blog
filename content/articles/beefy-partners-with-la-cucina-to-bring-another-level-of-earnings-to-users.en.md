@@ -1,6 +1,5 @@
 +++
 date = 2022-01-10T03:00:00Z
-draft = true
 header_image = "/uploads/la_cucina.png"
 short_description = "Learn everything you need to earn more tokens on top of some of your Beefy deposits."
 sub_header = ""
