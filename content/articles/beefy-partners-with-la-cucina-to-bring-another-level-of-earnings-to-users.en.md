@@ -17,7 +17,7 @@ As part of the Beefy and LaCucina partnership, LaCucina will set up _Ovens_ cove
 
 ### Meet LaCucina
 
-You don’t have to just take our word for all of this either! We will host an AMA with La Cucina on our Discord server, next Friday at 12:00 UTC. The AMA will be chat-based and take place on the AMA Channel [https://discord.gg/2z9AVa4Z](https://discord.gg/2z9AVa4Z "https://discord.gg/2z9AVa4Z") . We will be collecting questions for the La Cucina team and rewarding the best questions. You can learn more about the project and even win exclusive Secret Ingredient NFTs from their collection.
+You don’t have to just take our word for all of this either! We will host an AMA with La Cucina on our Discord server, next Friday at 12:00 UTC. The AMA will be chat-based and take place on the AMA Channel [https://discord.gg/2z9AVa4Z](https://discord.gg/2z9AVa4Z "https://discord.gg/2z9AVa4Z") . Before the AMA, we will collect questions for the La Cucina team with rewards given for the best questions. You can learn more about the project and even win exclusive Secret Ingredient NFTs from their collection.
 
 ### What are Taliens?
 
