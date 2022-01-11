@@ -28,6 +28,8 @@ There are 10,000 Genesis Taliens up for grabs, limited to one Talien per wallet.
 
 Owning a Talien provides exclusive benefits in LaCucina, including early access to _Secret Ingredient_ NFTs for crafting and the ability to combine an increased amount of Secret Ingredients. You’ll also be able to _uncook_ for free and enjoy increased voting power.
 
+![](/uploads/screenshot-2022-01-11-094713.png)
+
 To mint your very own Talien, you can:
 
 1. Head to the [LaCucina Discord channel](https://t.co/FI1sLIICwP) and verify yourself.
