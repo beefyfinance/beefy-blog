@@ -4,7 +4,7 @@ draft = true
 header_image = "/uploads/la_cucina.png"
 short_description = "Earn $LAC and NFTs by staking in Beefy's new LaCucina Vaults"
 sub_header = "Beefy launches LaCucina vaults"
-title = "Earn extra rewards with Beefy and LaCucina"
+title = "Earn extra crypto rewards with Beefy and LaCucina"
 
 +++
 ![](/uploads/la_cucina.png)  
