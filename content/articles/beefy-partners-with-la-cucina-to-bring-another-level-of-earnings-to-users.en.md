@@ -1,6 +1,5 @@
 +++
 date = 2022-01-10T03:00:00Z
-draft = true
 header_image = "/uploads/la_cucina.png"
 short_description = "Mint a free Talien NFT and stake in Beefy vaults to earn $LAC with LaCucina and "
 sub_header = "Beefy partners with LaCucina for extra $LAC rewards"
@@ -36,6 +35,8 @@ To mint your very own Talien, you can:
 2. Read the instructions in the # ⭐minting-instructions channel
 3. Go to the _👽-makemetalien_ channel and type “/makemetalien”
 4. Follow the instructions given by the bot. You’ll need a crypto wallet and enough BNB for the minting fee.
+
+For more detailed instructions, head to the [Minting Your Talien Guide](https://medium.com/@lacucina/minting-your-talien-b1689b7a36c4).
 
 **Don’t forget, Genesis Taliens are limited to 10,000, so make sure to mint yours now while they’re still available.**
 
