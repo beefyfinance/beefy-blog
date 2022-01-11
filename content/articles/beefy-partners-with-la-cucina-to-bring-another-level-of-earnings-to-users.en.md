@@ -1,5 +1,6 @@
 +++
 date = 2022-01-10T03:00:00Z
+draft = true
 header_image = "/uploads/la_cucina.png"
 short_description = "Mint a free Talien NFT and stake in Beefy vaults to earn $LAC with LaCucina and "
 sub_header = "Beefy partners with LaCucina for extra $LAC rewards"
