@@ -2,7 +2,7 @@
 date = 2022-01-10T03:00:00Z
 header_image = "/uploads/la_cucina.png"
 short_description = "Learn everything you need to earn more tokens on top of some of your Beefy deposits."
-sub_header = ""
+sub_header = "Beefy Partners with La Cucina to bring another level of earnings to users."
 title = "Beefy Partners with La Cucina to bring another level of earnings to users."
 
 +++
