@@ -1,5 +1,5 @@
 +++
-date = ""
+date = 2022-01-11T11:00:00Z
 draft = true
 header_image = "/uploads/la_cucina.png"
 short_description = "Earn $LAC and NFTs by staking in Beefy's new LaCucina Vaults"
