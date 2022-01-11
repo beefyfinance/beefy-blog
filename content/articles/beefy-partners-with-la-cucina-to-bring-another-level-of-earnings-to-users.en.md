@@ -1,9 +1,9 @@
 +++
 date = 2022-01-10T03:00:00Z
 header_image = "/uploads/la_cucina.png"
-short_description = "Learn everything you need, to earn more tokens on top of some of your Beefy deposits."
-sub_header = "Beefy Partners with La Cucina to bring another level of earnings to users"
-title = "Beefy Partners with La Cucina to bring another level of earnings to users."
+short_description = "Mint a free Talien NFT and stake in Beefy vaults to earn $LAC with LaCucina and "
+sub_header = ""
+title = "Earn extra crypto rewards with Beefy's new partner LaCucina"
 
 +++
 ![](/uploads/la_cucina.png)  
@@ -17,15 +17,17 @@ As part of the Beefy and LaCucina partnership, LaCucina will set up _Ovens_ cove
 
 ### Meet LaCucina
 
-You don’t have to just take our word for all of this either! We will host an AMA with La Cucina on our Discord server, next Friday at 12:00 UTC. The AMA will be chat-based, and it will take place on the [AMA Channel](https://discord.gg/2z9AVa4Z). We will be collecting questions for the La Cucina team and rewarding the best questions. You can learn more about the project and even win exclusive Secret Ingredient NFTs from their collection.
+You don’t have to just take our word for all of this either! We will host an AMA with La Cucina on our Discord server, next Friday at 12:00 UTC. The AMA will be chat-based and take place on the AMA Channel [https://discord.gg/2z9AVa4Z](https://discord.gg/2z9AVa4Z "https://discord.gg/2z9AVa4Z") . We will be collecting questions for the La Cucina team and rewarding the best questions. You can learn more about the project and even win exclusive Secret Ingredient NFTs from their collection.
 
 ### What are Taliens?
 
-Taliens are LaCucina’s NFT alien collection from Planet Talios, currently available to mint **for free** in their Genesis Series. After LaCucina’s official launch on January 24, a single Talian will be sold for around $250 each, so make sure to mint them while you can!
+Taliens are LaCucina’s NFT alien collection from Planet Talios, currently available to mint **for free** in their Genesis Series. After LaCucina’s official launch on January 24, a single Talien will be sold for around $250 each, so make sure to mint them while you can!
 
 There are 10,000 Genesis Taliens up for grabs, limited to one Talien per wallet. Each Talien has a unique set of features, all with different rarities. You can also collect NFT accessories for your Talien and customize their looks.
 
 Owning a Talien provides exclusive benefits in LaCucina, including early access to _Secret Ingredient_ NFTs for crafting and the ability to combine an increased amount of Secret Ingredients. You’ll also be able to _uncook_ for free and enjoy increased voting power.
+
+![](/uploads/screenshot-2022-01-11-094713.png)
 
 To mint your very own Talien, you can:
 
@@ -35,8 +37,6 @@ To mint your very own Talien, you can:
 4. Follow the instructions given by the bot. You’ll need a crypto wallet and enough BNB for the minting fee.
 
 **Don’t forget, Genesis Taliens are limited to 10,000, so make sure to mint yours now while they’re still available.**
-
-![](/uploads/1_y_oztbze_zyqb4bp5hoaug.png)
 
 ### What is $LAC?
 
