@@ -25,7 +25,7 @@ For more information on the project, why not dive into the Metis community? Drop
 
 ### Metis’ key features
 
-With Metis’ mainnet still less than two months old, staking your coins in a Metis vault can be a great opportunity to get on at the ground floor. Within its short life, Metis already has:
+With Metis’ mainnet still less than two months old, staking your coins in a Metis vault can be a great opportunity to get in at the ground floor. Within its short life, Metis already has:
 
 1. Bridges to 5 major networks with more coming soon
 2. Multiple oracle providers
