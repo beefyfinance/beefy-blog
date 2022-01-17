@@ -1,12 +1,14 @@
 +++
 date = ""
 draft = true
-header_image = ""
+header_image = "/uploads/metis.png"
 short_description = ""
 sub_header = ""
 title = "Metis x Beefy: Earn APY on a brand new network"
 
 +++
+![](/uploads/metis.png)
+
 Another day, another network. 12 to be precise. The Beefy Cow has some brand new pastures to graze on and Vaults to explore in the Metis ecosystem. Not familiar with the network? The Metis network is, in fact, less than two months old, and Beefy Finance isn’t the kind of DAO that likes to miss out on new opportunities. Let’s take a closer look at what Metis does and how Beefy has partnered with the new chain.
 
 ### About Metis
@@ -21,7 +23,7 @@ For more information on the project, why not dive into the Metis community? Drop
 
 > "_We are delighted to partner with Beefy Finance to help accelerate the growth of our already booming ecosystem. Beefy Finance will significantly strengthen our already strong stable of DeFi offerings, and Beefy's multi-chain approach fits perfectly with Metis' mission of creating a hub for the entire Web3 economy, interconnected with the rest of the vast blockchain world_." — Elena Sinelnikova, Metis Co-Founder and CEO
 
-## Metis’ key features
+### Metis’ key features
 
 With Metis’ mainnet still less than two months old, staking your coins in a Metis vault can be a great opportunity to get on at the ground floor. Within its short life, Metis already has:
 
@@ -31,13 +33,15 @@ With Metis’ mainnet still less than two months old, staking your coins in a Me
 4. Three DEXs, Netswap, Tethys.Finance, and Standard.Protocol, with the largest (Netswap) hitting $100M TVL three works after its launch. Netswap will also have its own launchpad at the end of January with preferred access given to $NETT and $METIS token holders.
 5. A $1M hackathon completed with dozens of DApps to be integrated
 
-### Metis Deployed Vaults
+### Metis deployed Vaults
 
 Beefy has launched 11 Netswap Vaults on Metis with more to be added in the future. To start autocompounding and maximizing your Metis gains, just drop your LP tokens into a Vault on [Beefy Finance DApp](http://beefy.finance) or Zap in with a single asset. You can keep up to date with developments by following @beefyfinance on Twitter.
 
-![](https://lh4.googleusercontent.com/VEYUCHbJGriOI1hLEAgSmmUY0HIVQE66bKcgDpwRqxa0TrkTz5D0Xa48JxtnTHPD38XU42z17h56MnDM51ImvodvCzoexYZnVP3W65n_yldadHCWQkgHcXOm4VRXod95BEJ4wcox =602x339)
+![](/uploads/image0_6.png)
 
-![](https://lh3.googleusercontent.com/4YgFoWAs3u0lSA-pVVmmeh-s9-PMI1XFNG6YnClQhGo8JHh07eJvPwfWBvRCNPB2Airwfo9Pccv1EFl7huX-1k_UNgrFCzJGGRVs-1VwNxK57I9Gd9jQLhavLBWPmPux0ZaDk-Fe =602x339)
+![](/uploads/image0_5.png)
+
+![](/uploads/metis_1.png)
 
 ### Closing words
 
