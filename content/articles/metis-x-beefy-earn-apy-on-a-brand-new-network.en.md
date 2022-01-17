@@ -1,9 +1,9 @@
 +++
-date = ""
+date = 2022-01-17T11:00:00Z
 draft = true
 header_image = "/uploads/metis.png"
-short_description = ""
-sub_header = ""
+short_description = "Stake in 11 new vaults on the recently launched Metis network"
+sub_header = "Beefy now supports Metis"
 title = "Metis x Beefy: Earn APY on a brand new network"
 
 +++
