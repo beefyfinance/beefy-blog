@@ -9,7 +9,7 @@ title = "Metis x Beefy: Earn APY on a brand new network"
 +++
 ![](/uploads/metis.png)
 
-Another day, another network. 12 to be precise. The Beefy Cow has some brand new pastures to graze on and Vaults to explore in the Metis ecosystem. Not familiar with the network? The Metis network is, in fact, less than two months old, and Beefy Finance isn’t the kind of DAO that likes to miss out on new opportunities. Let’s take a closer look at what Metis does and how Beefy has partnered with the new chain.
+Another day, another network. 12 to be precise. The Beefy Cow has some brand new pastures to graze on and Vaults to explore in the Metis ecosystem. Not familiar with the network? Metis is, in fact, less than two months old, and Beefy Finance isn’t the kind of DAO that likes to miss out on new opportunities. Let’s take a closer look at what Metis does and how Beefy has partnered with the new chain.
 
 ### About Metis
 
