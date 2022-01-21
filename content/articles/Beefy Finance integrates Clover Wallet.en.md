@@ -8,13 +8,13 @@ title = "Beefy partners with Clover to bring you Clover Wallet integration"
 
 +++
 
-Tired of constantly switching chains in your wallet to access your DeFi funds? The Beefy Cow is. If you want to navigate Beefy's vaults across blockchains with ease, you can now use Clover wallet with our platform. You can also earn 5 free $CLV for yourself and 1 $CLV for the Beefy Treasury for the treasury as part of our new Clover partnership.
+Tired of constantly switching chains in your wallet to access your DeFi funds? The Beefy Cow is. If you want to navigate Beefy's vaults across blockchains with ease, you can now use Clover wallet with our platform. You can also earn 5 free $CLV for yourself and 1 $CLV for the Beefy Treasury as part of our new Clover partnership.
 
 ### What is Clover Wallet?
 
-Clover Wallet is [Clover's](https://clover.finance/) official extension, mobile, and web crypto wallet. You may already know Clover from their recent win of a Parachain slot on Polkadot. The project will help Ethereum and EVM-based developers port their projects onto Polkadot.
+Clover Wallet is [Clover's](https://clover.finance/) official extension, mobile, and web crypto wallet. You may already know Clover from their recent win of a Parachain slot on Polkadot. The project will help Ethereum and EVM-based developers port their projects and work on Polkadot.
 
-Clover wallet offers the same functionality as other wallets, plus a few extras you might not have seen before. These include:
+Clover wallet offers all the functionality you're used to plus a few juicy extras you might not have seen before. These include:
 
 > 1. Multi-chain dApp interactive support for EVM networks, DOT/KSM + parachains, Solana
 > 2. Always on functionality for connectivity for multiple networks
