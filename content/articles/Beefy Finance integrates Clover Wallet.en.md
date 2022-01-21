@@ -1,10 +1,10 @@
 +++
-date = ""
+date = 2022-01-21T02:00:00Z
 draft = true
 header_image = ""
-short_description = ""
+short_description = "Stake crypto in your Clover Wallet to earn free $CLV with our Clover partnership"
 sub_header = ""
-title = ""
+title = "Beefy partners with Clover to bring you Clover Wallet integration"
 
 +++
 
