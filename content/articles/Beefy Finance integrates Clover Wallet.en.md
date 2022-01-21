@@ -35,3 +35,7 @@ The steps are simple. All you need to do is:
 4\. Receive 5 $CLV, and Beefy’s treasury will also receive 1 $CLV.
 
 Make sure that you're using the Clover Extension Wallet when you're accessing Beefy.Finance for your transactions. The $200 of crypto to hold includes ETH, BNB, DOT, KSM, CLV, SOL, and **XXXXX.**
+
+### Beefy makes earning easy
+
+No matter your favorite blockchain, crypto, wallet, or projects, Beefy has something for you out of our 740 plus vaults. Partnerships like the one we've built with Clover benefit the Cowmoonity and our treasury, creating a stronger ecosystem and $BIFI for holders. With limited $CLV available as rewards for Beefy and Clover users, why not give Clover Wallet a try today?
