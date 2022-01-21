@@ -42,6 +42,7 @@ fields:
       format: markdown
   label: Short Description
 pages:
+- content/articles/Beefy Finance integrates Clover Wallet.en.md
 - content/articles/are-you-a-bifi-holder-or-planning-to-be-this-might-be-interesting.en.md
 - content/articles/beefy-makes-cronos-the-10th-chain.en.md
 - content/articles/beefy-partners-with-fuse-and-launches-its-first-vaults-on-the-blockchain.en.md
