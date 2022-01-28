@@ -1,6 +1,5 @@
 +++
 date = 2022-01-28T11:00:00Z
-draft = true
 header_image = "/uploads/ethdenver.png"
 short_description = "Chat everything DeFi and BUIDL with Weso from February 17-20, 2022 in Denver, Colorado."
 sub_header = "Meet the Beefy team at ETHDenver 2022"
