@@ -46,7 +46,9 @@ Beefy users can get binSPIRIT by either minting it with SPIRIT tokens at a 1:1 r
 
 ### Use your mooTokens as collateral for MAI with QiDao
 
-If you’ve decided to deposit your binSPIRIT in a Beefy Vault, you can extract even more value out of them with QiDao. Your moobinSPIRIT and moobinSPIRIT-SPIRIT LP tokens can both be used as collateral for borrowing MAI, QiDao’s stablecoin, via pools on [_market.xyz_](http://market.xyz). You can read more about the process in our [_QiDao x Beefy article_](https://blog.beefy.finance/articles/your-mootokens-are-really-valuable-now-even-more/).
+If you’ve decided to deposit your binSPIRIT in a Beefy Vault, you can extract even more value out of them with QiDao. Your moobinSPIRIT and moobinSPIRIT-SPIRIT LP tokens can both be used as collateral for borrowing MAI, QiDao’s stablecoin, via pools on [_market.xyz_](http://market.xyz). You can read more about the process in our [_QiDao x Beefy article_](https://blog.beefy.finance/articles/your-mootokens-are-really-valuable-now-even-more/), as well as explore all our strategies in the infographic below:
+
+![](/uploads/ingographic.png)
 
 ### Unlock your portfolio’s potential and earn more with Beefy
 
