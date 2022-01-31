@@ -3,7 +3,7 @@ date = 2022-01-31T11:00:00Z
 draft = true
 header_image = ""
 short_description = ""
-sub_header = ""
+sub_header = "Beefy adds Aurora support"
 title = "Beefy x Aurora"
 
 +++
