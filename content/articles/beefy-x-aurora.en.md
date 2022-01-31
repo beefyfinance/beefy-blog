@@ -21,7 +21,7 @@ Users can pay their transaction fees with ETH on Aurora. Relayers will take tran
 
 ### What vaults will Beefy support on Aurora?
 
-We just deployed with Trisolaris vaults, but more platforms are on the way. If you want your favorite Aurora project on Beefy head over to our Discord and let us know which one.
+We just deployed with Trisolaris vaults, **this means that you can start earning compounded interests on your Trisolaris deposits, with the level of safety only Beefy can give you.** If you want your favorite Aurora project on Beefy head over to our Discord and let us know which one it is.
 
 ### What tokens can you bridge to Aurora?
 
