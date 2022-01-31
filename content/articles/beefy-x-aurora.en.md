@@ -2,7 +2,7 @@
 date = 2022-01-31T11:00:00Z
 draft = true
 header_image = "/uploads/aurora.png"
-short_description = "Start staking in brand new Vaults on using the Aurora EVM"
+short_description = "Start earning compounded interest on your funds in Aurora, the EVM solution for Near"
 sub_header = "Beefy adds Aurora support"
 title = "Beefy x Aurora"
 
@@ -21,13 +21,15 @@ Users can pay their transaction fees with ETH on Aurora. Relayers will take tran
 
 ### What vaults will Beefy support on Aurora?
 
-Vaults+exchange.
+We just deployed with Trisolaris vaults, but more platforms are on the way. If you want your favorite Aurora project on Beefy head over to our Discord and let us know which one.
 
 ### What tokens can you bridge to Aurora?
 
-You can bridge ETH and ERC-20 tokens using the Rainbow Bridge, as well as tokens from the NEAR chain. Bridging is done in a single transaction when bridging from Ethereum to Aurora´and takes ten minutes. Bridging from Aurora to Ethereum can take up to 12 hours and requires two transactions.
+You can bridge ETH and ERC-20 tokens using the Rainbow Bridge, as well as tokens from the NEAR chain. Bridging is done in a single transaction when bridging from Ethereum to Aurora´ and takes ten minutes. Bridging from Aurora to Ethereum can take up to 12 hours and requires two transactions.
 
-To start bridging, head to [https://rainbowbridge.app/transfer](https://rainbowbridge.app/transfer "https://rainbowbridge.app/transfer") and connect your wallet. Rainbow Bridge will then guide you throw the process.
+To start bridging, head to [Synapse Protocol](https://synapseprotocol.com/) and connect your wallet. You can bridge USDT, USDC, DAI, between many chains, to Aurora.  
+  
+If you have your funds in Ethereum you can use the [Rainbow Bridge](https://rainbowbridge.app/transfer)
 
 ### How will this impact $BIFI holders?
 
