@@ -21,7 +21,7 @@ Users can pay their transaction fees with ETH on Aurora. Relayers will take tran
 
 Vaults+exchange.
 
-### What tokens and how can you bridge to Aurora?
+### What tokens can you bridge to Aurora?
 
 You can bridge ETH and ERC-20 tokens using the Rainbow Bridge, as well as tokens from the NEAR chain. Bridging is done in a single transaction when bridging from Ethereum to Aurora´and takes ten minutes. Bridging from Aurora to Ethereum can take up to 12 hours and requires two transactions.
 
