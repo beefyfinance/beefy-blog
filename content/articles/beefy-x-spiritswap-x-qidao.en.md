@@ -7,6 +7,8 @@ sub_header = "Next-level SPIRIT staking with Beefy"
 title = "Beefy x SpiritSwap x QiDao"
 
 +++
+![](/uploads/partnership.png)
+
 If you’re a fan of SPIRIT staking on Fantom with SpiritSwap, then you’ve come to the right Cow. From February 1, 2021, you’ll be able to mint binSPIRIT through Beefy Finance, giving you the best chance of maximizing your reward boost. But that’s not all. binSPIRIT is a fully transferable token and can also be used to borrow MAI on market.xyz through QiDao’s seeded locker.
 
 Whether you’re new to SpiritSwap farms or just need a recap, have no fear. We’ve outlined the key basics for you to get to grips with below.
@@ -29,6 +31,8 @@ Through arbitrage, binSPIRIT should maintain a 1:1 peg with SPIRIT. If binSPIRIT
 
 When binSPIRIT is more expensive than SPIRIT, SPIRIT holders will mint binSPIRIT and sell it on the market for its higher price. An increase in supply will lower the price back to its peg.
 
+![](/uploads/mint_binspirit.png)
+
 ### Beefy’s inSPIRIT voting power
 
 Through holding inSPIRIT, Beefy will also gain voting power on SpiritSwap farm emission allocations. 1 inSPIRIT is equal to one vote and can also be used for improvement proposals in SpiritSwap’s snapshot governance system. With our inSPIRIT bag, Beefy will vote for increased incentives for BIFI-FTM and MAI-FTM as part of our partnership with QiDao.
@@ -43,6 +47,8 @@ Beefy users can get binSPIRIT by either minting it with SPIRIT tokens at a 1:1 r
 
 1. They can use their tokens as liquidity with SPIRIT in the binSPIRIT-SPIRIT liquidity pool on SpiritSwap and place the LP tokens in our binSPIRIT-SPIRIT Vault.
 2. They can stake binSPIRIT in a single asset Vault, with rewards coming from SpiritSwap protocol fees.
+
+   ![](/uploads/vaults.png)
 
 ### Use your mooTokens as collateral for MAI with QiDao
 
