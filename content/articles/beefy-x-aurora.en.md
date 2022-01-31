@@ -17,7 +17,7 @@ Aurora is an Ethereum Virtual Machine (EVM) on the NEAR blockchain, developed by
 
 ### How does gas work on Aurora?
 
-Users can pay their transaction fees with ETH on Aurora. Relayers will take transactions in the EVM environment and complete them as NEAR transactions. An appropriate ETH amount will then be charged to match the NEAR fee. **At the moment, Aurora is offering zero fees while the logic for their gas system is being developed.** Gas limits must, however, still be respected even though the gas price is zero.
+Users can pay their transaction fees with ETH on Aurora. Relayers will take transactions in the EVM environment and complete them as NEAR transactions. An appropriate ETH amount will then be charged to match the NEAR fee. **At the moment, Aurora is offering zero fees while the logic for their gas system is being developed.**
 
 ### What vaults will Beefy support on Aurora?
 
