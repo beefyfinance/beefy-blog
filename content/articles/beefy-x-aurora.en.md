@@ -1,12 +1,14 @@
 +++
 date = 2022-01-31T11:00:00Z
 draft = true
-header_image = ""
-short_description = ""
+header_image = "/uploads/aurora.png"
+short_description = "Start staking in brand new Vaults on using the Aurora EVM"
 sub_header = "Beefy adds Aurora support"
 title = "Beefy x Aurora"
 
 +++
+![](/uploads/aurora.png)
+
 Another week, another chain. The pace never slows when it comes to new networks and the Beefy cow doesn’t disappoint. We’re happy to announce the release of our new Aurora vaults, making it the thirteenth protocol we support. How’s that for multi-chain?
 
 ### What is Aurora?
