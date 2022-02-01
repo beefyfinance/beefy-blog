@@ -1,6 +1,5 @@
 +++
 date = 2022-01-31T11:00:00Z
-draft = true
 header_image = "/uploads/aurora.png"
 short_description = "Start earning compounded interest on your funds in Aurora, the EVM solution for Near"
 sub_header = "Beefy adds Aurora support"
