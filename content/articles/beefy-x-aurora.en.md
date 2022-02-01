@@ -4,7 +4,7 @@ draft = true
 header_image = "/uploads/aurora.png"
 short_description = "Start earning compounded interest on your funds in Aurora, the EVM solution for Near"
 sub_header = "Beefy adds Aurora support"
-title = "Beefy x Aurora"
+title = "Beefy deploys on Aurora"
 
 +++
 ![](/uploads/aurora.png)
