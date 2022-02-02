@@ -1,5 +1,5 @@
 +++
-date = 2022-01-31T11:00:00Z
+date = 2022-02-02T11:00:00Z
 header_image = "/uploads/partnership.png"
 short_description = "Create binSPIRIT with Beefy to experience the power of transferable, wrapped inSPIRIT tokens"
 sub_header = "Next-level SPIRIT staking with Beefy"
