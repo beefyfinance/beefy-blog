@@ -36,11 +36,11 @@ When binSPIRIT is more expensive than SPIRIT, SPIRIT holders will mint binSPIRIT
 
 Through holding inSPIRIT, Beefy will also gain voting power on SpiritSwap farm emission allocations. 1 inSPIRIT is equal to one vote and can also be used for improvement proposals in SpiritSwap’s snapshot governance system. With our inSPIRIT bag, Beefy will vote for increased incentives for BIFI-FTM and MAI-FTM as part of our partnership with QiDao.
 
-### binSPIRIT-SPIRIT Boost
+### binSPIRIT-SPIRIT and binSPIRIT Boost
 
-To begin with, our binSPIRIT-SPIRIT farm won’t have emissions. That’s why we’re setting up a juicy boost where users can deposit their binSPIRIT-SPIRIT LP on Beefy and earn mooBIFI (BIFI that is already staked on the BIFI Maxi vault on Fantom). This mechanism will motivate users to lock their SPIRIT with us, bootstrapping the first weeks of liquidity on the pair. Later we will vote on emissions using our voting power.
+To begin with, our binSPIRIT-SPIRIT farm won’t have emissions. That’s why we’re setting up a juicy boost where users can deposit their binSPIRIT-SPIRIT LP on Beefy and earn moobinSPIRIT (binSPIRIT that is already deposited in our vaults). This mechanism will motivate users to lock their SPIRIT with us, bootstrapping the first weeks of liquidity on the pair. Later we will vote on emissions using our voting power.
 
-We will be also boosting the Single Stake binSPIRIT with Spirit tokens.
+We will be also boosting the binSPIRIT vault with mooBIFI.
 
 ### What can I do with binSPIRIT?
 
