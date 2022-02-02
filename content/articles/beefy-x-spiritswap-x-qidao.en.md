@@ -1,6 +1,5 @@
 +++
 date = 2022-01-31T11:00:00Z
-draft = true
 header_image = "/uploads/partnership.png"
 short_description = "Create binSPIRIT with Beefy to experience the power of transferable, wrapped inSPIRIT tokens"
 sub_header = "Next-level SPIRIT staking with Beefy"
@@ -9,13 +8,13 @@ title = "Beefy x SpiritSwap x QiDao"
 +++
 ![](/uploads/partnership.png)
 
-If you’re a fan of SPIRIT staking on Fantom with SpiritSwap, then you’ve come to the right Cow. From February 1, 2021, you’ll be able to mint binSPIRIT through Beefy Finance, giving you the best chance of maximizing your reward boost. But that’s not all. binSPIRIT is a fully transferable token and can also be used to borrow MAI on market.xyz through QiDao’s seeded locker.
+If you’re a fan of SPIRIT staking on Fantom with SpiritSwap, then you’ve come to the right Cow. From February 2, 2021, you’ll be able to mint binSPIRIT through Beefy Finance, giving you the best chance of maximizing your reward boost. But that’s not all. binSPIRIT is a fully transferable token and can also be used to borrow MAI on market.xyz through QiDao’s seeded locker.
 
 Whether you’re new to SpiritSwap farms or just need a recap, have no fear. We’ve outlined the key basics for you to get to grips with below.
 
 ### What is inSPIRIT?
 
-When users lock their SPIRIT tokens in SpiritSwap for between 1 week and four years, they receive a proportional amount of inSPIRIT. inSPIRIT is non-transferrable and the amount in the holder's wallet decreases steadily to 0 when the lock is over.
+When users lock their SPIRIT tokens in SpiritSwap for between 1 week and four years, they receive a proportional amount of inSPIRIT. inSPIRIT is non-transferrable and the amount in the holder's wallet decreases steadily to 0 until the lock is over.
 
 inSPIRIT holders can claim protocol revenue fees (variable week by week but they have been up to 80% APR) and receive up to a 2.5x boost in farms. The boost depends on the user's balance of inSPIRIT compared to all other holders and the balance they have staked in the farm compared with the farm’s TVL. This mechanism means that small holders are very unlikely to get a boost. You also will not be able to liquidate your position until the end of the time lock.
 
