@@ -40,6 +40,8 @@ Through holding inSPIRIT, Beefy will also gain voting power on SpiritSwap farm e
 
 To begin with, our binSPIRIT-SPIRIT farm won’t have emissions. That’s why we’re setting up a juicy boost where users can deposit their binSPIRIT-SPIRIT LP on Beefy and earn mooBIFI (BIFI that is already staked on the BIFI Maxi vault on Fantom). This mechanism will motivate users to lock their SPIRIT with us, bootstrapping the first weeks of liquidity on the pair. Later we will vote on emissions using our voting power.
 
+We will be also boosting the Single Stake binSPIRIT with Spirit tokens.
+
 ### What can I do with binSPIRIT?
 
 Beefy users can get binSPIRIT by either minting it with SPIRIT tokens at a 1:1 ratio or purchasing it on SpiritSwap. binSPIRIT holders then have two options:
