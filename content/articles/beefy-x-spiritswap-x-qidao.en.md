@@ -57,6 +57,8 @@ If you’ve decided to deposit your binSPIRIT in a Beefy Vault, you can extract 
 
 ![](/uploads/ingographic.png)
 
+These markets will be live in Fantom during the week of the 7th of February.
+
 ### Unlock your portfolio’s potential and earn more with Beefy
 
 Once again, the Beefy Cow has found another way to extract as much juicy value from your tokens as possible. By minting your binSPIRIT with us, you’ll enjoy even more benefits than going it alone. Don’t forget to stake your binSPIRIT with us for even more rewards and the possibility to collateralize your interest-bearing tokens.
