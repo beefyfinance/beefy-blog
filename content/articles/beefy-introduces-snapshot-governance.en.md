@@ -1,7 +1,7 @@
 +++
 date = 2022-02-06T11:00:00Z
 draft = true
-header_image = "/uploads/snapshot-1.png"
+header_image = "/uploads/headersma.png"
 short_description = "Voting is fairer, more powerful, and more advanced than ever with our switch to Snapshot"
 sub_header = "Free your $BIFI with our improved governance experience"
 title = "Welcome to Snapshot governance with Beefy"
