@@ -1,12 +1,13 @@
 +++
 date = 2022-02-06T11:00:00Z
 draft = true
-header_image = "/uploads/snapshot.png"
+header_image = "/uploads/snapshot-1.png"
 short_description = "Voting is fairer, more powerful, and more advanced than ever with our switch to Snapshot"
 sub_header = "Free your $BIFI with our improved governance experience"
-title = "Beefy introduces Snapshot governance"
+title = "Welcome to Snapshot governance with Beefy"
 
 +++
+
 If you’ve been taking part in Beefy governance, you might have noticed our recent switch to Snapshot. We wanted to make sure you understand exactly why we’ve made the change, and what it means for all you $BIFI holders. In short, your governance experience has received quite a big upgrade. Let’s dive into the basics and make sure you understand exactly how to exercise your Beefy voting rights.
 
 ### What is Snapshot?
