@@ -7,6 +7,7 @@ sub_header = "Free your $BIFI with our improved governance experience"
 title = "Welcome to Snapshot governance with Beefy"
 
 +++
+![](/uploads/headersma.png)
 
 If you’ve been taking part in Beefy governance, you might have noticed our recent switch to Snapshot. We wanted to make sure you understand exactly why we’ve made the change, and what it means for all you $BIFI holders. In short, your governance experience has received quite a big upgrade. Let’s dive into the basics and make sure you understand exactly how to exercise your Beefy voting rights.
 
