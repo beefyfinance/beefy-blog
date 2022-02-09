@@ -1,13 +1,14 @@
 +++
 date = ""
-draft = true
 header_image = "/uploads/ama_recap.png"
 short_description = "As a possible new partner, get to know Solidex before our DAO vote"
 sub_header = "Beefy meets with Solidex to discuss the new project"
 title = "Meet Solidex in our new AMA"
 
 +++
-![](/uploads/ama_recap.png)With the recent With Solidex's offer to partner with Beefy, we took the chance to invite 0xbasmag to explain a bit more about the project. There are a few things to consider for Beefy and $BIFI holders, so let’s jump in and learn more about the opportunities available for Cowmoonity stakers.
+![](/uploads/ama_recap.png)
+
+With the recent With Solidex's offer to partner with Beefy, we took the chance to invite 0xbasmag to explain a bit more about the project. There are a few things to consider for Beefy and $BIFI holders, so let’s jump in and learn more about the opportunities available for Cowmoonity stakers.
 
 ### What is Solidex?
 
@@ -89,4 +90,4 @@ The team gets nothing until LPs are earning SOLID from the protocol, and it only
 
 ### Vote on Beefy’s future with Solidex
 
-With the chance of a possible partnership, the Beefy DAO needs to make a decision. For more information, join our AMA with 0xDAO this Friday, February 11. We’ll also have a Cowmoonity call on our Discord server straight after to talk about what’s best for our protocol. Once you’ve taken everything on board, get involved with our Snapshot governance vote to help decide the path Beefy should take.
+With the chance of a possible partnership, the Beefy DAO needs to make a decision. For more information follow our Twitter, we will be announcing everything there. If you hold $BIFI you can be part of it through our Snapshot governance vote to help decide the path Beefy should take.
