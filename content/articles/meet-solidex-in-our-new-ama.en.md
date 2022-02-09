@@ -35,7 +35,7 @@ You can use your maximized voting power via the SEX token that can be locked for
 
 ### Only a limited number of projects can join Solidex, why is that? How will this partnership benefit Beefy?
 
-Solidex provides partners a share of ownership in the protocol through SEX token allocation. This is designed so partners will be strictly equal or better off by joining than going at it alone. There are also special benefits for early partners.
+Solidex provides partners a share of ownership in the protocol through SEX token allocation. This is designed so partners will be strictly equal or better off by joining rather than going at it alone. There are also special benefits for early partners.
 
 Beefy will gain liquid tokens corresponding to its NFT deposited into Solidex, An equivalent amount of SOLIDsex tokens will also be distributed to the protocol. This avoids the need for Beefy to fractionalize the NFT itself and extend its lock. Beefy will also get a share of the SEX supply for all perpetuity.
 
@@ -45,15 +45,15 @@ Partners get an exclusive advance allocation of SEX tokens, roughly estimated at
 
 The performance fee is 15% and shared amongst two groups:
 
-1\. Those who converted SOLID to SOLIDsex and staked this in the protocol receive 10% of all SOLID earned by the protocol, as vanilla SOLID tokens.
+1\. Those who converted SOLID to SOLIDsex and staked this in the protocol receive 10% of all SOLID earned by the protocol as vanilla SOLID tokens.
 
 2\. Those who have locked SEX receive the other 5% as SOLIDsex. This allows a good equilibrium between Solidly liquidity providers and SOLID lockers.
 
 ### With Solidex’s current partners, what percentage of the ve(3,3) supply do you control?
 
-Partners that hold 28% of total veSOLID power have so far joined us. Andre has also added negative votes to Solidly, meaning you can vote to downvote other gauges you don’t want to receive solidly emissions
+Partners that hold 28% of total veSOLID power have so far joined us. Andre has also added negative votes to Solidly, meaning you can agree to downvote other gauges you don’t want to receive solidly emissions
 
-However, if you join early, Solidex launch partners will receive... Contraception! Up to two gauges of a partner's choosing are protected from being down-voted by negative votes from other Solidex users.
+However, if you join early, Solidex launch partners will receive... _Contraception_! Up to two gauges of a partner's choosing are protected from being down-voted by negative votes from other Solidex users.
 
 ### Which ways would you say this partnership will be positive for $BIFI token holders?
 
