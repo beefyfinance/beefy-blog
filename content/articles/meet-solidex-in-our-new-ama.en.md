@@ -81,9 +81,9 @@ The less SEX that is max locked, while Beefy max locks and compounds it, the gre
 >
 > _All this sex diplomacy ain't gonna pay itself! 😅_
 
-Solidly is designed to print in perpetuity and has no capped supply. Andre designed it to last forever, so Solidex did the same thing
+Solidly is designed to print in perpetuity and has no capped supply. Andre designed it to last forever, so Solidex has done the same thing.
 
-SEX token emission is a constant function of the amount of SOLID that the protocol earns Every time a Solidex LP earns 4.2069 SOLID, they get 1 SEX. What this also means is Solidex does not earn any tokens if the protocol is not used
+SEX token emission is a constant function of the amount of SOLID that the protocol earns. Every time a Solidex LP earns 4.2069 SOLID, they get 1 SEX. This also means that Solidex does not earn any tokens if the protocol is not used
 
 The team gets nothing until LPs are earning SOLID from the protocol, and it only continues to receive SEX tokens if they do.
 
