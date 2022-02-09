@@ -7,11 +7,11 @@ sub_header = "Beefy meets with Solidex to discuss the new project"
 title = "Meet Solidex in our new AMA"
 
 +++
-![](/uploads/ama_recap.png)With the recent Solidex offer to partner with Beefy, we took the chance to invite 0xbasmag to explain a bit more about the project. There are a few things to consider for Beefy and $BIFI holders, so let’s jump in and learn more about the opportunities available for Cowmoonity stakers.
+![](/uploads/ama_recap.png)With the recent With Solidex's offer to partner with Beefy, we took the chance to invite 0xbasmag to explain a bit more about the project. There are a few things to consider for Beefy and $BIFI holders, so let’s jump in and learn more about the opportunities available for Cowmoonity stakers.
 
 ### What is Solidex?
 
-Solidex is a new project from Andre Cronje deployed on the Ethereum-based AMM Solidly. Solidex optimizes rewards, voting power, and liquidity provisioning on Solidly. providing boosted SOLID emissions to Solidly LPs. The mechanism is similar to how Curve and CRV works, where Solidly LPs will earn SOLID emissions for providing liquidity.
+Solidex is a new project from Andre Cronje deployed on the Ethereum-based AMM Solidly. Solidex optimizes rewards, voting power, and liquidity provisioning on Solidly, providing boosted SOLID emissions to Solidly LPs. The mechanism is similar to how Curve and CRV works, where Solidly LPs will earn SOLID emissions for providing liquidity.
 
 Earned SOLID can then be vote locked into veSOLID (for a max of 4 years). The longer you lock, the greater rewards and benefits. veSOLID lockers earn trading rewards from the protocol, as well as voting power to direct future SOLID emissions.
 
@@ -19,7 +19,7 @@ Solidex has no VCs, investors, or advisors and is a small team of DeFi veterans.
 
 ### Where does Solidex fit in with Solidly?
 
-Solidex has a few use cases for Solidly users
+Solidex has a few use cases for Solidly users:
 
 1\. If you have SOLID tokens you wish to lock, Solidex allows you to earn a larger share of trading fees and rewards. You also share boosted SOLID emissions received by liquidity providers in exchange for you providing a boost to the protocol.
 
