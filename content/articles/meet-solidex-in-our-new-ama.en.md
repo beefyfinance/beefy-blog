@@ -1,5 +1,5 @@
 +++
-date = ""
+date = 2022-02-09T03:00:00Z
 header_image = "/uploads/ama_recap.png"
 short_description = "As a possible new partner, get to know Solidex before our DAO vote"
 sub_header = "Beefy meets with Solidex to discuss the new project"
