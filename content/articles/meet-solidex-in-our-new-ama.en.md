@@ -12,7 +12,7 @@ With the recent With Solidex's offer to partner with Beefy, we took the chance t
 
 ### What is Solidex?
 
-Solidex is a new project from Andre Cronje deployed on the Ethereum-based AMM Solidly. Solidex optimizes rewards, voting power, and liquidity provisioning on Solidly, providing boosted SOLID emissions to Solidly LPs. The mechanism is similar to how Curve and CRV works, where Solidly LPs will earn SOLID emissions for providing liquidity.
+Solidex is a new project that aims to be the Convex of Solidly (Andre Cronje's latest Fantom "experiment"). Solidex optimizes rewards, voting power, and liquidity provisioning on Solidly, providing boosted SOLID emissions to Solidly LPs. The mechanism is similar to how Curve and CRV works, where Solidly LPs will earn SOLID emissions for providing liquidity.
 
 Earned SOLID can then be vote locked into veSOLID (for a max of 4 years). The longer you lock, the greater rewards and benefits. veSOLID lockers earn trading rewards from the protocol, as well as voting power to direct future SOLID emissions.
 
