@@ -8,7 +8,7 @@ title = "Meet Solidex in our new AMA"
 +++
 ![](/uploads/ama_recap.png)
 
-With the recent With Solidex's offer to partner with Beefy, we took the chance to invite 0xbasmag to explain a bit more about the project. There are a few things to consider for Beefy and $BIFI holders, so let’s jump in and learn more about the opportunities available for Cowmoonity stakers.
+With the recent Solidex's offer to partner with Beefy, we took the chance to invite 0xbasmag to explain a bit more about the project. There are a few things to consider for Beefy and $BIFI holders, so let’s jump in and learn more about the opportunities available for Cowmoonity stakers.
 
 ### What is Solidex?
 
