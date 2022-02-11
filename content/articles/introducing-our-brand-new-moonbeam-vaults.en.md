@@ -1,5 +1,5 @@
 +++
-date = ""
+date = 2022-02-10T11:00:00Z
 draft = true
 header_image = "/uploads/moonbeam.png"
 short_description = "Start staking on a new chain and earn more with Beefy Finance"
@@ -21,7 +21,7 @@ Just like Ethereum and many other blockchains, Moonbeam uses a gas system for ma
 
 ### How is Moonbeam related to Polkadot?
 
-To secure a parachain on Polkadot, an auction mechanism occurs where the community stakes behind their favorite projects. Over 200,000 stakers delegated roughly a billion dollars of $DOT behind Moonbeam to win its place. The Moonbeam team then began the work of migrating to Polkadot before launching the main net on January 11, 2022.
+To secure a parachain on Polkadot, an auction mechanism is used where the community stakes behind their favorite projects. Over 200,000 stakers delegated roughly a billion dollars of $DOT behind Moonbeam to win its place. The Moonbeam team then began the work of migrating to Polkadot before launching the main net on January 11, 2022.
 
 ### How is Moonbeam related to Moonriver?
 
@@ -39,4 +39,4 @@ Our first strategies for Moonbeam will make use of LPs and vaults on Beamswap. B
 
 ### How does supporting Moonbeam support BIFI holders?
 
-If you’ve read any of our articles before, you know what’s coming. There will only ever be 80,000 BIFI in existence ever. Holding BIFI gives you a share of the platform revenue, and more chains mean more revenue to share. This fact also puts buying pressure on BIFI, so it’s a win-win situation for the Cowmoonity.
+If you’ve read any of our articles before, you know what’s coming. **There will only ever be 80,000 BIFI in existence ever.** Holding BIFI gives you a share of the platform revenue, and more chains mean more revenue to share. This fact also puts buying pressure on BIFI, so it’s a win-win situation for the Cowmoonity.
