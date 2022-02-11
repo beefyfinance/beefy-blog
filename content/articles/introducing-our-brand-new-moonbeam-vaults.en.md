@@ -1,5 +1,5 @@
 +++
-date = 2022-02-10T11:00:00Z
+date = 2022-02-11T11:00:00Z
 header_image = "/uploads/moonbeam.png"
 short_description = "Start staking on a new chain and earn more with Beefy Finance"
 sub_header = "The Beefy DApp now supports Moonbeam Vaults"
