@@ -9,7 +9,7 @@ title = "Introducing our brand new Moonbeam vaults"
 +++
 ![](https://lh5.googleusercontent.com/sKpFQvNkbfYJCuoFHEm4QDw2hyRNizhP1xWYE-j9Mdvi39lf5WtJ3ZXvAFW4oxlfFBp1e0sGgcYKYfdQn0mRO8CmXk_hxYqqSvmDmigfEXX3do_WojXXWoAOv1gnOTnF1t2EcAf5 =602x339)
 
-If you’re looking for more chains to auto-compound yields on, we’ve got you covered. Beefy now supports Moonbeam, giving you another fresh opportunity to stake and earn. You may already be familiar with Moonriver which we also began supporting recently. Let’s dive into the difference between these two chains, the new vaults on offer, and what this means for the Cowmoonity.
+If you’re looking for more chains to auto-compound yields on, we’ve got you covered. Beefy now supports Moonbeam, giving you another fresh opportunity to stake and earn. You may already be familiar with Moonriver, but Moonbeam is a little different. Let’s dive into the relationship between these two chains, the new vaults on offer, and what this means for the Cowmoonity.
 
 ### What is Moonbeam?
 
