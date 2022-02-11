@@ -1,6 +1,5 @@
 +++
 date = 2022-02-10T11:00:00Z
-draft = true
 header_image = "/uploads/moonbeam.png"
 short_description = "Start staking on a new chain and earn more with Beefy Finance"
 sub_header = "The Beefy DApp now supports Moonbeam Vaults"
@@ -29,7 +28,7 @@ As well as running Moonbeam, the project also manages Moonriver on Kusama. New c
 
 ### Meet Beamswap, the number one DEX on Moonbeam
 
-Our first strategies for Moonbeam will make use of LPs and vaults on Beamswap. Beamswap is one of Moonbeam's most popular DEXs and offers a [bridge](https://app.beamswap.io/bridge) from Binance Smart Chain for BUSD and BNB. You can also send FTM via their [Fantom bridge](https://app.beamswap.io/ftm) and request GLMR from their faucet to start making transactions.
+Our first strategies for Moonbeam will make use of LPs and vaults on Beamswap. Beamswap is one of Moonbeam's most popular DEXs and offers a [bridge](https://app.beamswap.io/bridge) from Binance Smart Chain for $BUSD and $BNB. You can also send $FTM via their [Fantom bridge](https://app.beamswap.io/ftm) and request GLMR from their faucet to start making transactions.
 
 ### Which Vaults has Beefy launched?
 
@@ -37,6 +36,6 @@ Our first strategies for Moonbeam will make use of LPs and vaults on Beamswap. B
 
 ![](/uploads/moonbeam-1.png)
 
-### How does supporting Moonbeam support BIFI holders?
+### How does supporting Moonbeam impacts BIFI holders?
 
-If you’ve read any of our articles before, you know what’s coming. **There will only ever be 80,000 BIFI in existence ever.** Holding BIFI gives you a share of the platform revenue, and more chains mean more revenue to share. This fact also puts buying pressure on BIFI, so it’s a win-win situation for the Cowmoonity.
+If you’ve read any of our articles before, you know what’s coming. **There will only ever be 80,000 BIFI in existence ever.** Holding BIFI gives you a share of the platform revenue, and more chains mean more revenue streams. This fact puts buying pressure on BIFI, so it’s a win-win situation for the Cowmoonity.
