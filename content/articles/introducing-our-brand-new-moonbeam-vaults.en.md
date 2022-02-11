@@ -28,7 +28,7 @@ As well as running Moonbeam, the project also manages Moonriver on Kusama. New c
 
 ### Meet Beamswap, the number one DEX on Moonbeam
 
-Our first strategies for Moonbeam will make use of LPs and vaults on Beamswap. Beamswap is one of Moonbeam's most popular DEXs and offers a [bridge](https://app.beamswap.io/bridge) from Binance Smart Chain for $BUSD and $BNB. You can also send $FTM via their [Fantom bridge](https://app.beamswap.io/ftm) and request GLMR from their faucet to start making transactions.
+Our first strategies for Moonbeam will make use of LPs and farms on Beamswap. Beamswap is one of Moonbeam's most popular DEXs and offers a [bridge](https://app.beamswap.io/bridge) from Binance Smart Chain for $BUSD and $BNB. You can also send $FTM via their [Fantom bridge](https://app.beamswap.io/ftm) and request GLMR from their faucet to start making transactions.
 
 ### Which Vaults has Beefy launched?
 
