@@ -9,10 +9,11 @@ title = ""
 +++
 ### Beefy x asd
 
-asd
+asd¹
 
-asd
+asd²
 
 ***
 
-footnote
+¹footnote  
+²asd
