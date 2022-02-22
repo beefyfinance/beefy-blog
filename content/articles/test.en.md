@@ -89,6 +89,7 @@ Beefy has been made aware of specific unfortunate accusations about the incident
 | Accusation | Fact |
 | --- | --- |
 | The Grim team was never notified of the Beefy whitehat hacks and found the exploit contract for the first time 2 days ago. | Beefy shared the used whitehat exploit contract with Grim. It was deployed from a deployer address at 18:40 UTC.  Link1* You can see this in the chat logs above. |
+| IMAGE | IMAGE |
 | Beefy washed funds acquired through the exploit. | Beefy converted the funds to stables, bluechips, and comparable assets to retain as much value as possible. Most of the funds were in volatile assets and we knew a full investigation would have to take place before the funds could be returned. The funds sit still in a plainly tagged, deployed Beefy Treasury contract. Link2* Note: Debank does not include another $50K of xGinSpirit & binSpirit in the treasury contract. |
 | Beefy whitehat hacked 90 vaults. | Beefy initiated whitehat operations on 26 vaults in an attempt to save what victims' funds it could. |
 
