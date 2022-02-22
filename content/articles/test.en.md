@@ -88,9 +88,13 @@ Beefy has been made aware of specific unfortunate accusations about the incident
 
 | Accusation | Fact |
 | --- | --- |
-| The Grim team was never notified of the Beefy whitehat hacks and found the exploit contract for the first time 2 days ago. | Beefy shared the used whitehat exploit contract with Grim. It was deployed from a deployer address at 18:40 UTC.  https://ftmscan.com/tx/0xc3e4a8c27d9178bb35f506110949b3f88471968fe3114175dd0f002a5ee74a13 You can see this in the chat logs above. |
-| Beefy washed funds acquired through the exploit. | Beefy converted the funds to stables, bluechips, and comparable assets to retain as much value as possible. Most of the funds were in volatile assets and we knew a full investigation would have to take place before the funds could be returned. The funds sit still in a plainly tagged, deployed Beefy Treasury contract.  https://debank.com/profile/0xc7d2c0b34e84f66e237bf7260552a645629ac753  Note: Debank does not include another $50K of xGinSpirit & binSpirit in the treasury contract. |
+| The Grim team was never notified of the Beefy whitehat hacks and found the exploit contract for the first time 2 days ago. | Beefy shared the used whitehat exploit contract with Grim. It was deployed from a deployer address at 18:40 UTC.  Link1* You can see this in the chat logs above. |
+| Beefy washed funds acquired through the exploit. | Beefy converted the funds to stables, bluechips, and comparable assets to retain as much value as possible. Most of the funds were in volatile assets and we knew a full investigation would have to take place before the funds could be returned. The funds sit still in a plainly tagged, deployed Beefy Treasury contract. Link2* Note: Debank does not include another $50K of xGinSpirit & binSpirit in the treasury contract. |
 | Beefy whitehat hacked 90 vaults. | Beefy initiated whitehat operations on 26 vaults in an attempt to save what victims' funds it could. |
+
+Link1: https://ftmscan.com/tx/0xc3e4a8c27d9178bb35f506110949b3f88471968fe3114175dd0f002a5ee74a13
+
+Link2: https://debank.com/profile/0xc7d2c0b34e84f66e237bf7260552a645629ac753
 
 ### Conclusion
 
