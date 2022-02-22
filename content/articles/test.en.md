@@ -23,8 +23,24 @@ The rescued funds were swapped from altcoins to stables and bluechips to hold va
 
 **7:12 UTC**: The BSC protocol Charge DeFi is exploited. The timeline table of Charge DeFi’s response may be seen below ([https://chargedefi.medium.com/chargedefi-security-incident-1fcc134392f0](https://chargedefi.medium.com/chargedefi-security-incident-1fcc134392f0 "https://chargedefi.medium.com/chargedefi-security-incident-1fcc134392f0")).
 
-**Note how Grim Finance was notified as early as 9:58 UTC of the situation.**  
-![](/uploads/table.png)
+**Note how Grim Finance was notified as early as 9:58 UTC of the situation.**
+
+|  | Time (UTC) 18/12/2021 | Time since incident |  |
+|---|---|---|---|
+| Security incident | 07:12 | - |  |
+| Core team notified | 07:27 | 15m |  |
+| First response | 07:37 | 25m |  |
+| First official communication | 07:37 | 25m |  |
+| Exploit hacked | 08:03 | 51m |  |
+| Notified investigation agency | 08:21 | 1h 09m |  |
+| Analysis complete | 08:50 | 1h 38m |  |
+| Analysis of all Grim vaults | 09:20 | 2h 08m |  |
+| Notified Grim.Finance | 09:58 | 2h 45m |  |
+| Compensation plan starts | 10:15 | 3h 03m |  |
+| Notified Tomb.Finance | 11:34 | 4h 22m |  |
+| Second attempt to notify Grim | 11:35 | 4h 23m |  |
+| Notified Beefy.finance | 16:22 | 9h 10m |  |
+| Grim vaults exploited (approx.) | 19:50 | 12h 38 |  |
 
 **8:27 UTC:** An alert is posted in Beefy’s Discord by a Beefy moderator that Charge Defi has been hacked. In the ensuing hours, Beefy pieces together that Charge Defi’s code is a fork of Grim Finance's and that Grim’s code is a fork of Beefy Finance’s.  
 ![](/uploads/1-1.png)
