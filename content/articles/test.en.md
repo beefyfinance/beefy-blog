@@ -6,7 +6,7 @@ sub_header = "Incident Report: Grim Holiday Hack, Beefy Whitehat Response"
 title = "Incident Report: Grim Holiday Hack, Beefy Whitehat Response"
 
 +++
-![](https://lh6.googleusercontent.com/yyK5_Mq48pN2y8oNbHMKVXZutr_HnNLKdAjMSQfNLYYOXBX6m9CEFUVw2ML3QKBOSFZI_8_Qh66h9s2PQkrdA590_zuNHRb4-Rrg3YwkdICXLYNyQ9P2GuXTA1eH88egwTOYRFVj =624x351)
+![](/uploads/title2.png)
 
 The safety of user funds is a core Beefy value and we take our commitment to it seriously. Grim Finance still has the responsibility to help those with funds stolen. We are now working to ensure that the funds recovered are safely returned to the right hands. We hope this can provide some respite to those users affected, and we’d like to express our sincere condolences to all victims of the recent Grim hack.
 
