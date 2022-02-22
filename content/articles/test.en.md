@@ -7,25 +7,15 @@ sub_header = "Incident Report: Grim Holiday Hack, Beefy Whitehat Response"
 title = "Incident Report: Grim Holiday Hack, Beefy Whitehat Response"
 
 +++
-![](https://lh6.googleusercontent.com/yyK5_Mq48pN2y8oNbHMKVXZutr_HnNLKdAjMSQfNLYYOXBX6m9CEFUVw2ML3QKBOSFZI_8_Qh66h9s2PQkrdA590_zuNHRb4-Rrg3YwkdICXLYNyQ9P2GuXTA1eH88egwTOYRFVj =624x351)
+![](https://lh6.googleusercontent.com/yyK5_Mq48pN2y8oNbHMKVXZutr_HnNLKdAjMSQfNLYYOXBX6m9CEFUVw2ML3QKBOSFZI_8_Qh66h9s2PQkrdA590_zuNHRb4-Rrg3YwkdICXLYNyQ9P2GuXTA1eH88egwTOYRFVj =624x351)The safety of user funds is a core Beefy value and we take our commitment to it seriously. Grim Finance still has the responsibility to help those with funds stolen. We are now working to ensure that the funds recovered are safely returned to the right hands. We hope this can provide some respite to those users affected, and we’d like to express our sincere condolences to all victims of the recent Grim hack.
 
 ### Summary
 
-**TL;DR**: After explaining to the Grim team why they needed to take action due to an outstanding smart contract exploit, Beefy devs showed Grim how to whitehat hack and preserve $320,000 of remaining funds. **The whitehat hack occurred after a slow and inadequate response from the Grim team and seeing a hacker exploit a substantial fraction of the platform’s $32 million TVL.**
+We have been made aware of unfounded accusations against Beefy Finance in regards to the Grim exploit. After explaining to the Grim team why they needed to take action due to an outstanding smart-contract exploit, Beefy devs showed Grim an exploit transaction to prove the possibility of an exploit. **A slow and inadequate response from the Grim team saw a hacker then exploit $32 million of the platform’s $100+ million TVL.**
 
-The Grim team’s accusation of Beefy implementing a malicious attack is unfounded, as the whitehat-hack contract address was shared with their team **before the blackhat attack took place**. Grim already had knowledge from Beefy of the possible exploit but did not act on this information. This left the task of securing funds up to Beefy.
+The whitehat-hack contract address was shared with their team at 1840 UTC, December 18, 2021, **before our knowledge of the blackhat attack taking place**. Grim Finance had the whitehat contract in their hands 24 hours before the safety operation was executed. Though Grim had knowledge via Beefy of the possible exploit, Grim left vaults unpaused and vulnerable. Beefy initiated whitehat operations in an attempt to save funds from the multiple blackhat attackers.
 
-These rescued funds were swapped from altcoins to stables and blue chips to hold value. Beefy has been waiting for a reputable third party to find that no inside exploit occurred before returning the funds to Grim.
-
-Beefy’s intention remains to return these funds to rightful owners. We have requested the assistance of The Fantom Foundation to this end.
-
-### Beefy's whitehat response
-
-Beefy Finance is a security-first platform. Preserving user safety is key to bringing DeFi forward. Beefy insists that every project it interacts with provides reliable, correct code and ensures safety measures are taken. We consistently go out of our way to protect users even on competing platforms. One recent example is the Grim Finance exploit on December 18, 2021.
-
-However, the recent accusation emanating from Grim’s ranks of Beefy stealing funds is categorically false. Grim Finance is a fork of Beefy Finance, and the code that was exploited on December 18 was code that Grim itself added for an unknown reason. Beefy worked overtime to inform Grim of the exploit and urged that Grim pause its vaults to protect users. Grim’s response was slow and inadequate and allowed $32 million of user value to be stolen.
-
-Discussions at the time on publicly stating Beefy’s part in addressing the incident were debated and decided against. Beefy’s role here was to protect users and their funds, not to provide behind-the-scenes information that could be interpreted as greater FUD than the exploit itself. Since the incident, the preserved funds have waited in Beefy’s named public treasury wallet. Regular daily business at Beefy has continued, and no further contact from Grim was received regarding this irregular situation before February 20, 2022.
+The rescued funds were swapped from altcoins to stables and bluechips to hold value, as well as comparable assets where possible (ginSpirit for binSpirit for example). Since then, Beefy has been waiting for a reputable third party to find that no inside exploit occurred before returning the funds to Grim.
 
 ### Timeline
 
@@ -33,7 +23,10 @@ Discussions at the time on publicly stating Beefy’s part in addressing the inc
 
 **7:12 UTC**: The BSC protocol Charge DeFi is exploited. The timeline table of Charge DeFi’s response may be seen below ([https://chargedefi.medium.com/chargedefi-security-incident-1fcc134392f0](https://chargedefi.medium.com/chargedefi-security-incident-1fcc134392f0 "https://chargedefi.medium.com/chargedefi-security-incident-1fcc134392f0")).
 
-**Note how Grim Finance was notified as early as 9:58 UTC of the situation.**  
+**Note how Grim Finance was notified as early as 9:58 UTC of the situation.**
+
+  
+  
 ![](/uploads/table.png)
 
 **8:27 UTC**: An alert is posted in Beefy’s Discord by a Beefy moderator that Charge Defi has been hacked. In the ensuing hours, Beefy pieces together that Charge Defi’s code is a fork of Grim Finance’s and that Grim’s is a fork of Beefy Finance’s.  
@@ -45,8 +38,8 @@ Beefy’s first order of business is to determine whether the matter affects the
 
 ![](/uploads/2.png)
 
-Grim’s vulnerability is owed to the Solidity function below. This function requires the caller to pass the address of a contract, unconcerned that that contract could be malicious. The function calls _safeTransferFrom()_ on this passed contract, but a malicious contract may call again (“re-enter”) _depositFor()_. By recursively nesting this way a few times a blackhat may mint 10x or 100x the amount of shares than it has rights to.  
-  
+Grim’s vulnerability is owed to the Solidity function below. This function requires the caller to pass the address of a contract, unconcerned that that contract could be malicious. The function calls _safeTransferFrom()_ on this passed contract, but a malicious contract may call again (“re-enter”) _depositFor()_. By recursively nesting this way a few times a blackhat may mint 10x or 100x the amount of shares than it has rights to.
+
 ![](/uploads/3-1.png)
 
 **17:28 UTC**: Weso (Beefy Lead Dev) reaches out to Grim through Discord. Weso notifies LUT (Grim mod) of the exploit and asks to set up a group to discuss details.
