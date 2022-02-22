@@ -58,7 +58,7 @@ Grim’s vulnerability is owed to the Solidity function below. This function req
 
 **17:57 UTC**: Weso mentions that Kexley (Beefy’s Chief Strategist) is developing an exploit whitehat-hack contract to demonstrate the problem as an aid to Grim.
 
-**18:40 UTC:** Kexley, finished writing the example exploit contract to prove Moonster’s points, and asks Grim to “please pause all your vaults,” indicating that all of Grim’s user funds are at risk. Grim agrees and starts the process. **He additionally provides Grim with the whitehat-hack contract address and links to the contract’s first transaction that proves the exploitable reentrancy flaw.**  
+**18:40 UTC:** Kexley, finished writing the example exploit contract to prove Moonster’s points, and asks Grim to “please pause all your vaults,” indicating that all of Grim’s user funds are at risk. Grim agrees and starts the process. **Kexley additionally provides Grim with the whitehat-hack contract address and links to the contract’s first transaction that proves the exploitable reentrancy flaw.**  
 ![](/uploads/5.png)
 
 Before Kexley completed the example whitehat exploit, a blackhat had already deployed and activated its own, more advanced exploit contract. Grim identified the attacker’s address at  
