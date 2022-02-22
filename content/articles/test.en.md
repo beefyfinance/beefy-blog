@@ -26,7 +26,7 @@ The rescued funds were swapped from altcoins to stables and bluechips to hold va
 **Note how Grim Finance was notified as early as 9:58 UTC of the situation.**
 
 |  | Time (UTC) 18/12/2021 | Time since incident |  |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Security incident | 07:12 | - |  |
 | Core team notified | 07:27 | 15m |  |
 | First response | 07:37 | 25m |  |
@@ -71,7 +71,7 @@ Grim’s vulnerability is owed to the Solidity function below. This function req
 **18:40 UTC:** Kexley, having finished writing the example exploit contract to prove Moonster’s points, asks Grim to “please pause all your vaults,” indicating that all of Grim’s user funds are at risk. Grim agrees and starts the process. **Kexley additionally provides Grim with the whitehat-hack contract address and links to the contract’s first transaction proving the exploitable reentrancy flaw.**  
 ![](/uploads/5.png)
 
-Before Kexley completed the example whitehat exploit, a blackhat had already deployed and activated its own, more advanced exploit contract. Grim identified the attacker’s address at [https://ftmscan.com/address/0xdefc385d7038f391eb0063c2f7c238cfb55b206c](https://ftmscan.com/address/0xdefc385d7038f391eb0063c2f7c238cfb55b206c "https://ftmscan.com/address/0xdefc385d7038f391eb0063c2f7c238cfb55b206c"). 
+Before Kexley completed the example whitehat exploit, a blackhat had already deployed and activated its own, more advanced exploit contract. Grim identified the attacker’s address at [https://ftmscan.com/address/0xdefc385d7038f391eb0063c2f7c238cfb55b206c](https://ftmscan.com/address/0xdefc385d7038f391eb0063c2f7c238cfb55b206c "https://ftmscan.com/address/0xdefc385d7038f391eb0063c2f7c238cfb55b206c").
 
 The blockchain shows that the attacker began the exploit an hour before Kexley completed the whitehat-exploit contract. Only once Beefy showed Grim that the exploit could be done did Grim commence safety measures (vault pauses), at 19:00 UTC.
 
@@ -83,4 +83,8 @@ Timings of Kexley’s whitehat maneuvers may be verified in the whitehat-exploit
 
 ### Key facts
 
-Beefy has been made aware of specific unfortunate accusations about the incident, each of which needs a clear response. With this table you can plainly note the reality of what occurred and the actions Beefy took.
+Beefy has been made aware of specific unfortunate accusations about the incident, each of which needs a clear response. With this table, you can plainly note the reality of what occurred and the actions Beefy took.
+
+### Conclusion
+
+Beefy wants to ensure our actions are completely transparent. While we acknowledge the mistake of holding back on an incident report this long, our intention was to avoid delivering more FUD in the heat of the incident. Given the information detailed above, it is plain to see the reasons behind each move Beefy took. As mentioned, the rescued funds remain secure. We continue to work to find a third-party intermediary so that funds are properly distributed back to impacted users.
