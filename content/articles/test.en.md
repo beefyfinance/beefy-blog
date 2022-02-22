@@ -77,7 +77,7 @@ The blockchain shows that the attacker began the exploit an hour before Kexley c
 
 Soon after, Kexley checks in and notices the attack still unfolding and that Grim’s response has been slow and inadequate. He notices an unprotected vault and decides to proactively target it with the proof code Beefy developed to preserve user funds sitting there. **In other words, Kexley implements a whitehat hack to help preserve the integrity of Fantom DeFi using the same contract he had shared with Grim previously.**
 
-Minimal funds (less than $3,000) were recovered with this first whitehat attempt. The next day, Kexley checks again and finds numerous vaults still unprotected, and he spends three hours continuing a whitehat hack. A large amount of the funds Kexley preserves are in unstable form. Since he knows that a post mortem will take weeks or months to complete, he converts the unstable altcoin into stables and bluechips in order to preserve value. Beefy wanted the affected users to retain as much value as possible from the date of the incident.
+Minimal funds (less than $3,000) were recovered with this first whitehat attempt. The next day, Kexley checks again and finds numerous vaults still unprotected, and he spends three hours continuing a whitehat hack. A large amount of the funds Kexley preserves are in an unstable form. Since he knows that a post mortem will take weeks or months to complete, he converts the unstable altcoin into stables and bluechips in order to preserve value. Beefy wanted the affected users to retain as much value as possible from the date of the incident.
 
 Timings of Kexley’s whitehat maneuvers may be verified in the whitehat-exploit contract here[ ](https://ftmscan.com/address/0x9c7c5af937f53340314ac244b39c96fe71fb646d)[https://ftmscan.com/address/0x9c7c5af937f53340314ac244b39c96fe71fb646d](https://ftmscan.com/address/0x9c7c5af937f53340314ac244b39c96fe71fb646d "https://ftmscan.com/address/0x9c7c5af937f53340314ac244b39c96fe71fb646d").
 
@@ -86,7 +86,7 @@ Timings of Kexley’s whitehat maneuvers may be verified in the whitehat-exploit
 Beefy has been made aware of specific unfortunate accusations about the incident, each of which needs a clear response. With this table, you can plainly note the reality of what occurred and the actions Beefy took.
 
 | Accusation | Fact |
-|---|---|
+| --- | --- |
 | The Grim team was never notified of the Beefy whitehat hacks and found the exploit contract for the first time 2 days ago. | Beefy shared the used whitehat exploit contract with Grim. It was deployed from a deployer address at 18:40 UTC.  https://ftmscan.com/tx/0xc3e4a8c27d9178bb35f506110949b3f88471968fe3114175dd0f002a5ee74a13 You can see this in the chat logs above. |
 | Beefy washed funds acquired through the exploit. | Beefy converted the funds to stables, bluechips, and comparable assets to retain as much value as possible. Most of the funds were in volatile assets and we knew a full investigation would have to take place before the funds could be returned. The funds sit still in a plainly tagged, deployed Beefy Treasury contract.  https://debank.com/profile/0xc7d2c0b34e84f66e237bf7260552a645629ac753  Note: Debank does not include another $50K of xGinSpirit & binSpirit in the treasury contract. |
 | Beefy whitehat hacked 90 vaults. | Beefy initiated whitehat operations on 26 vaults in an attempt to save what victims' funds it could. |
