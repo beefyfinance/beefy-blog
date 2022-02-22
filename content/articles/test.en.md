@@ -2,8 +2,8 @@
 date = 2022-02-21T03:00:00Z
 draft = true
 header_image = "/uploads/title2.png"
-short_description = ""
-sub_header = ""
+short_description = "Incident Report"
+sub_header = "Incident Report: Grim Holiday Hack, Beefy Whitehat Response"
 title = "Incident Report: Grim Holiday Hack, Beefy Whitehat Response"
 
 +++
