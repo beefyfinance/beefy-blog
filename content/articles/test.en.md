@@ -11,9 +11,11 @@ title = "Incident Report: Grim Holiday Hack, Beefy Whitehat Response"
 
 ### Summary
 
-**TL;DR**: After explaining to the Grim team why they needed to take action due to an outstanding smart contract exploit, Beefy devs showed Grim how to whitehat hack and preserve $320,000 of remaining funds. These events occurred after a slow and inadequate response from the Grim team and seeing a hacker exploit a substantial fraction of the platform’s $32 million TVL.
+**TL;DR**: After explaining to the Grim team why they needed to take action due to an outstanding smart contract exploit, Beefy devs showed Grim how to whitehat hack and preserve $320,000 of remaining funds. **The whitehat hack occurred after a slow and inadequate response from the Grim team and seeing a hacker exploit a substantial fraction of the platform’s $32 million TVL.**
 
-These funds were swapped from altcoins to stables and blue chips to hold value. Beefy has been waiting for a reputable third party to find that no inside exploit occurred before returning the funds to Grim.
+The Grim team’s accusation of Beefy implementing a malicious attack is unfounded, as the whitehat-hack contract address was shared with their team **before the blackhat attack took place**. Grim already had knowledge from Beefy of the possible exploit but did not act on this information. This left the task of securing funds up to Beefy.
+
+These rescued funds were swapped from altcoins to stables and blue chips to hold value. Beefy has been waiting for a reputable third party to find that no inside exploit occurred before returning the funds to Grim.
 
 Beefy’s intention remains to return these funds to rightful owners. We have requested the assistance of The Fantom Foundation to this end.
 
@@ -31,7 +33,7 @@ Discussions at the time on publicly stating Beefy’s part in addressing the inc
 
 **7:12 UTC**: The BSC protocol Charge DeFi is exploited. The timeline table of Charge DeFi’s response may be seen below ([https://chargedefi.medium.com/chargedefi-security-incident-1fcc134392f0](https://chargedefi.medium.com/chargedefi-security-incident-1fcc134392f0 "https://chargedefi.medium.com/chargedefi-security-incident-1fcc134392f0")).
 
-Note how Grim Finance was notified as early as 9:58 UTC of the situation.  
+**Note how Grim Finance was notified as early as 9:58 UTC of the situation.**  
 ![](/uploads/table.png)
 
 **8:27 UTC**: An alert is posted in Beefy’s Discord by a Beefy moderator that Charge Defi has been hacked. In the ensuing hours, Beefy pieces together that Charge Defi’s code is a fork of Grim Finance’s and that Grim’s is a fork of Beefy Finance’s.  
@@ -58,7 +60,7 @@ Grim’s vulnerability is owed to the Solidity function below. This function req
 
 **17:57 UTC**: Weso mentions that Kexley (Beefy’s Chief Strategist) is developing an exploit whitehat-hack contract to demonstrate the problem as an aid to Grim.
 
-**18:40 UTC:** Kexley, finished writing the example exploit contract to prove Moonster’s points, and asks Grim to “please pause all your vaults,” indicating that all of Grim’s user funds are at risk. Grim agrees and starts the process. **Kexley additionally provides Grim with the whitehat-hack contract address and links to the contract’s first transaction that proves the exploitable reentrancy flaw.**  
+**18:40 UTC:** Kexley, finished writing the example exploit contract to prove Moonster’s points, and asks Grim to “please pause all your vaults,” indicating that all of Grim’s user funds are at risk. Grim agrees and starts the process. **Kexley additionally provides Grim with the whitehat-hack contract address and links to the contract’s first transaction that proving the exploitable reentrancy flaw.**  
 ![](/uploads/5.png)
 
 Before Kexley completed the example whitehat exploit, a blackhat had already deployed and activated its own, more advanced exploit contract. Grim identified the attacker’s address at  
