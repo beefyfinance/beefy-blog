@@ -1,6 +1,6 @@
 +++
 date = 2022-02-22T03:00:00Z
-header_image = ""
+header_image = "/uploads/title2.png"
 short_description = "Incident Report"
 sub_header = "Incident Report: Grim Holiday Hack, Beefy Whitehat Response"
 title = "Incident Report: Grim Holiday Hack, Beefy Whitehat Response"
