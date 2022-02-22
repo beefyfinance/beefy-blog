@@ -11,7 +11,7 @@ title = "Incident Report: Grim Holiday Hack, Beefy Whitehat Response"
 
 ### Summary
 
-**TL;DR**: After explaining to the Grim team why they needed to take action due to an outstanding smart contract exploit, Beefy devs showed Grim how to whitehack and preserve $320,000 of remaining funds. These events occurred after a slow and inadequate response from the Grim team and seeing a hacker exploit a substantial fraction of the platform’s $32 million TVL.
+**TL;DR**: After explaining to the Grim team why they needed to take action due to an outstanding smart contract exploit, Beefy devs showed Grim how to whitehat hack and preserve $320,000 of remaining funds. These events occurred after a slow and inadequate response from the Grim team and seeing a hacker exploit a substantial fraction of the platform’s $32 million TVL.
 
 These funds were swapped from altcoins to stables and blue chips to hold value. Beefy has been waiting for a reputable third party to find that no inside exploit occurred before returning the funds to Grim.
 
@@ -56,16 +56,16 @@ Grim’s vulnerability is owed to the Solidity function below. This function req
 
 **17:53 UTC**: Discord group chat is set up between the Beefy and Grim dev teams. Beefy’s devs immediately detail the nature of the problem and explain that all Grim vaults must be urgently secured. Specifically, vaults should be paused to prevent them from performing transactions like the drainage of funds.
 
-**17:57 UTC**: Weso mentions that Kexley (Beefy’s Chief Strategist) is developing an exploit whitehack contract to demonstrate the problem as an aid to Grim.
+**17:57 UTC**: Weso mentions that Kexley (Beefy’s Chief Strategist) is developing an exploit whitehat-hack contract to demonstrate the problem as an aid to Grim.
 
-**18:40 UTC:** Kexley, finished writing the example exploit contract to prove Moonster’s points, and asks Grim to “please pause all your vaults,” indicating that all of Grim’s user funds are at risk. Grim agrees and starts the process. **He additionally provides Grim with the whitehack contract address and links to the contract’s first transaction that proves the exploitable reentrancy flaw.**  
+**18:40 UTC:** Kexley, finished writing the example exploit contract to prove Moonster’s points, and asks Grim to “please pause all your vaults,” indicating that all of Grim’s user funds are at risk. Grim agrees and starts the process. **He additionally provides Grim with the whitehat-hack contract address and links to the contract’s first transaction that proves the exploitable reentrancy flaw.**  
 ![](/uploads/5.png)
 
 Before Kexley completed the example whitehat exploit, a blackhat had already deployed and activated its own, more advanced exploit contract. Grim identified the attacker’s address at  
-[https://ftmscan.com/address/0xdefc385d7038f391eb0063c2f7c238cfb55b206c](https://ftmscan.com/address/0xdefc385d7038f391eb0063c2f7c238cfb55b206c "https://ftmscan.com/address/0xdefc385d7038f391eb0063c2f7c238cfb55b206c"). The blockchain shows that the attacker began the exploit an hour before Kexley completed the whitehack-exploit contract. Only once Beefy showed Grim that the exploit could be done did Grim start safety measures (vault pauses), at 19:00 UTC.
+[https://ftmscan.com/address/0xdefc385d7038f391eb0063c2f7c238cfb55b206c](https://ftmscan.com/address/0xdefc385d7038f391eb0063c2f7c238cfb55b206c "https://ftmscan.com/address/0xdefc385d7038f391eb0063c2f7c238cfb55b206c"). The blockchain shows that the attacker began the exploit an hour before Kexley completed the whitehat-exploit contract. Only once Beefy showed Grim that the exploit could be done did Grim start safety measures (vault pauses), at 19:00 UTC.
 
-Soon after, Kexley checks in and notices the attack still unfolding and that Grim’s response has been slow and inadequate. He decides to proactively target an unprotected vault with the proof code Beefy developed in order to preserve user funds sitting there. **In other words, Kexley implements a whitehack to help preserve the integrity of Fantom DeFi using the same contract as** 
+Soon after, Kexley checks in and notices the attack still unfolding and that Grim’s response has been slow and inadequate. He decides to proactively target an unprotected vault with the proof code Beefy developed in order to preserve user funds sitting there. **In other words, Kexley implements a whitehat hack to help preserve the integrity of Fantom DeFi using the same contract shared previously.**
 
-Minimal funds (less than $3,000) were recovered on this first whitehat attempt. The next day, Kexley checks again and finds numerous vaults still unprotected, and so spends three hours to continue the whitehack. A large amount of the funds Kexley preserves are in unstable form and since he knows that a post mortem will take weeks or months to complete, he converts the unstable altcoin into stables and blue chips in order to preserve value.
+Minimal funds (less than $3,000) were recovered on this first whitehat attempt. The next day, Kexley checks again and finds numerous vaults still unprotected and spends three hours continuing the whitehat hack. A large amount of the funds Kexley preserves are in unstable form and since he knows that a post mortem will take weeks or months to complete, he converts the unstable altcoin into stables and blue chips in order to preserve value.
 
-Timings of Kexley’s whitehat maneuvers may be verified in the whitehack-exploit contract here [https://ftmscan.com/address/0x9c7c5af937f53340314ac244b39c96fe71fb646d](https://ftmscan.com/address/0x9c7c5af937f53340314ac244b39c96fe71fb646d "https://ftmscan.com/address/0x9c7c5af937f53340314ac244b39c96fe71fb646d").
+Timings of Kexley’s whitehat maneuvers may be verified in the whitehat-exploit contract here [https://ftmscan.com/address/0x9c7c5af937f53340314ac244b39c96fe71fb646d](https://ftmscan.com/address/0x9c7c5af937f53340314ac244b39c96fe71fb646d "https://ftmscan.com/address/0x9c7c5af937f53340314ac244b39c96fe71fb646d").
