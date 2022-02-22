@@ -39,23 +39,21 @@ Beefy’s first order of business is to determine whether the matter affects Bee
 ![](/uploads/2.png)
 
 Grim’s vulnerability owed to the function below. This function requires the caller to pass the address of a contract, not considering that that contract could be malicious. The function calls safeTransferFrom() on this passed contract, but a malicious contract may re-enter depositFor(). By recursively nesting this a few times a blackhat may mint 10x or 100x the amount of shares than it has rights to.  
-![](https://lh3.googleusercontent.com/2nj5QZoItEIyy_3FFzbSJL0i82jGz-g_e1vHEhh3Ungh2wFiw6_AdwoAj9zmJuk_QVkpCEe3OiLusw3O9UoKshugNTVecn4WmZ8FWGXuDQZF5yPdCQKxDOqDBidnq5GREnhs-Iun =622x279)
+![](/uploads/3-1.png)
 
-17:28 UTC: Weso (Beefy Lead Dev) reaches out to Grim through Discord. Weso notifies LUT (Grim mod) of the exploit, and asks to set up a group to discuss details.  
+**17:28 UTC**: Weso (Beefy Lead Dev) reaches out to Grim through Discord. Weso notifies LUT (Grim mod) of the exploit, and asks to set up a group to discuss details.  
   
-17:30 UTC: LUT states that Grim “devs had a look when reports started pouring - 7 hours ago.” So Grim should have been fully aware of their situation.  
-  
-![](https://lh6.googleusercontent.com/WJ7OiOsrnrpRzMceZfWYGONeHnlC6exfL4jGIzGnVHEHe0J7DRu7e_ukT9WNNL1SPY-M_Jbvq2mSjAqHtHjidag-g85osD6UP_rfggXvLvO1A0aj_Bh_ybNYZapP1M9D7cWhH7pL =624x327)
+**17:30 UTC**: LUT states that Grim “devs had a look when reports started pouring - 7 hours ago.” So Grim should have been fully aware of their situation.  
+![](/uploads/4.png)
 
-17:40 UTC: An advanced blackhat attacker starts exploiting Grim Finance. [https://ftmscan.com/address/0xdefc385d7038f391eb0063c2f7c238cfb55b206c](https://ftmscan.com/address/0xdefc385d7038f391eb0063c2f7c238cfb55b206c "https://ftmscan.com/address/0xdefc385d7038f391eb0063c2f7c238cfb55b206c")
+**17:40 UTC**: An advanced blackhat attacker starts exploiting Grim Finance. [https://ftmscan.com/address/0xdefc385d7038f391eb0063c2f7c238cfb55b206c](https://ftmscan.com/address/0xdefc385d7038f391eb0063c2f7c238cfb55b206c "https://ftmscan.com/address/0xdefc385d7038f391eb0063c2f7c238cfb55b206c")
 
-17:53 UTC: Discord group chat is set up between the Beefy and Grim dev teams. Beefy’s devs immediately detail the nature of the problem and explain that all Grim vaults must be urgently secured. Specifically, vaults should be paused to prevent them from performing transactions, like drainage of funds.  
+**17:53 UTC**: Discord group chat is set up between the Beefy and Grim dev teams. Beefy’s devs immediately detail the nature of the problem and explain that all Grim vaults must be urgently secured. Specifically, vaults should be paused to prevent them from performing transactions, like drainage of funds.  
   
-17:57 UTC: Weso mentions that Kexley (Beefy’s Chief Strategist) is developing an exploit contract to demonstrate the problem as an aid to Grim.  
+**17:57 UTC**: Weso mentions that Kexley (Beefy’s Chief Strategist) is developing an exploit contract to demonstrate the problem as an aid to Grim.  
   
-18:40 UTC: Kexley, finished writing the example exploit contract to prove Moonster’s points, asks Grim to “please pause all your vaults,” indicating that all of Grim’s user funds are at risk. Grim agrees and starts the process.
-
-![](https://lh5.googleusercontent.com/411VJtm3xE2XJ2-EOQUBuWpff0fF5vnEIqQZsNLiuDfsoj3JODjJ8V1x_wkxLjXrEpIJSQd0F6I9tbeeYjo9lB9PROEfg5mAejfZ7lXIjijgWQJK67_7HB5kzVh85BQ2bj_UY3ly =624x289)
+**18:40 UTC**: Kexley, finished writing the example exploit contract to prove Moonster’s points, asks Grim to “please pause all your vaults,” indicating that all of Grim’s user funds are at risk. Grim agrees and starts the process.  
+![](/uploads/5.png)
 
 Before Kexley completed the example whitehat exploit, a blackhat had already deployed and activated its own, more advanced exploit contract. Grim identified the attacker’s address at  
 [https://ftmscan.com/address/0xdefc385d7038f391eb0063c2f7c238cfb55b206c](https://ftmscan.com/address/0xdefc385d7038f391eb0063c2f7c238cfb55b206c "https://ftmscan.com/address/0xdefc385d7038f391eb0063c2f7c238cfb55b206c"). The blockchain shows that the attacker began the exploit an hour before Kexley completed the whitehack-exploit contract. Only once Beefy showed Grim that the exploit could be done did Grim start safety measures (vault pauses), at 19:00 UTC.
