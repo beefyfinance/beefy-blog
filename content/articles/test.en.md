@@ -23,44 +23,48 @@ The rescued funds were swapped from altcoins to stables and bluechips to hold va
 
 **7:12 UTC**: The BSC protocol Charge DeFi is exploited. The timeline table of Charge DeFi’s response may be seen below ([https://chargedefi.medium.com/chargedefi-security-incident-1fcc134392f0](https://chargedefi.medium.com/chargedefi-security-incident-1fcc134392f0 "https://chargedefi.medium.com/chargedefi-security-incident-1fcc134392f0")).
 
-**Note how Grim Finance was notified as early as 9:58 UTC of the situation.**
-
-  
-  
+**Note how Grim Finance was notified as early as 9:58 UTC of the situation.**  
 ![](/uploads/table.png)
 
-**8:27 UTC**: An alert is posted in Beefy’s Discord by a Beefy moderator that Charge Defi has been hacked. In the ensuing hours, Beefy pieces together that Charge Defi’s code is a fork of Grim Finance’s and that Grim’s is a fork of Beefy Finance’s.  
+**8:27 UTC:** An alert is posted in Beefy’s Discord by a Beefy moderator that Charge Defi has been hacked. In the ensuing hours, Beefy pieces together that Charge Defi’s code is a fork of Grim Finance's and that Grim’s code is a fork of Beefy Finance’s.  
 ![](/uploads/1-1.png)
 
-Beefy’s first order of business is to determine whether the matter affects the Beefy platform. We determined that it does not, simply because the exploited code section is not present in Beefy’s contracts. The precise form of the exploit takes time to trace out, and doing so is not urgent because the hack does not impact Beefy.
+Beefy’s first order of business is to determine whether the matter affects the Beefy platform. We determined that it does not, simply because the exploited code section is not present in Beefy’s contracts. The precise form of the exploit takes time to trace out.
 
-**16:00 UTC**: Moonster (Beefy Dev) examined the matter and determines that the exploit used code introduced by Grim Finance.
+**16:00 UTC:** Moonster (Beefy Dev) examined the matter and determines that the exploit was code from Grim Finance contracts.
 
 ![](/uploads/2.png)
 
-Grim’s vulnerability is owed to the Solidity function below. This function requires the caller to pass the address of a contract, unconcerned that that contract could be malicious. The function calls _safeTransferFrom()_ on this passed contract, but a malicious contract may call again (“re-enter”) _depositFor()_. By recursively nesting this way a few times a blackhat may mint 10x or 100x the amount of shares than it has rights to.
+Grim’s vulnerability is owed to the Solidity function below. This function requires the caller to pass the address of a contract, unconcerned that the provided contract could be malicious. The function calls _safeTransferFrom()_ on this passed contract, but a malicious contract may call again (“re-enter”) _depositFor()_. By recursively nesting this way a few times a blackhat may mint 10x or 100x the amount of shares than it has rights to.
 
-![](/uploads/3-1.png)
+[https://discordapp.com/channels/755231190134554696/755231436294062120/921794058685382737](https://discordapp.com/channels/755231190134554696/755231436294062120/921794058685382737 "https://discordapp.com/channels/755231190134554696/755231436294062120/921794058685382737")
 
-**17:28 UTC**: Weso (Beefy Lead Dev) reaches out to Grim through Discord. Weso notifies LUT (Grim mod) of the exploit and asks to set up a group to discuss details.
+![](/uploads/3-1.png)Code snippet starts on line 1111: [https://ftmscan.com/address/0xfdc10560bd833b763352c481f5785dd69c803429#code](https://ftmscan.com/address/0xfdc10560bd833b763352c481f5785dd69c803429#code "https://ftmscan.com/address/0xfdc10560bd833b763352c481f5785dd69c803429#code")
 
-**17:30 UTC**: LUT states that Grim “devs had a look when reports started pouring - 7 hours ago.” So Grim should have been fully aware of their situation.  
+**17:28 UTC:** Weso (Beefy Lead Dev) reaches out to Grim through Discord. Weso notifies LUT (Grim mod) of the exploit and asks to set up a group to discuss details.
+
+**17:30 UTC:** LUT states that Grim “devs had a look when reports started pouring - 7 hours ago.” In other words, Grim should have been fully aware of their situation.  
 ![](/uploads/4.png)
 
-**17:40 UTC**: An advanced blackhat attacker starts exploiting Grim Finance. [https://ftmscan.com/address/0xdefc385d7038f391eb0063c2f7c238cfb55b206c](https://ftmscan.com/address/0xdefc385d7038f391eb0063c2f7c238cfb55b206c "https://ftmscan.com/address/0xdefc385d7038f391eb0063c2f7c238cfb55b206c")
+**17:40 UTC:** An advanced blackhat attacker starts exploiting Grim Finance.[ ](https://ftmscan.com/address/0xdefc385d7038f391eb0063c2f7c238cfb55b206c)[https://ftmscan.com/address/0xdefc385d7038f391eb0063c2f7c238cfb55b206c](https://ftmscan.com/address/0xdefc385d7038f391eb0063c2f7c238cfb55b206c "https://ftmscan.com/address/0xdefc385d7038f391eb0063c2f7c238cfb55b206c")
 
-**17:53 UTC**: Discord group chat is set up between the Beefy and Grim dev teams. Beefy’s devs immediately detail the nature of the problem and explain that all Grim vaults must be urgently secured. Specifically, vaults should be paused to prevent them from performing transactions like the drainage of funds.
+**17:53 UTC:** Discord group chat is set up between the Beefy and Grim dev teams. Beefy’s devs immediately detail the nature of the problem and explain that all Grim vaults must be urgently secured. Specifically, vaults should be paused to prevent them from performing transactions like drainage of funds.
 
-**17:57 UTC**: Weso mentions that Kexley (Beefy’s Chief Strategist) is developing an exploit whitehat-hack contract to demonstrate the problem as an aid to Grim.
+**17:57 UTC:** Weso mentions that Kexley (Beefy’s Chief Strategist) is developing an exploit whitehat-hack contract to demonstrate the problem, as proof and aid to Grim.
 
-**18:40 UTC:** Kexley, finished writing the example exploit contract to prove Moonster’s points, and asks Grim to “please pause all your vaults,” indicating that all of Grim’s user funds are at risk. Grim agrees and starts the process. **Kexley additionally provides Grim with the whitehat-hack contract address and links to the contract’s first transaction that proving the exploitable reentrancy flaw.**  
+**18:40 UTC:** Kexley, having finished writing the example exploit contract to prove Moonster’s points, asks Grim to “please pause all your vaults,” indicating that all of Grim’s user funds are at risk. Grim agrees and starts the process. **Kexley additionally provides Grim with the whitehat-hack contract address and links to the contract’s first transaction proving the exploitable reentrancy flaw.**  
 ![](/uploads/5.png)
 
-Before Kexley completed the example whitehat exploit, a blackhat had already deployed and activated its own, more advanced exploit contract. Grim identified the attacker’s address at  
-[https://ftmscan.com/address/0xdefc385d7038f391eb0063c2f7c238cfb55b206c](https://ftmscan.com/address/0xdefc385d7038f391eb0063c2f7c238cfb55b206c "https://ftmscan.com/address/0xdefc385d7038f391eb0063c2f7c238cfb55b206c"). The blockchain shows that the attacker began the exploit an hour before Kexley completed the whitehat-exploit contract. Only once Beefy showed Grim that the exploit could be done did Grim start safety measures (vault pauses), at 19:00 UTC.
+Before Kexley completed the example whitehat exploit, a blackhat had already deployed and activated its own, more advanced exploit contract. Grim identified the attacker’s address at [https://ftmscan.com/address/0xdefc385d7038f391eb0063c2f7c238cfb55b206c](https://ftmscan.com/address/0xdefc385d7038f391eb0063c2f7c238cfb55b206c "https://ftmscan.com/address/0xdefc385d7038f391eb0063c2f7c238cfb55b206c"). 
 
-Soon after, Kexley checks in and notices the attack still unfolding and that Grim’s response has been slow and inadequate. He decides to proactively target an unprotected vault with the proof code Beefy developed in order to preserve user funds sitting there. **In other words, Kexley implements a whitehat hack to help preserve the integrity of Fantom DeFi using the same contract shared previously.**
+The blockchain shows that the attacker began the exploit an hour before Kexley completed the whitehat-exploit contract. Only once Beefy showed Grim that the exploit could be done did Grim commence safety measures (vault pauses), at 19:00 UTC.
 
-Minimal funds (less than $3,000) were recovered on this first whitehat attempt. The next day, Kexley checks again and finds numerous vaults still unprotected and spends three hours continuing the whitehat hack. A large amount of the funds Kexley preserves are in unstable form and since he knows that a post mortem will take weeks or months to complete, he converts the unstable altcoin into stables and blue chips in order to preserve value.
+Soon after, Kexley checks in and notices the attack still unfolding and that Grim’s response has been slow and inadequate. He notices an unprotected vault and decides to proactively target it with the proof code Beefy developed to preserve user funds sitting there. **In other words, Kexley implements a whitehat hack to help preserve the integrity of Fantom DeFi using the same contract he had shared with Grim previously.**
 
-Timings of Kexley’s whitehat maneuvers may be verified in the whitehat-exploit contract here [https://ftmscan.com/address/0x9c7c5af937f53340314ac244b39c96fe71fb646d](https://ftmscan.com/address/0x9c7c5af937f53340314ac244b39c96fe71fb646d "https://ftmscan.com/address/0x9c7c5af937f53340314ac244b39c96fe71fb646d").
+Minimal funds (less than $3,000) were recovered with this first whitehat attempt. The next day, Kexley checks again and finds numerous vaults still unprotected, and he spends three hours continuing a whitehat hack. A large amount of the funds Kexley preserves are in unstable form. Since he knows that a post mortem will take weeks or months to complete, he converts the unstable altcoin into stables and bluechips in order to preserve value. Beefy wanted the affected users to retain as much value as possible from the date of the incident.
+
+Timings of Kexley’s whitehat maneuvers may be verified in the whitehat-exploit contract here[ ](https://ftmscan.com/address/0x9c7c5af937f53340314ac244b39c96fe71fb646d)[https://ftmscan.com/address/0x9c7c5af937f53340314ac244b39c96fe71fb646d](https://ftmscan.com/address/0x9c7c5af937f53340314ac244b39c96fe71fb646d "https://ftmscan.com/address/0x9c7c5af937f53340314ac244b39c96fe71fb646d").
+
+### Key facts
+
+Beefy has been made aware of specific unfortunate accusations about the incident, each of which needs a clear response. With this table you can plainly note the reality of what occurred and the actions Beefy took.
