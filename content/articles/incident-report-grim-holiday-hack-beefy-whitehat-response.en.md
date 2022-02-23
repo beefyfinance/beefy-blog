@@ -14,7 +14,7 @@ The safety of user funds is a core Beefy value and we take our commitment to it 
 
 We have been made aware of unfounded accusations against Beefy Finance in regards to the Grim exploit. After explaining to the Grim team why they needed to take action due to an outstanding smart-contract exploit, Beefy devs showed Grim an exploit transaction to prove the possibility of an exploit. **A slow and inadequate response from the Grim team was followed by a hacker then exploiting $32 million of the platform’s $100+ million TVL.** 
 
-The whitehat-hack contract address was shared with their team at 1840 UTC, December 18, 2021, **before our knowledge of the blackhat attack taking place**. Grim Finance had the whitehat contract in their hands 24 hours before the safety operation was executed. Though Grim had knowledge via Beefy of the possible exploit, Grim left vaults unpaused and vulnerable. Beefy initiated whitehat operations in an attempt to save funds from the multiple blackhat attackers.
+The whitehat-hack contract address was shared with their team at 18:40 UTC, December 18, 2021, **before our knowledge of the blackhat attack taking place**. Grim Finance had the whitehat contract in their hands 24 hours before the safety operation was executed. Though Grim had knowledge via Beefy of the possible exploit, Grim left vaults unpaused and vulnerable. Beefy initiated whitehat operations in an attempt to save funds from the multiple blackhat attackers.
 
 The rescued funds were swapped from altcoins to stables and bluechips to hold value, as well as comparable assets where possible (ginSpirit for binSpirit for example). Since then, Beefy has been waiting for a reputable third party to find that no inside exploit occurred before returning the funds to Grim.
 
