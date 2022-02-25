@@ -1,6 +1,5 @@
 +++
 date = 2022-02-24T11:00:00Z
-draft = true
 header_image = "/uploads/redistribution.png"
 short_description = "Beefy Finance redistributes salvaged Grim Finance funds via its snapshot mechanism"
 sub_header = "Grim Finance Funds Redistribution"
