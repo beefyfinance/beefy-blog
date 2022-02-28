@@ -9,17 +9,17 @@ title = "Grim Finance: Whitehat Closure"
 +++
 ![](/uploads/whitehat_closure.png)
 
-On February 24, Beefy began the redistribution of rescued Grim Finance funds. To do this, we took a series of [snapshots](https://github.com/beefyfinance/whitehat-snapshot) of the blocks prior to the whitehat transactions. These begin from the genesis of the first affected vault, valid to the block before the first whitehat exploit transaction.
+On February 24, Beefy began the redistribution of rescued Grim Finance funds. To do this, we took a series of [snapshots](https://github.com/beefyfinance/whitehat-snapshot) beginning from the first affected vault’s genesis, valid to the block before the first whitehat exploit transaction.
 
 ### How much will I receive back?
 
-Our token airdrop to rightful owners compares the deposits’ value at the moment of the whitehat hack and the current value of these tokens at the time of transfer. The higher of these two amounts was then used to calculate the dollar value returned.
+Our token airdrop to rightful owners compares the deposits’ value at the moment of the whitehat hack and the current value of these tokens at the time of transfer. The higher number of these two amounts was then used to calculate the dollar value returned.
 
-To compensate for deposits that lost value, Beefy added USDC to the airdrop. This ensures the whitehat operation has no negative impact on depositors. No native tokens were sold in order to execute the airdrop.
+To compensate for deposits that lost value, Beefy added USDC to the airdrop. This ensures the whitehat operation had no negative impact on depositors. No native tokens were sold to execute the airdrop.
 
 ### Transparency is our priority
 
-We’ve tried to be transparent as possible through the whole process. Therefore, you can check all our calculations and the transactions made to verify them yourself.
+We’ve tried to be transparent as possible through the whole process. Therefore, you can check all our calculations and the transactions made to verify them yourself in our [Google Sheet](https://docs.google.com/spreadsheets/d/1_TqmB4JtN_BUySTHV3gGdmGix5xCd-o0rEjlx_rHxI4/edit?pli=1#gid=0).
 
 Beefy is committed to a decentralized, multichain, trustless, and secure future. At the moment, we felt that our whitehat operation was best for the space. However, in retrospect, we realize the situation was mishandled.
 
