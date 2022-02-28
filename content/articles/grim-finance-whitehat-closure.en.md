@@ -11,7 +11,7 @@ title = "Grim Finance: Whitehat Closure"
 
 On February 24, Beefy began the redistribution of rescued Grim Finance funds. To do this, we took a series of [snapshots](https://github.com/beefyfinance/whitehat-snapshot) beginning from the first affected vault’s genesis, valid to the block before the first whitehat exploit transaction.
 
-### How much will I receive back?
+### How much did affected users receive back?
 
 Our token airdrop to rightful owners compares the deposits’ value at the moment of the whitehat hack and the current value of these tokens at the time of transfer. The higher number of these two amounts was then used to calculate the dollar value returned.
 
