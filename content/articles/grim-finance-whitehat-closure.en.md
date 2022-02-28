@@ -9,10 +9,20 @@ title = "Grim Finance: Whitehat Closure"
 +++
 ![](/uploads/whitehat_closure.png)
 
-The 24th of February we started executing the Redistribution of rescued funds. In order to do this we took a series of snapshots of the blocks prior to the whitehack transactions. The approach we took to airdrop the tokens to their rightful owners is comparing the value of the deposits at the moment of the whitehack, and the current value of these tokens, and took the highest. Beefy added USDC to the airdrop to compensate for those deposits that lost value. This was done to make sure the whitehack operation didn’t yield a negative impact on any depositor. No native tokens were sold in order to execute the airdrop.
+On February 24, Beefy began the redistribution of rescued Grim Finance funds. To do this, we took a series of [snapshots](https://github.com/beefyfinance/whitehat-snapshot) of the blocks prior to the whitehat transactions. These begin from the genesis of the first affected vault, valid to the block before the first whitehat exploit transaction.
 
-We tried to be as transparent as possible through the whole process, so we think it's best that you can check all the calculations that we used, and the transactions that we made in this doc: link
+### How much will I receive back?
 
-Beefy is committed to build a decentralized, multichain, trustless, and secure future. At that moment we felt that performing this whitehat operation was the best for the space. In retrospect we realize that we miss handled the situation. Because of this reason we did this redistribution in the fairest and quickest way possible.
+Our token airdrop to rightful owners compares the deposits’ value at the moment of the whitehat hack and the current value of these tokens at the time of transfer. The higher of these two amounts was then used to calculate the dollar value returned.
 
-This attempt at protecting users of another project led us to spend 100,000 FTM from our own treasury and countless hours to design, execute, and document our actions. As a closing word we want to say that we learned a valuable lesson and will not perform this kind of operation in the future.
+To compensate for deposits that lost value, Beefy added USDC to the airdrop. This ensures the whitehat operation has no negative impact on depositors. No native tokens were sold in order to execute the airdrop.
+
+### Transparency is our priority
+
+We’ve tried to be transparent as possible through the whole process. Therefore, you can check all our calculations and the transactions made to verify them yourself.
+
+Beefy is committed to a decentralized, multichain, trustless, and secure future. At the moment, we felt that our whitehat operation was best for the space. However, in retrospect, we realize the situation was mishandled.
+
+To counter this, we have conducted the redistribution in the fairest and quickest way possible. This attempt at protecting another project’s users led us to spend 100,000 FTM from our own treasury and countless hours to design, execute, and document.
+
+Beefy has learned a valuable lesson and will not perform this kind of operation in the future.
