@@ -1,6 +1,5 @@
 +++
 date = 2022-02-27T03:00:00Z
-draft = true
 header_image = "/uploads/whitehat_closure.png"
 short_description = "Beefy Finance redistributes salvaged Grim Finance funds via its snapshot mechanism"
 sub_header = "Grim Finance: Whitehat Closure"
@@ -13,7 +12,7 @@ On February 24, Beefy began the redistribution of rescued Grim Finance funds. To
 
 ### How much did affected users receive back?
 
-Our token airdrop to rightful owners compares the deposits’ value at the moment of the whitehat hack and the current value of these tokens at the time of transfer. The higher number of these two amounts was then used to calculate the dollar value returned.
+Our token airdrop to rightful owners compares the deposit's value at the moment of the whitehat hack and the value of these tokens at the time of return. The higher number of these two amounts was then used to calculate the dollar value returned.
 
 To compensate for deposits that lost value, Beefy added USDC to the airdrop. This ensures the whitehat operation had no negative impact on depositors. No native tokens were sold to execute the airdrop.
 
