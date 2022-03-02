@@ -1,13 +1,12 @@
 +++
 date = 2021-12-06T11:00:00Z
-header_image = "/uploads/partnership_vvs.png"
+header_image = "/uploads/vvs.png"
 short_description = "Get on board with Beefy Finance's most recently supported chain Cronos and Launchpool partner VVS"
 sub_header = "Beefy Finance gives you three opportunites to earn with your $BIFI, $VVS, and $CRO"
 title = "Three ways to earn with Beefy, VVS Finance, and Cronos"
 
 +++
-![](/uploads/partnership_vvs.png)
-
+![](/uploads/vvs.png)  
 You might have already heard that the Beefy Cow is grazing new pastures on the Cronos network. There are plenty of projects to explore, and VVS Finance is just one of our new partners on our tenth blockchain. There are three exciting ways to earn, so get your $BIFI, $VVS, and $CRO tokens ready to generate interest while you sleep!
 
 ### What is VVS Finance?
