@@ -6,8 +6,7 @@ sub_header = "Beefy integrates Clover Wallet "
 title = "Beefy partners with Clover to bring you Clover Wallet integration"
 
 +++
-![](/uploads/clover.png)
-
+![](/uploads/clover.png)  
 Tired of constantly switching chains in your wallet to access your DeFi funds? The Beefy Cow is. If you want to navigate Beefy's vaults across blockchains with ease, you can now use Clover wallet with our platform. You can also earn 5 free $CLV for yourself and 1 $CLV for the Beefy Treasury as part of our new Clover partnership.
 
 ### What is Clover Wallet?
