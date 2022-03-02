@@ -1,13 +1,12 @@
 +++
 date = 2021-11-19T03:00:00Z
-header_image = "/uploads/3.png"
+header_image = "/uploads/betu.png"
 short_description = "If you are into sports, either electronic or traditional, you will want to read about our latest partner, BetU"
 sub_header = "Learn about BetU, our latest Launchpool partner"
 title = "Learn about BetU, our latest Launchpool partner"
 
 +++
-![](/uploads/3.png)
-
+![](/uploads/betu.png)  
 The BetU project compromises two separated platforms. BetU Fantasy and BetU
 
 **BetU** is a sports and esports betting platform. Secured by smart contracts and powered by the **$BETU** Token. BetU will offer **traditional bookmaker services** along with **peer to peer** betting resulting in better odds and bigger winnings.
@@ -26,10 +25,10 @@ BetU is in a rapid expansion phase so using it and learning about their platform
 
 ### BetU Fantasy
 
-[BetU Fantasy](http://www.betufantasy.com) is a free to play game where people can earn real crypto rewards every week for making fantasy bets on sport and esport events. There is no risk, only real rewards. It is a game, there is no cost to play and no real gambling.   
-  
-There is **$10,000 in rewards per league / per week**. The English Premier League game is live now. An NBA league game will launch on the 23rd of November.   
-  
+[BetU Fantasy](http://www.betufantasy.com) is a free to play game where people can earn real crypto rewards every week for making fantasy bets on sport and esport events. There is no risk, only real rewards. It is a game, there is no cost to play and no real gambling.
+
+There is **$10,000 in rewards per league / per week**. The English Premier League game is live now. An NBA league game will launch on the 23rd of November.
+
 **Join a Division in a League:**
 
 **Division 1**: Play to Earn 3x rewards. Hold 1,000 BETU tokens per league you want to play. Ex: (If players join Div 1 in EPL & NBA they need to hold and stake 2000 BETU).
@@ -41,15 +40,14 @@ Every week each player gets 1,000 fantasy coins to play with. Players make fanta
 
 At the end of the week the players who accumulate the most points and arrive on top of the leaderboard win real crypto rewards. All players in the top 100 both globally and regionally receive rewards.
 
-  
 If you still have doubts you can watch [this video](https://youtu.be/OHUo-F5nGg8)
 
 ![](/uploads/2.jpeg)
 
 ### BetU
 
-[**BetU**](http://www.betu.io) is a sports and esports betting platform. Secured by smart contracts and powered by the **$BETU** Token. BetU will offer **traditional bookmaker services** along with **peer to peer** betting resulting in better odds and bigger winnings.  
-  
+[**BetU**](http://www.betu.io) is a sports and esports betting platform. Secured by smart contracts and powered by the **$BETU** Token. BetU will offer **traditional bookmaker services** along with **peer to peer** betting resulting in better odds and bigger winnings.
+
 BetU aims to become a leader in the global sports betting market worth $391 Billion USD. With the goal of taking significant market share from global bookmakers such as Bet365, William Hill, Ladbrokes, DraftKings and FanDuel.
 
 **Bet Makers** can list bets with odds of their choice and **Bet Takers** can accept the best bets available in the marketplace. Individual bet details will be uploaded via **smart contracts** to the **blockchain** and funds will be locked until a winner is determined.
@@ -60,8 +58,8 @@ BetU is in a rapid expansion phase so using it and learning about their platform
 
 ### About the $BETU Token
 
-$BETU has many uses and features smartly linked to the success of both the BetU & BetU Fantasy platforms.   
-For BetU Fantasy players must hold $BETU tokens to play and earn rewards.   
+$BETU has many uses and features smartly linked to the success of both the BetU & BetU Fantasy platforms.  
+For BetU Fantasy players must hold $BETU tokens to play and earn rewards.  
 On the BetU platform the token is the sole currency on the platform and used for all bets, bettering rewards and incentives. $BETU tokens are burnt after every winning bet.
 
 Also if you are interested in BetU’s governance, holding their token will grant you voting rights, so you can choose the future of BetU by holding its token. If you are a Whale Holder of BETU tokens, you will pay zero winning fees.
