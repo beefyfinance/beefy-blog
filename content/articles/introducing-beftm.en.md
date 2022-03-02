@@ -25,14 +25,14 @@ To get your hands on beFTM, users must first deposit their FTM in the Beefy Dele
 
 After getting your hands on beFTM, there are a few options to start earning yield:
 
-1. Stake beFTM on Beefy into the Reward Pool, to earn your wFTM reward share
+1. Stake beFTM on Beefy in the Reward Pool to earn your wFTM reward share
 2. Stake beFTM on Beefy to earn more beFTM
-3. Stake in beFTM-FTM farms on all the major dexes.
+3. Stake in beFTM-FTM farms on all the major DEXs
 
 ### Where can I get beFTM?
 
-Apart from minting beFTM on Beefy, you’ll also be able to trade the token on DEXs. All major Fantom DEXs, including BeethovenX, Spirit, Solidly, and Spooky, will offer pools for trading.
+Apart from minting beFTM on Beefy, you’ll also be able to trade the token on DEXs. All major Fantom DEXs, including BeethovenX, Spirit, Solidly, and Spooky will offer pools for trading.
 
 ### Harness the power of the Delegator Vault
 
-With Beefy, there’s no need to accept anything less than maximum FTM rewards. As the first in the DeFi space to offer this strategy, we’re proud to help you earn more. To bump up your gains, head to the Delegator Vault and start minting your own beFTM.
+With Beefy, there’s no need to accept anything less than maximum FTM rewards. As the first in the DeFi space to offer this strategy, we’re excited to help you earn more. To bump up your gains, head to the Delegator Vault and start minting your own beFTM.
