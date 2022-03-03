@@ -9,7 +9,7 @@ title = "Cover your deposits with Nexus Mutual insurance alternatives"
 +++
 ![](/uploads/nexus_replace.png)
 
-At Beefy, safety is our number one priority. That’s why we want you to have even more opportunities to reduce your risk when staking. Our new partnership with Nexus Mutual does just that. Covering your investments with the power of blockchain is just a few clicks away,
+At Beefy, safety is our number one priority. That’s why we want you to have even more opportunities to reduce your risk when staking. Our new partnership with Nexus Mutual does just that. Cover your investments with the power of blockchain and rest easy knowing your funds are protected.
 
 ### What is Nexus Mutual?
 
