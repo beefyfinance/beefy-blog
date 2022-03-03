@@ -16,7 +16,7 @@ At Beefy, safety is our number one priority. That’s why we want you to have ev
 Nexus Mutual is an Ethereum-based insurance alternative that protects its users from a range of DeFi related losses. The project uses _aligned incentives_ to enable risk-sharing among all its members and provides:
 
 1. Custody Cover to protect assets held on a centralized exchange
-2. Yield Token Cover that provides full-stack and de-peg protection;
+2. Yield Token Cover that provides full-stack and de-peg protection
 3. Protocol Cover which provides cross-chain coverage. This includes protection against hacks, oracle failures, exploits, economic design failure, and governance attacks.
 
 Ownership of Nexus Mutual’s token, NXM, is used to buy cover and navigate the claims and risk assessment process. Holders can also take part in governance too. Members of Nexus Mutual can:
