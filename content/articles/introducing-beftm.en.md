@@ -14,7 +14,7 @@ We’re excited to bring to the Cowmoonity beFTM. Prepare to earn more on your F
 
 ### What is beFTM?
 
-First of all, beFTM simply means _Beefy Escrowed Fantom_. The token is pegged to FTM and can be staked on the Beefy platform and farms on major DEXs. beFTM gives stakers access to maximized validator rewards that typically aren’t available to the individual investor without locking FTM for 1 year.
+First of all, beFTM simply means _Beefy Escrowed Fantom_. The token is fully backed 1:1 by FTM and can be staked on the Beefy platform and farms on major DEXs. beFTM gives stakers access to maximized validator rewards that typically aren’t available to the individual investor without locking FTM for 1 year.
 
 ### How does beFTM work?
 
