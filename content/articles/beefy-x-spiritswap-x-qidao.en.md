@@ -23,7 +23,9 @@ Here’s where Beefy comes in.
 
 Put simply, binSPIRIT is a wrapped version of inSPIRIT. The token allows Beefy to lock SPIRIT perpetually for rewards but also gives users a transferable version of inSPIRIT. This can then be used in Beefy Vaults to earn even more APY. Beefy benefits from holding inSPIRIT as it allows for boosted rewards on the SpiritSwap farm up to 2.5X. The more SPIRIT is locked in binSPIRIT, the higher the boost will be for Beefy.
 
-This means all SpiritSwap vaults will see an increase on their APY thanks to this locking.
+This means all SpiritSwap vaults will see an increase in their APY thanks to this locking.
+
+You can get binSpirit in the same way as beFTM. If binSPIRIT is under-peg you can purchase the token, if it's at or over peg you can mint it using inSpirit.
 
 Through arbitrage, binSPIRIT should maintain a 1:1 peg with SPIRIT. If binSPIRIT’s price is lower, it’s more expensive to mint binSPIRIT yourself. Users will simply purchase binSPIRIT on the open market and stake it in the binSPIRIT vault, increasing its demand and price.
 
