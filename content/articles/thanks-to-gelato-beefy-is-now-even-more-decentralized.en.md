@@ -13,7 +13,7 @@ EVM-based blockchains have many upsides, but one thing they lack is a scheduled 
 
 Gelato is a decentralized automation protocol. The project consists of smart contracts built on EVM chains and Executor infrastructure services users leverage for transaction automation. This means that protocols can rely on Gelato’s bot network to run a completely decentralized product.
 
-Gelato use cases include executing limit orders on Uniswap or Quickswap, protecting against liquidations on AAVE, and more. Beefy is working with Gelato to decentralize the harvesting of all its Fanrom vaults, followed soon by BNB Chain and Arbitrum.
+Gelato use cases include executing limit orders on Uniswap or Quickswap, protecting against liquidations on AAVE, and more. Beefy is working with Gelato to decentralize the harvesting of all its Fantom vaults, followed soon by BNB Chain and Arbitrum.
 
 ### Harvests in Beefy
 
