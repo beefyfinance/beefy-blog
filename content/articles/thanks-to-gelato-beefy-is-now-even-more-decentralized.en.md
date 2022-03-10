@@ -1,7 +1,7 @@
 +++
 date = 2022-03-10T03:00:00Z
 header_image = "/uploads/g.png"
-short_description = "Beefy moves to decentralized harvesting, learn here what it means"
+short_description = "Beefy moves to decentralized harvests, learn what it means here"
 sub_header = "Beefy partners with Gelato to decentralize the harvesting on the vaults"
 title = "Thanks to Gelato, Beefy is now even more decentralized"
 
