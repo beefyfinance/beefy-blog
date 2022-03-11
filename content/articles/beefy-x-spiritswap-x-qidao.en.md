@@ -25,7 +25,7 @@ Put simply, binSPIRIT is a wrapped version of inSPIRIT. The token allows Beefy t
 
 This means all SpiritSwap vaults will see an increase in their APY thanks to this locking.
 
-You can get binSpirit in the same way as beFTM. If binSPIRIT is under-peg you can purchase the token, if it's at or over peg you can mint it using inSpirit.
+You can get binSPIRIT in the same way as beFTM. If binSPIRIT is under-peg you can purchase the token, if it's at or over peg you can mint it using inSpirit.
 
 Through arbitrage, binSPIRIT should maintain a 1:1 peg with SPIRIT. If binSPIRIT’s price is lower, it’s more expensive to mint binSPIRIT yourself. Users will simply purchase binSPIRIT on the open market and stake it in the binSPIRIT vault, increasing its demand and price.
 
