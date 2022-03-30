@@ -1,5 +1,5 @@
 +++
-date = 2022-03-29T10:00:00Z
+date = 2001-08-29T07:00:00Z
 header_image = "/uploads/moonpot.png"
 short_description = "Beefy and Moonpot share a lot of things in common, so why not start earning with both?"
 sub_header = "Learn more about the Beefy Moonpot connection"
