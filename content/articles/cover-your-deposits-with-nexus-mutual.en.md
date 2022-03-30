@@ -1,6 +1,5 @@
 +++
 date = 2022-03-30T11:00:00Z
-draft = true
 header_image = "/uploads/nexus_replace.png"
 short_description = "Join Nexus Mutual for a wide range of coverage on your Beefy deposits"
 sub_header = "Reduce your risk with Nexus Mutual"
