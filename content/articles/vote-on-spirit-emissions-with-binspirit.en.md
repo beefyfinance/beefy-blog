@@ -2,7 +2,7 @@
 date = 2022-04-04T07:14:00Z
 draft = true
 header_image = "/uploads/power.png"
-short_description = "binSPIRIT just gained more utility as holders can now use their tokens as voting power"
+short_description = "binSPIRIT just gained more utility as holders use their tokens as voting power"
 sub_header = "Make your voice heard with binSPIRIT voting"
 title = "Vote on Spirit emissions with binSPIRIT"
 
