@@ -27,7 +27,7 @@ Users can stake JOE in three ways:
 
 With beJOE, Beefy is maximizing rewards through the veJOE staking mechanism. veJOE rewards long-term stakers with Boosted JOE Farm rewards and governance voting power. When you stake JOE, you receive veJOE over time.
 
-The more veJOE you have, the more you can increase your JOE yield in Trader Joe’s Yield FarmsJOE Farm. You will also be able to use veJOE as voting power in the future governance of Trader Joe. If you add 5% more of your existing stake, you can activate a veJOE accrual boost.
+The more veJOE you have, the more you can increase your JOE yield in Trader Joe’s farms. You will also be able to use veJOE as voting power in the future governance of Trader Joe. If you add 5% more of your existing stake, you can activate a veJOE accrual boost.
 
 ### What is beJOE?
 
