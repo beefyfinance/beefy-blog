@@ -48,7 +48,7 @@ As users deposit more JOE, we will hold them back until we activate a Speed Up b
 Once you’re holding beJOE, there are a couple of available options. You can either stake it in the:
 
 1. Vault to earn more beJOE
-2. Earnings pool to earn more JOE
+2. Earnings pool to earn JOE
 
 Note that there will be no liquidity provided for beJOE by Beefy.
 
