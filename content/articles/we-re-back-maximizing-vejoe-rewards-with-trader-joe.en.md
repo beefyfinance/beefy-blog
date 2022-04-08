@@ -15,8 +15,8 @@ Here’s yet another chance for the Cowmoonity to earn maximized rewards through
 
 JOE is the native token of Trader Joe, a decentralized exchange on Avalanche. It rewards holders with a share of the platform’s revenues and also acts as a governance token. JOE has a fixed supply and decaying emission model.
 
-Users can stake JOE in three ways:  
-  
+Users can stake JOE in three ways:
+
 1\. Stake JOE for rJOE to participate in Rocket Joe Liquidity Launch Platform.
 
 2\. Stake JOE for sJOE to earn Stablecoin rewards and share in the platform’s revenue.
@@ -55,6 +55,10 @@ Note that there will be no liquidity provided for beJOE by Beefy.
 ### Where can I get beJOE?
 
 You can mint beJOE on the beJOE Vault page at a 1:1 ratio. As mentioned, If there is enough JOE in the reserve, you can burn 1 beJOE to get 1 JOE. This reserve only fills up when a new user deposits.
+
+### But what about fees?
+
+Beefy has the lowest yield-optimizing fees on Avalanche. With Beefy’s new beJOE boosted farms, you earn more than anywhere else. Beefy charges its normal 4.5% performance fees on boosted farms plus an additional 5% delivered directly to beJOE stakers.
 
 ### Ramp up your veJOE rewards with beJOE
 
