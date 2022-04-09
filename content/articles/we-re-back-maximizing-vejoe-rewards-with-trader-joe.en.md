@@ -30,7 +30,7 @@ The more veJOE you have, the more you can increase your JOE yield in Trader Joeâ
 
 ### What is beJOE?
 
-beJOE is a Beefy-wrapped version of veJOE. Holding beJOE will be a great way to earn a bunch of JOE. Beefy will max out emissions on boosted farms, 5% of emissions will then be distributed to beJOE stakers on Beefy.
+beJOE is a Beefy-wrapped version of $JOE staked to earn $veJOE, maximizing emissions on boosted farms. beJOE stakers earn 5% of emissions from those boosted farms.
 
 Our strategy should offer the best service as other locked offerings don't provide an exit.
 
