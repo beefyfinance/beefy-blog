@@ -1,10 +1,9 @@
 +++
 date = 2022-04-07T10:00:00Z
-draft = true
 header_image = "/uploads/com.jpg"
 short_description = "Beefy's back again with another way to maximize revenue sharing rewards with Trader Joe"
 sub_header = "Mint beJOE to earn maximized veJOE rewards"
-title = "We’re back maximizing veJOE rewards with Trader Joe"
+title = "Maximize your veJOE rewards on Trader Joe with Beefy‘s beJOE"
 
 +++
 ![](/uploads/com.jpg)
