@@ -32,7 +32,7 @@ The more veJOE you have, the more you can increase your JOE yield in Trader Joeâ
 
 beJOE is a Beefy-wrapped version of $JOE staked to earn $veJOE, maximizing emissions on boosted farms. beJOE stakers earn 5% of emissions from those boosted farms.
 
-Our strategy should offer the best service as other locked offerings don't provide an exit.
+Our strategy offers the best service as other locked offerings don't provide an exit.
 
 ### How does beJOE work?
 
