@@ -74,7 +74,7 @@ If you like the sound of binSPIRIT, then beFTM is right up your street too. Alth
 
 beFTM stands for Beefy Escrowed Fantom. The token is backed 1:1 by FTM and gives stakers access to maximized validator rewards. As Beefy stakes as one entity, this gives you yield unavailable to smaller investors. Beefy’s new smart minter will also determine whether it’s more profitable to purchase $beFTM or to mint for you.
 
-![](https://lh3.googleusercontent.com/G-b_WaToSklekRoe5CzUcg_jrH1OTmkkiFEtlqKC4c4Bd3CJqAYKZfKEabZvd-AYNWsjgmDKR5Ffx0RApdAKh7cbNcEcY7VcBH4PGQPrmUY6IFuAwTKlNlh7xayCrD1I5wusuAOG =602x339)
+![](/uploads/delegator_vault_header.png)
 
 ### ETHDenver got a taste of Beefy back in February
 
