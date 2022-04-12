@@ -70,7 +70,7 @@ The more SPIRIT locked in binSPIRIT, the higher the boost will be for Beefy. bin
 
 ### Maximize your FTM rewards with beFTM
 
-If you like the sound of binSPIRIT, then beFTM is right up your street too. Although technically a March launch, we don’t want to waste an opportunity to tell you how you can earn more rewards.
+If you like the sound of binSPIRIT, then [https://blog.beefy.finance/articles/introducing-beftm/](https://blog.beefy.finance/articles/introducing-beftm/) is right up your street too. Although technically a March launch, we don’t want to waste an opportunity to tell you how you can earn more rewards.
 
 beFTM stands for Beefy Escrowed Fantom. The token is backed 1:1 by FTM and gives stakers access to maximized validator rewards. As Beefy stakes as one entity, this gives you yield unavailable to smaller investors. Beefy’s new smart minter will also determine whether it’s more profitable to purchase $beFTM or to mint for you.
 
