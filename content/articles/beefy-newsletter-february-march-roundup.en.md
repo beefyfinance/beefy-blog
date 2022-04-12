@@ -2,8 +2,8 @@
 date = 2022-04-11T10:00:00Z
 draft = true
 header_image = ""
-short_description = ""
-sub_header = ""
+short_description = "A lot's gone on the past few months, so take some time to catch up with our February and March Roundup"
+sub_header = "Get your Beefy news from February & March"
 title = "Beefy Newsletter: February & March Roundup"
 
 +++
