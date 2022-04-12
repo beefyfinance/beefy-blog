@@ -102,7 +102,7 @@ Becoming a network validator is part of our work in securing the highest yield p
 
 February saw Beefy become an official validator for Fuse network and Fantom. Apart from improving your gains, our validator status also shows commitment to the networks and our support for the community.
 
-![](https://lh4.googleusercontent.com/_frHbuWrceftlVA3BcU0d8ldtxrW8aGUPlELBoGarWm14pq5KddSkWotwmkZD5PJ68SeLnGG9MmybyYkUfXmA_bF7Hs9lSCf3zw28nbjj2c0JxpEqGCVzz0HHbv5MtZN1ZxeFym_ =602x339)
+![](/uploads/flmybjvxwamf_gt.jpg)
 
 ### Cover your deposits with Nexus Mutual
 
