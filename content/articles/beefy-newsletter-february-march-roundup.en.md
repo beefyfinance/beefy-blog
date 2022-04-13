@@ -1,11 +1,13 @@
 +++
 date = 2022-04-11T10:00:00Z
-header_image = "/uploads/february__march_roundup.png"
+header_image = "/uploads/february__march_roundup-1.png"
 short_description = "A lot's gone on the past few months, so take some time to catch up with our February and March Roundup"
 sub_header = "Get your Beefy news from February & March"
 title = "Beefy Newsletter: February & March Roundup"
 
 +++
+![](/uploads/february__march_roundup-1.png)
+
 The start of the year and Q1 can often feel like a flash in the pan. That doesn’t stop us however from filling it full of DeFi goodness. Particular highlights include two terrific tokens for maximizing rewards, powerful partnerships, new networks, and juicy staking opportunities. It’s been a bumper few months, and we’re here once to give you a round-up of the best.
 
 And as always, we have some great DeFi insights from the team that you just won't find anywhere else. Not too bad for February and March hey?
@@ -19,8 +21,8 @@ The truth is, you can’t keep up. You try your best to pay every project the re
 
 When it comes to partnerships, one of the best tools Beefy has that allows us to sort projects quickly is our SAFU Requirements. If a project reaches out it is pretty easy to just provide them with the Beefy SAFU checklist. This makes sure they have everything lined up before we even progress with partnership talks.
 
-\**What makes DeFi marketing different from other industries? What are the challenges?  
-\**  
+\*_What makes DeFi marketing different from other industries? What are the challenges?  
+\*_  
 Time and money are both challenges, but not in the traditional meaning of that phrase. DeFi DAOs are not companies with roots in any country or jurisdiction. We do not operate on a 9-5 standard, and it seems everyone you work with is in another timezone on the other side of the globe.
 
 Think back to the difficulties in managing partnerships mentioned in the first question, now add the need to be available at all hours to it. Along with the speed of DeFi, where weeks are months, and months are years, trying to get your product in front of everyone's eyes without being repetitive is a nightmare.
