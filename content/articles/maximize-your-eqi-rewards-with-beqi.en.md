@@ -1,6 +1,5 @@
 +++
 date = ""
-draft = true
 header_image = "/uploads/qi.png"
 short_description = "Our latest escrowed token lets you earn maxinimized QiDai rewards. How's that for a Beefy bonus?"
 sub_header = "Your QiDao rewards just got maximized"

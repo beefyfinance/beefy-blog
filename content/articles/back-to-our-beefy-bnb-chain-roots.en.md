@@ -1,6 +1,5 @@
 +++
 date = 2022-04-22T10:00:00Z
-draft = true
 header_image = "/uploads/bnb_chain.png"
 short_description = "Here are Beefy we don't forget where the whole journey started "
 sub_header = "The Beefy relationship with BNB Chain just gets stronger"
