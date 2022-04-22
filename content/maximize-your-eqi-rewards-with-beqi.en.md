@@ -1,9 +1,9 @@
 +++
-date = ""
+date = 2022-04-22T10:00:00Z
 draft = true
 header_image = "/uploads/qi.png"
-short_description = ""
-sub_header = ""
+short_description = "Our latest escrowed token lets you earn maxinimized QiDai rewards. How's that for a Beefy bonus?"
+sub_header = "Your QiDao rewards just got maximized"
 title = "Maximize your eQI rewards with beQI"
 
 +++
