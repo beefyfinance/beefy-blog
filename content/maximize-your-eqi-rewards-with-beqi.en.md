@@ -17,7 +17,7 @@ Qi is the QiDao community token, QiDao that allows users to borrow USD-pegged st
 
 ### The eQi model
 
-eQi is escrowed Qi, gained when a user stakes Qi. eQi is calculated based on the amount of Qi a user locks and the duration they choose to lock it for. Qi can be locked for up to four years in return for eQI.
+eQi is escrowed Qi, earned when a user stakes Qi. eQi is calculated based on the amount of Qi a user locks and the duration they lock it for. Qi can be locked for up to four years in return for eQi.
 
 Users lock Qi to:
 
