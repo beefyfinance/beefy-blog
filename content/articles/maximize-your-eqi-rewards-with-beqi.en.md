@@ -6,7 +6,6 @@ sub_header = "Your QiDao rewards just got maximized"
 title = "Maximize your eQI rewards with beQI"
 
 +++
-
 ![](/uploads/qi.png)
 
 One key to Beefy’s success is our advanced earning strategies. If you haven’t already noticed, we love a good escrow coin that lets users earn maximized rewards through the collective Cowmoonity power. After binSPIRIT, beFTM, and beJOE, we’ve looked towards QiDao for the next earning opportunity.
@@ -46,4 +45,4 @@ You can mint beQI on the beQI Vault page at a 1:1 ratio. As mentioned, If there 
 
 ### Ramp up your eQi rewards with beQI
 
-Beefy prides itself on having the best DeFi strategies in town. With each new escrowed token, we learn more about what works and what doesn’t. That’s why we’re pleased, confident, and proud to offer the Cowmoonity the latest cutting-edge token for DeFi earners.
+Beefy prides itself on having the best DeFi strategies in town. With each new escrowed token, we learn more about what works and what doesn’t. That’s why we’re pleased, confident, and proud to offer the Cowmoonity the latest cutting-edge token for DeFi earners. 
