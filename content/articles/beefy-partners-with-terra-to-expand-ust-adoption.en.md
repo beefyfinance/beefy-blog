@@ -14,7 +14,7 @@ At Beefy we believe that the future is decentralized, permissionless, trustless,
 
 ### What is Terra?
 
-Terra is a layer 1 blockchain that allows for the creation of fiat-pegged stablecoins. To achieve this, Terra uses a seigniorage mechanism that maintains each stablecoins peg. The blockchain runs with a Delegated Proof of Stake consensus mechanism and has its own native utility token LUNA.
+Terra is a layer 1 blockchain that allows for the creation of fiat-pegged stablecoins. To achieve this, Terra uses a seigniorage mechanism that maintains each stablecoins peg. The blockchain runs with a Delegated Proof of Stake consensus mechanism and has its own native utility token LUNA. 
 
 ### How does TerraUSD (UST) work?
 
