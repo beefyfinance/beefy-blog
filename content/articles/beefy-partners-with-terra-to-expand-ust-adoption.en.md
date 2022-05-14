@@ -1,5 +1,6 @@
 +++
 date = 2022-05-09T04:00:00Z
+draft = true
 header_image = "/uploads/terra.png"
 short_description = "Beefy got granted 400,000 UST, learn how we will use it to expand adoption, strengthen the peg, and educate newcomers."
 sub_header = "Beefy Partners with Terra to expand UST adoption"
