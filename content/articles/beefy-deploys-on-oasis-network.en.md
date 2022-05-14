@@ -6,7 +6,6 @@ sub_header = "Start stacking APY with Beefy on Oasis Network"
 title = "Beefy Deploys on Oasis Network"
 
 +++
-
 ![](/uploads/oasis_3.png)
 
 We’re back again to cure your hunger for chunky APY gains on the most innovative networks. This time, we’ve selected Emerald ParaTime as our target for some serious yield compounding. The Oasis Network is finally getting the Beefy treatment, so make sure you’re ready to take advantage of this new earning opportunity.
@@ -25,9 +24,7 @@ Emerald ParaTime is an EVM-compatible ParaTime that allows for smart contract cr
 
 ### Compound APY through Yuzuswap farms and pools
 
-To start our Oasis Network deployment, we’ve chosen to autocompound on Yuzuswap. [Yuzuswap](https://app.yuzu-swap.com/#/) is the first DEX built on Oasis and offers a Uniswap-style experience. This makes it a great opportunity for Beefy to do what it does best: maximize your Oasis Network yield.
-
-We will start with vaults from Yuzuswap and we most likely get a BIFI-ROSE pair out of the partnership.
+To start our Oasis Network deployment, we’ve chosen to autocompound on Yuzuswap. [Yuzuswap](https://app.yuzu-swap.com/#/) is the first DEX built on Oasis and offers a Uniswap-style experience. This makes it a great opportunity for Beefy to do what it does best: maximize your Oasis Network yield. Our Yuzuswap Vaults could also lead to a BIFI-ROSE pair from the partnership.
 
 ### What Vaults has Beefy launched?
 
