@@ -1,9 +1,8 @@
 +++
 date = 2022-05-14T10:00:00Z
-draft = true
 header_image = "/uploads/oasis_3.png"
-short_description = ""
-sub_header = ""
+short_description = "Be the first to earn maximized yield on Emerald ParaTime with our Beefy Vaults"
+sub_header = "Start stacking APY with Beefy on Oasis Network"
 title = "Beefy Deploys on Oasis Network"
 
 +++
