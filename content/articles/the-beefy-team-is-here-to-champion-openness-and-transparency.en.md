@@ -26,7 +26,7 @@ Snapshot governance also provides a fair way for any Beefy holder to take part i
 
 It’s no secret our smart contracts are fine-tuned earning machines. They’re also no secret period. Our smart contracts are open for users to see, scrutinize, and examine as they wish. With your funds being invested, why shouldn’t you know exactly what we’re doing with them? It’s a cornerstone of our philosophy and platform security, and we’re proud of it.
 
-#### Beefy v2 repo going Open Source
+#### Beefy v2 repo going open Source
 
 Our v2 app came off the back of our multi-chain development. For older users, you may remember switching between different versions to access different chains. Now, our users have a multichain experience within a single app. This involved a huge engineering challenge as the app loads 15 different blockchains at the same time.
 
