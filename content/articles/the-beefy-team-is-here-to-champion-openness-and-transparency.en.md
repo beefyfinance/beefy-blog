@@ -1,15 +1,15 @@
 +++
 date = 2022-06-16T10:00:00Z
 draft = true
-header_image = "/uploads/open.png"
+header_image = "/uploads/everyone.png"
 short_description = "Learn more about the different ways we make sure the Beefy platform lives up to our high standards"
 sub_header = "Creating the open yield optimizer everyone deserve "
 title = "The Beefy team is here to champion openness and transparency"
 
 +++
-![](/uploads/open.png)
+![](/uploads/everyone.png)
 
-The Multichain Yield Optimizer is more than just a collection of smart contracts designed to maximize earnings. It's a platform that embodies the values of transparency and decentralization that cryptocurrency is built up. 
+The Multichain Yield Optimizer is more than just a collection of smart contracts designed to maximize earnings. It's a platform that embodies the values of transparency and decentralization that cryptocurrency is built up.
 
 Therefore, Beefy has always been an open-source protocol with nothing to hide, and no barriers to developmental participation. Beefy also takes this responsibility seriously and we’re here to show it. Our team will always champion openness, security, and transparency in our work for the Cowmoonity.
 
