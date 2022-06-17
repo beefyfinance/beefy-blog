@@ -1,6 +1,5 @@
 +++
 date = 2022-06-16T10:00:00Z
-draft = true
 header_image = "/uploads/everyone.png"
 short_description = "Learn more about the different ways we make sure the Beefy platform lives up to our high standards"
 sub_header = "Creating the open yield optimizer everyone deserve "
