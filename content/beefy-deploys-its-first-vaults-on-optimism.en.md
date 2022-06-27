@@ -46,4 +46,4 @@ For networks that Optimism doesn’t support, you’ll need to pick from an alte
 
 ### Why Beefy chose Optimism
 
-We consider a good amount of things before deploying on a new chain, and Optimism has a few traits that stand out in particular. The rollup has a strong orientation to build public goods, creating a thriving and valuable ecosystem. It’s also heavily governed by its users thanks to the OP airdrop that put the blockchain partly in their hands. Finally, we have a lot of friends there. Many of the projects we’ve already partnered with now have a presence on Optimism, and we’re here to join the party!
+We consider a good amount of things before deploying on a new chain, and Optimism has a few traits that stand out in particular. The rollup has a strong orientation to build public goods, creating a thriving and valuable ecosystem. It’s also heavily governed by its users due to the OP airdrop that put the blockchain partly in their hands. Finally, we have a lot of friends there. Many of the projects we’ve already partnered with now have a presence on Optimism, and we’re here to join the party!
