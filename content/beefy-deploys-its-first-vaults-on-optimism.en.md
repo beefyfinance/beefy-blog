@@ -18,11 +18,9 @@ Validators have a week to flag any rollup if they believe it contains invalid tr
 
 ### How Optimism governance works
 
-The Optimism Collective and Optimism Foundation work together in funding projects and _public goods_ through Optimism’s governance mechanism. Holders of the ERC-20 OP token gain voting rights on proposals and the token will be airdropped to addresses that have engaged in positive community behavior.
+The Optimism Collective and Optimism Foundation work together in funding projects and _public goods_ through Optimism’s governance mechanism. Holders of the ERC-20 OP token gain voting rights on proposals, and the token will be airdropped to addresses that have engaged in positive community behavior.
 
-The Optimism Collective has two chambers: the Citizens’ House and the Token House.
-
-Members of the Citizens’ House have _soulbound_ membership established by a non-transferable NFT. Becoming a member will be determined by the Foundation and Token House (made up of OP token holders).
+The Optimism Collective has two chambers: the Citizens’ House and the Token House. Members of the Citizens’ House have _soulbound_ membership established by a non-transferable NFT. Becoming a member is determined by the Foundation and Token House (made up of OP token holders).
 
 ### What Optimism Vaults are available?
 
