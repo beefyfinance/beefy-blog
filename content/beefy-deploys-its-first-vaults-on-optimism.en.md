@@ -30,13 +30,13 @@ Beefy will start compounding five Beethoven-X LP vaults on Optimism. As always, 
 
 ### How to bridge funds to Optimism
 
-To stake in Beefy’s Optimism Vaults, you’ll need to either purchase Optimism tokens or use the Optimism Bridge. The Optimism Bridge works as an aggregator, combining multiple bridging services. This allows Optimism Bridge to offer the widest range of tokens for bridging if it cannot do it natively itself.
+To stake in Beefy’s Optimism Vaults, you’ll need to either purchase Optimism tokens or use the Optimism Bridge. The Optimism Bridge works as an aggregator, combining multiple bridging services. This allows Optimism Bridge to offer the widest range of tokens for bridging if it can't natively bridge the asset itself.
 
 To use the Bridge, first, connect your wallet.
 
 ![](/uploads/screenshot_2022-06-24_at_17-08-00-1.png)
 
-In the “From” section, you can choose the network and token you want to bridge. In this case, we’re bridging Ether (ERC-20) to Optimism. Simply enter the amount you want to bridge and then confirm the swap.
+In the “From” section, you can choose the network and token you want to bridge. In this case, we’re bridging ether (ERC-20) to Optimism. Simply enter the amount you want to bridge and then confirm the swap.
 
 ![](/uploads/opt2.png)
 
