@@ -24,7 +24,7 @@ The Optimism Collective has two chambers: the Citizens’ House and the Token Ho
 
 ### What Optimism Vaults are available?
 
-Beefy will start compounding five Beethoven-X LP vaults on Optimism. As always, you can Zap into these using just one of the tokens in the LP pool and we’ll do the rest.
+Beefy will start compounding five Beethoven-X LP vaults on Optimism.
 
 ![](/uploads/vaults-1.png)
 
