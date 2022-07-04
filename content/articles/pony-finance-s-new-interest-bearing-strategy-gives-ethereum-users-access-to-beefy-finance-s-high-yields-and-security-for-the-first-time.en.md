@@ -30,7 +30,7 @@ A $PONY investor can check the composition of their investment and any subsequen
 
 ### Enhanced $PONY yields made possible by Beefy Vaults
 
-$PONY relies on Beefy Vaults to earn optimized yields whilst maintaining the highest levels of security. In a Beefy Vault, investors earn more of their staked asset by automatically compounding gains.
+$PONY relies on Beefy Vaults to earn optimized yields whilst maintaining the highest levels of security. In a Beefy Vault, investors earn more of their staked assets by automatically compounding gains.
 
 Any associated costs are shared by Vault investors, significantly lowering the fees and time needed in comparison to manually reinvesting. With Beefy, you can earn maximized yields on a variety of trusted platforms including Curve, Trader Joe, and QuickSwap among others.
 
