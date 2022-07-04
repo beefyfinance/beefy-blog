@@ -1,6 +1,5 @@
 +++
 date = 2022-07-04T10:00:00Z
-draft = true
 header_image = "/uploads/partnerships1.png"
 short_description = "Pony Finance's new interest-bearing strategy gives Ethereum users access to Beefy Finance yields and security."
 sub_header = "Beefy and PONY Finance partner to create a Passive Omnichain Net Yield Index"
