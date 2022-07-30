@@ -13,7 +13,7 @@ As with most major operative Beefy decisions, the change was planned and coordin
 
 Previously, the majority of the performance fee was distributed to $BIFI stakers in the $BIFI Maxi Vault and $BIFI Earnings pool. The new split and raise will, however, give the treasury a larger share of the fee and to strengthen the sustainability of the platform. This fact is key to Beefy having the resources needed to grow and fund its development and marketing activities.
 
-An updated 63/36 fee-batch split of the 9.5% performance fee will also ensure no noticeable impact for $BIFI stakers. This simply means that 64% of a Vault’s revenue will go to Beefy’s treasury and 36% to BIFI Stakers (the fee-batch split).
+An updated 63/36 fee-batch split of the 9.5% performance fee will also ensure no noticeable impact for $BIFI stakers. This simply means that 64% of a Vault’s revenue will go to Beefy’s treasury and 36% to BIFI stakers (the fee-batch split).
 
 Apart from applying to the top 20 - 50 Vaults, all new Vaults will follow the updated structure. Older Vaults not in these categories will maintain their legacy rate with a 4.5% fee.
 
